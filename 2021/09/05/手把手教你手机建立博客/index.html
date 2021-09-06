@@ -45,7 +45,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://i.loli.net/2021/09/05/9FeWY8hDVNozqm1.jpg">
 <meta property="article:published_time" content="2021-09-05T07:03:47.000Z">
-<meta property="article:modified_time" content="2021-09-05T10:18:55.560Z">
+<meta property="article:modified_time" content="2021-09-05T13:11:21.343Z">
 <meta property="article:author" content="Lin">
 <meta property="article:tag" content="hexo">
 <meta property="article:tag" content="termux">
@@ -211,7 +211,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2021-09-05 15:03:47 / 修改时间：18:18:55" itemprop="dateCreated datePublished" datetime="2021-09-05T15:03:47+08:00">2021-09-05</time>
+              <time title="创建时间：2021-09-05 15:03:47 / 修改时间：21:11:21" itemprop="dateCreated datePublished" datetime="2021-09-05T15:03:47+08:00">2021-09-05</time>
             </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -249,11 +249,13 @@
 <h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><h2 id="安装运行环境"><a href="#安装运行环境" class="headerlink" title="安装运行环境"></a>安装运行环境</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">pkg install git</span><br><span class="line">pkg install nodejs</span><br><span class="line">pkg imstall nodejs-cli</span><br></pre></td></tr></table></figure>
 <h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
 <p>安装完成之后，使用 <code>hexo -v</code> 查看当前版本，若能查看版本号，则安装成功</p>
-<h1 id="正式建站"><a href="#正式建站" class="headerlink" title="正式建站"></a>正式建站</h1><p>挑选一个风水宝地，作为博客搭建的文件夹</p>
+<h1 id="正式建站"><a href="#正式建站" class="headerlink" title="正式建站"></a>正式建站</h1><h2 id="选择路径"><a href="#选择路径" class="headerlink" title="选择路径"></a>选择路径</h2><p>挑选一个风水宝地，作为博客搭建的文件夹</p>
 <blockquote>
-<p>未设置，则在</p>
+<p>未设置，则在Termux的加目录下创建文件(/date/date/com.termux/files/home)</p>
 </blockquote>
-
+<p>推荐使用内置存储目录</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /storage/emulated/0</span><br></pre></td></tr></table></figure>
+<h2 id="创建Hexo目录"><a href="#创建Hexo目录" class="headerlink" title="创建Hexo目录"></a>创建Hexo目录</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog  <span class="comment">#(blog可替换成自己喜欢的名字)</span></span><br></pre></td></tr></table></figure>
     </div>
 
     
@@ -382,7 +384,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Hexo"><span class="nav-number">1.</span> <span class="nav-text">Hexo</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%89%B9%E7%82%B9"><span class="nav-number">1.1.</span> <span class="nav-text">特点</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3"><span class="nav-number">1.2.</span> <span class="nav-text">官方文档</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA"><span class="nav-number">2.</span> <span class="nav-text">环境搭建</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%89%E8%A3%85%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83"><span class="nav-number">2.1.</span> <span class="nav-text">安装运行环境</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%89%E8%A3%85Hexo"><span class="nav-number">2.2.</span> <span class="nav-text">安装Hexo</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%AD%A3%E5%BC%8F%E5%BB%BA%E7%AB%99"><span class="nav-number">3.</span> <span class="nav-text">正式建站</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Hexo"><span class="nav-number">1.</span> <span class="nav-text">Hexo</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%89%B9%E7%82%B9"><span class="nav-number">1.1.</span> <span class="nav-text">特点</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3"><span class="nav-number">1.2.</span> <span class="nav-text">官方文档</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA"><span class="nav-number">2.</span> <span class="nav-text">环境搭建</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%89%E8%A3%85%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83"><span class="nav-number">2.1.</span> <span class="nav-text">安装运行环境</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%AE%89%E8%A3%85Hexo"><span class="nav-number">2.2.</span> <span class="nav-text">安装Hexo</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%AD%A3%E5%BC%8F%E5%BB%BA%E7%AB%99"><span class="nav-number">3.</span> <span class="nav-text">正式建站</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%80%89%E6%8B%A9%E8%B7%AF%E5%BE%84"><span class="nav-number">3.1.</span> <span class="nav-text">选择路径</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%88%9B%E5%BB%BAHexo%E7%9B%AE%E5%BD%95"><span class="nav-number">3.2.</span> <span class="nav-text">创建Hexo目录</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -460,7 +462,7 @@
   
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">QAQ我为这个网站打了1.8k个字</span>
+  <span class="post-count">QAQ我为这个网站打了1.9k个字</span>
 </div>
 
         
