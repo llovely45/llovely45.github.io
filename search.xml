@@ -66,7 +66,7 @@
 <p>也可以去小网站白嫖二级域名，缺点是不稳定</p>
 </blockquote>
 <p>接下来以腾讯云为例</p>
-<h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><ul>
+<h2 id="购买域名-腾讯云为例"><a href="#购买域名-腾讯云为例" class="headerlink" title="购买域名(腾讯云为例)"></a>购买域名(腾讯云为例)</h2><ul>
 <li>打开<code>微信</code>，搜索<code>腾讯云助手</code></li>
 </ul>
 <div align= center>
@@ -83,7 +83,7 @@
 <ul>
 <li>完成购买</li>
 </ul>
-<h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><ul>
+<h1 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h1><ul>
 <li>打开<code>腾讯云助手</code>，点击下方<code>管理</code>，找到<code>我的域名</code></li>
 </ul>
 <div align= center>
@@ -103,11 +103,11 @@
 <li><p>保存</p>
 </li>
 </ul>
-<h2 id="GitHub设置"><a href="#GitHub设置" class="headerlink" title="GitHub设置"></a>GitHub设置</h2><p>进入github你托管博客的那个项目，点<code>Setting</code>，<code>GitHub Pages</code> ，<code>Custom domain</code>， 输入你的域名，点<code>save</code>。暂时搞定。</p>
+<h1 id="GitHub设置"><a href="#GitHub设置" class="headerlink" title="GitHub设置"></a>GitHub设置</h1><p>进入github你托管博客的那个项目，点<code>Setting</code>，<code>GitHub Pages</code> ，<code>Custom domain</code>， 输入你的域名，点<code>save</code>。暂时搞定。</p>
 <blockquote>
 <p>此时，不能使用hexo d命令，不然会覆盖文件</p>
 </blockquote>
-<h2 id="本地博客设置"><a href="#本地博客设置" class="headerlink" title="本地博客设置"></a>本地博客设置</h2><p>打开你的博客站点目录，打开<code>source</code>文件夹，<code>右键</code>创建一个新的文本文档文件，打开输入你的域名，重命名去除后缀，并改名为<code>CNAME</code></p>
+<h1 id="本地博客设置"><a href="#本地博客设置" class="headerlink" title="本地博客设置"></a>本地博客设置</h1><p>打开你的博客站点目录，打开<code>source</code>文件夹，<code>右键</code>创建一个新的文本文档文件，打开输入你的域名，重命名去除后缀，并改名为<code>CNAME</code></p>
 <p>到这已经完成了所有的教程，感谢您的阅读！</p>
 ]]></content>
       <categories>
