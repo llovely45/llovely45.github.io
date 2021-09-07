@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/08/23/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>玩转终端模拟器</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>好图分享01</title>
+    <url>/2021/09/06/%E5%A5%BD%E5%9B%BE%E5%88%86%E4%BA%AB01/</url>
+    <content><![CDATA[<div align= center>
+<img src=https://i.loli.net/2021/09/06/5J7zfH4OmAQ29cy.jpg width=15% />
+</div>
+快进来康康！！
+<span id="more"></span>
+
+<p><img src="https://i.loli.net/2021/09/06/5J7zfH4OmAQ29cy.jpg"></p>
+<p><img src="https://i.loli.net/2021/09/06/QJb5lY29IR4pFKr.jpg"></p>
+<p><img src="https://i.loli.net/2021/09/06/vjHrE8XcP4BIV1b.jpg"></p>
+<p><img src="https://i.loli.net/2021/09/06/VReLoCW9XtIUyOi.jpg"></p>
+<p><img src="https://i.loli.net/2021/09/06/jCflhTMNZRY7OXd.jpg"></p>
+<p><img src="https://i.loli.net/2021/09/06/bx1C4FhZGpaPjUN.jpg"></p>
+<p><img src="https://i.loli.net/2021/09/06/DNL4FUGvHXQ9ngh.jpg"></p>
+]]></content>
+      <categories>
+        <category>好图分享</category>
+      </categories>
+      <tags>
+        <tag>壁纸</tag>
+        <tag>好图分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo绑定个人域名</title>
+    <url>/2021/09/07/%E7%BB%91%E5%AE%9A%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D/</url>
+    <content><![CDATA[<div align= center>
+<img src=https://i.loli.net/2021/09/07/8zCOtuJ94XNL6Ai.png>
+</div>
+接下来会给大家讲解怎么让博客解析到自己的域名上，实现用自己的域名来浏览博客网站的内容
+
+<span id="more"></span>
+
+<h1 id="获得一个域名"><a href="#获得一个域名" class="headerlink" title="获得一个域名"></a>获得一个域名</h1><p>域名不是凭空就从你手里捏造出来的，所以，我们要通过各大渠道进行购买。</p>
+<blockquote>
+<p>也可以去小网站白嫖二级域名，缺点是不稳定</p>
+</blockquote>
+<p>接下来以腾讯云为例</p>
+<h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><ul>
+<li>打开<code>微信</code>，搜索<code>腾讯云助手</code></li>
+</ul>
+<div align= center>
+<img src=https://i.loli.net/2021/09/07/ygrNCWB5JsqOYER.jpg width=50%>
+</div>
+
+<ul>
+<li>点击主页的域名注册</li>
+</ul>
+<div align= center>
+<img src=https://i.loli.net/2021/09/07/c37yYQHsnu1JPAg.jpg width=50%>
+</div>
+
+<ul>
+<li>完成购买</li>
+</ul>
+<h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><ul>
+<li>打开<code>腾讯云助手</code>，点击下方<code>管理</code>，找到<code>我的域名</code></li>
+</ul>
+<div align= center>
+<img src=https://i.loli.net/2021/09/07/M4iSLkxXQVZbmKs.jpg width=50%>
+</div>
+
+<ul>
+<li>进入<code>DNSPod控制台</code>，选择刚才购买的域名，点击<code>解析</code></li>
+</ul>
+<div align= center>
+<img src=https://i.loli.net/2021/09/07/YeAdTipOrbSxV9v.jpg width=50%>
+</div>
+
+<ul>
+<li><p>添加解析记录，记录类型<code>CNAME</code>，主机记录<code>@</code>，记录值<code>yourname.github.io</code></p>
+</li>
+<li><p>保存</p>
+</li>
+</ul>
+<h2 id="GitHub设置"><a href="#GitHub设置" class="headerlink" title="GitHub设置"></a>GitHub设置</h2><p>进入github你托管博客的那个项目，点<code>Setting</code>，<code>GitHub Pages</code> ，<code>Custom domain</code>， 输入你的域名，点<code>save</code>。暂时搞定。</p>
+<blockquote>
+<p>此时，不能使用hexo d命令，不然会覆盖文件</p>
+</blockquote>
+<h2 id="本地博客设置"><a href="#本地博客设置" class="headerlink" title="本地博客设置"></a>本地博客设置</h2><p>打开你的博客站点目录，打开<code>source</code>文件夹，<code>右键</code>创建一个新的文本文档文件，打开输入你的域名，重命名去除后缀，并改名为<code>CNAME</code></p>
+<p>到这已经完成了所有的教程，感谢您的阅读！</p>
+]]></content>
+      <categories>
+        <category>玩转终端模拟器</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>移动端</tag>
+        <tag>PC端</tag>
+        <tag>Termux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>初识termux</title>
+    <url>/2021/09/02/%E5%88%9D%E8%AF%86termux/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2021/09/02/zU7mdbW1M9J8H4E.png" alt="15251875958364"></p>
+<h1 id="Termux-简介"><a href="#Termux-简介" class="headerlink" title="Termux 简介"></a>Termux 简介</h1><p>Termux 是一个 Android 下一个高级的终端模拟器，开源且不需要 root，支持 apt 管理软件包，十分方便安装软件包，完美支持 Python、 PHP、 Ruby、 Nodejs、 MySQL等。随着智能设备的普及和性能的不断提升，如今的手机、平板等的硬件标准已达到了初级桌面计算机的硬件标准，用心去打造 DIY 的话完全可以把手机变成一个强大的极客工具。  </p>
+<span id="more"></span>
+<blockquote>
+<p>感谢国光大佬的文章，本文部分内容出自国光的博客</p>
+</blockquote>
+<h2 id="文档相关"><a href="#文档相关" class="headerlink" title="文档相关"></a>文档相关</h2><ul>
+<li><a href="https://termux.com/">Termux官网</a></li>
+<li><a href="https://github.com/termux/termux-app">Github项目地址</a></li>
+<li><a href="https://wiki.termux.com/wiki/Main_Page">WIKI官方文档 英文版</a></li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
+<li><a href="https://f-droid.org/packages/com.termux/">F-Droid 下载地址</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.termux">Google Play 下载地址</a></li>
+<li><a href="https://www.coolapk.com/apk/com.termux">酷安 下载地址</a></li>
+<li><a href="https://pan.baidu.com/s/1jUu2KLp0KfI2ltRLYQm8rA">UTermux汉化版 下载地址</a><blockquote>
+<p>提取码:1234  </p>
+</blockquote>
+</li>
+</ul>
+<h2 id="初始化"><a href="#初始化" class="headerlink" title="初始化"></a>初始化</h2><p>第一次启动Termux的时候需要从远程服务器加载数据，然而可能会遇到这种问题：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Ubable to install</span><br><span class="line">Termux was unable to install the bootstrap packages.</span><br><span class="line">Check your network connection and try again.</span><br></pre></td></tr></table></figure>
+
+<div align= center>
+<img src=https://i.loli.net/2021/09/02/jM7cnWh2YK4AFDL.png width=60% />
+</div>
+
+<p>解决的办法有三种：  </p>
+<ol>
+<li>通过科学上网</li>
+<li>如果是WiFi，请尝试切换到运营商流量</li>
+<li>更换国内酷安渠道下载</li>
+</ol>
+<p>还是不行，那就换手机吧 :)</p>
+<hr>
+<h1 id="基本操作"><a href="#基本操作" class="headerlink" title="基本操作"></a>基本操作</h1><p>磨刀不误砍柴工</p>
+<!--more-->
+
+<h2 id="缩放文本"><a href="#缩放文本" class="headerlink" title="缩放文本"></a>缩放文本</h2><p>双指闭合和张开，调整字体大小。对，就像放大缩小图片那样操作。</p>
+<h2 id="菜单栏"><a href="#菜单栏" class="headerlink" title="菜单栏"></a>菜单栏</h2><p>长按屏幕，调出菜单栏选项(复制，粘贴以及更多)，方便我们更好的去使用Termux终端</p>
+<div align= center>
+<img src=https://i.loli.net/2021/09/02/VFdjaq2gzyDmufH.png width=60% />
+</div>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">长按屏幕</span><br><span class="line">├── COPY:    <span class="comment"># 复制</span></span><br><span class="line">├── PASTE:   <span class="comment"># 粘贴</span></span><br><span class="line">├── More:    <span class="comment"># 更多</span></span><br><span class="line">   ├── Select URL:             <span class="comment"># 提取屏幕所有网址</span></span><br><span class="line">   └── Share transcipt:        <span class="comment"># 分享命令脚本</span></span><br><span class="line">   └── Reset:                  <span class="comment"># 重置</span></span><br><span class="line">   └── Kill process:           <span class="comment"># 杀掉当前会话进程</span></span><br><span class="line">   └── Style:                  <span class="comment"># 风格配色 需要自行安装</span></span><br><span class="line">   └── Keep screen on:         <span class="comment"># 保持屏幕常亮</span></span><br><span class="line">   └── Help:                   <span class="comment"># 帮助文档</span></span><br></pre></td></tr></table></figure>
+<h2 id="会话管理"><a href="#会话管理" class="headerlink" title="会话管理"></a>会话管理</h2><p>显示隐藏式导航栏，可以新建、切换、重命名会话 session 和调用弹出输入法：</p>
+<div align= center>
+<img src=https://i.loli.net/2021/09/02/hRPkEzGbv4Qntry.png width=60% />
+</div>
+
+<blockquote>
+<p>多个会话可同时在后台运行</p>
+</blockquote>
+<p>同时菜单栏显示当前会话数</p>
+<div align= center>
+<img src=https://i.loli.net/2021/09/02/KwraoDyjXtYZx86.png width=60% />
+</div>
+
+<h2 id="常用按键"><a href="#常用按键" class="headerlink" title="常用按键"></a>常用按键</h2><p>常用键是 PC 端常用的按键如: ESC键、Tab 键、CTR 键、ALT 键，有了这些按键后可以提高我们日常操作的效率。</p>
+<p>打开和隐藏这个扩展功能按键目前有下面两种方法：</p>
+<ul>
+<li>方法一<br>从左向右滑动，显示隐藏式导航栏，长按左下角<code>KEYBOARD</code></li>
+<li>方法二<br>使用Termux快捷键:<code>音量+</code>+<code>Q</code>键 或者<code> 音量+</code>+<code>K</code>键</li>
+</ul>
+<h2 id="快捷键表"><a href="#快捷键表" class="headerlink" title="快捷键表"></a>快捷键表</h2><p>Ctrl键是终端用户常用的按键，但大多数触摸键盘都没有这个按键，因此 Termux 使用音量减小按钮来模拟Ctrl键。<br>例如，在触摸键盘上按音量减小+ L就相当于是键盘上按Ctrl + L的效果一样，达到清屏的效果。</p>
+<ul>
+<li><code>Ctrl</code> + <code>A</code> -&gt; 将光标移动到行首</li>
+<li><code>Ctrl</code> + <code>C</code> -&gt; 中止当前进程</li>
+<li><code>Ctrl</code> + <code>D</code> -&gt; 注销终端会话</li>
+<li><code>Ctrl</code> + <code>E</code> -&gt; 将光标移动到行尾</li>
+<li><code>Ctrl</code> + <code>K</code> -&gt; 从光标删除到行尾</li>
+<li><code>Ctrl</code> + <code>U</code> -&gt; 从光标删除到行首</li>
+<li><code>Ctrl</code> + <code>L</code> -&gt; 清除终端</li>
+<li><code>Ctrl</code> + <code>Z</code> -&gt; 挂起（发送SIGTSTP到）当前进程</li>
+<li><code>Ctrl</code> + <code>alt</code> + <code>C</code> -&gt; 打开新会话（仅适用于 黑客键盘）</li>
+</ul>
+<p>音量加键也可以作为产生特定输入的特殊键.</p>
+<ul>
+<li><code>音量加</code> + <code>E</code> -&gt; Esc键</li>
+<li><code>音量加</code> + <code>T</code> -&gt; Tab键</li>
+<li><code>音量加</code> + <code>1</code> -&gt; F1（音量增加 + 2 → F2…以此类推）</li>
+<li><code>音量加</code> + <code>0</code> -&gt; F10</li>
+<li><code>音量加</code> + <code>B</code> -&gt; Alt + B，使用readline时返回一个单词</li>
+<li><code>音量加</code> + <code>F</code> -&gt; Alt + F，使用readline时转发一个单词</li>
+<li><code>音量加</code> + <code>X</code> -&gt; Alt+X</li>
+<li><code>音量加</code> + <code>W</code> -&gt; 向上箭头键</li>
+<li><code>音量加</code> + <code>A</code> -&gt; 向左箭头键</li>
+<li><code>音量加</code> + <code>S</code> -&gt; 向下箭头键</li>
+<li><code>音量加</code> + <code>D</code> -&gt; 向右箭头键</li>
+<li><code>音量加</code> + <code>L</code> -&gt; | （管道字符）</li>
+<li><code>音量加</code> + <code>H</code> -&gt; 〜（波浪号字符）</li>
+<li><code>音量加</code> + <code>U</code> -&gt; _ (下划线字符)</li>
+<li><code>音量加</code> + <code>P</code> -&gt; 上一页</li>
+<li><code>音量加</code> + <code>N</code> -&gt; 下一页</li>
+<li><code>音量加</code> + <code>.</code> -&gt; Ctrl + \（SIGQUIT）</li>
+<li><code>音量加</code> + <code>V</code> -&gt; 显示音量控制</li>
+<li><code>音量加</code> + <code>Q</code> -&gt; 切换显示的功能键视</li>
+<li><code>音量加</code> + <code>K</code> -&gt; 切换显示的功能键视图</li>
+</ul>
+<p>快捷键用的熟悉的话也可以极大提高操作的效率。</p>
+<h2 id="基础知识-amp-amp-基本命令"><a href="#基础知识-amp-amp-基本命令" class="headerlink" title="基础知识 &amp;&amp; 基本命令"></a>基础知识 &amp;&amp; 基本命令</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pkg search &lt;query&gt;              <span class="comment"># 搜索包</span></span><br><span class="line">pkg install &lt;package&gt;           <span class="comment"># 安装包</span></span><br><span class="line">pkg uninstall &lt;package&gt;         <span class="comment"># 卸载包</span></span><br><span class="line">pkg reinstall &lt;package&gt;         <span class="comment"># 重新安装包</span></span><br><span class="line">pkg update                      <span class="comment"># 更新源</span></span><br><span class="line">pkg upgrade                     <span class="comment"># 升级软件包</span></span><br><span class="line">pkg list-all                    <span class="comment"># 列出可供安装的所有包</span></span><br><span class="line">pkg list-installed              <span class="comment"># 列出已经安装的包</span></span><br><span class="line">pkg show &lt;package&gt;              <span class="comment"># 显示某个包的详细信息</span></span><br><span class="line">pkg files &lt;package&gt;             <span class="comment"># 显示某个包的相关文件夹路径</span></span><br><span class="line">ls  				<span class="comment"># 查看当前目录下的文件</span></span><br><span class="line"><span class="built_in">pwd</span>  				<span class="comment"># 查看当前所在目录</span></span><br><span class="line"><span class="built_in">cd</span>  				<span class="comment"># 打开指定目录</span></span><br><span class="line">ifconfig  			<span class="comment"># 查看当前设备网卡信息</span></span><br></pre></td></tr></table></figure>
+<h1 id="进阶操作"><a href="#进阶操作" class="headerlink" title="进阶操作"></a>进阶操作</h1><h2 id="挂在内置储存目录"><a href="#挂在内置储存目录" class="headerlink" title="挂在内置储存目录"></a>挂在内置储存目录</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">termux-setup-storage</span><br></pre></td></tr></table></figure>
+
+<p>输入这行代码，并授权，则可以正常访问内置存储空间</p>
+<h2 id="换源"><a href="#换源" class="headerlink" title="换源"></a>换源</h2><p>官方的更新源，通常因为长城的原因，所以访问速度缓慢。因此，我们需要将下载源换成国内源</p>
+<h3 id="清华大学源"><a href="#清华大学源" class="headerlink" title="清华大学源"></a>清华大学源</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sed -i <span class="string">&#x27;s@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main@&#x27;</span> <span class="variable">$PREFIX</span>/etc/apt/sources.list</span><br><span class="line">sed -i <span class="string">&#x27;s@^\(deb.*games stable\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/game-packages-24 games stable@&#x27;</span> <span class="variable">$PREFIX</span>/etc/apt/sources.list.d/game.list</span><br><span class="line">sed -i <span class="string">&#x27;s@^\(deb.*science stable\)$@#\1\ndeb https://mirrors.tuna.tsinghua.edu.cn/termux/science-packages-24 science stable@&#x27;</span> <span class="variable">$PREFIX</span>/etc/apt/sources.list.d/science.list</span><br><span class="line">apt update &amp;&amp; apt upgrade</span><br></pre></td></tr></table></figure>
+<h3 id="北京外国语大学源"><a href="#北京外国语大学源" class="headerlink" title="北京外国语大学源"></a>北京外国语大学源</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sed -i <span class="string">&#x27;s@^\(deb.*stable main\)$@#\1\ndeb https://mirrors.bfsu.edu.cn/termux/termux-packages-24 stable main@&#x27;</span> <span class="variable">$PREFIX</span>/etc/apt/sources.list</span><br><span class="line">sed -i <span class="string">&#x27;s@^\(deb.*games stable\)$@#\1\ndeb https://mirrors.bfsu.edu.cn/termux/game-packages-24 games stable@&#x27;</span> <span class="variable">$PREFIX</span>/etc/apt/sources.list.d/game.list</span><br><span class="line">sed -i <span class="string">&#x27;s@^\(deb.*science stable\)$@#\1\ndeb https://mirrors.bfsu.edu.cn/termux/science-packages-24 science stable@&#x27;</span> <span class="variable">$PREFIX</span>/etc/apt/sources.list.d/science.list</span><br><span class="line">apt update &amp;&amp; apt upgrade</span><br></pre></td></tr></table></figure>
+<p>以上复制其一，到Termux回车执行，便可更新源。</p>
+<blockquote>
+<p>正规渠道的更新源，对于某些软件会造成缺失和功能不全的问题，有能力或者特殊需要，可以尝试购买淘宝源  </p>
+</blockquote>
+<h2 id="代码高亮-amp-amp-自动补全"><a href="#代码高亮-amp-amp-自动补全" class="headerlink" title="代码高亮 &amp;&amp; 自动补全"></a>代码高亮 &amp;&amp; 自动补全</h2><p>因为我用的是UTermux，内置代码高亮和补全，再加上代码高亮和补全实在要安装库和修改配置，所以就不放教程了。有需要可以去看CSDN的教程。<br><a href="https://blog.csdn.net/DANGDIWEI/article/details/108892880">点我跳转</a></p>
+]]></content>
+      <categories>
+        <category>玩转终端模拟器</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>移动端</tag>
+        <tag>termux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>手把手教你手机建立博客</title>
+    <url>/2021/09/05/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%89%8B%E6%9C%BA%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<img src="https://i.loli.net/2021/09/05/9FeWY8hDVNozqm1.jpg" alt="ims_kt=url&at=ori&key=aHR0cDovL3d3dy53dXh1YmouY24vaW1hZ2VzLzIwMTYwOC8wMDEuanBn&sign=yx:iXH81C-D4rY5FrJP8kDUwp4TU_I=&tv=0_0.jpg">
+Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
+
+<span id="more"></span>
+
+<h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>简洁，高效，众多开源模板，易于搭建，拥有众多教程</p>
+<h2 id="官方文档"><a href="#官方文档" class="headerlink" title="官方文档"></a>官方文档</h2><p>任何开源项目，首先都要了解作者推荐的使用方法<br><a href="https://hexo.io/docs/index.html">官方原版文档</a><br><a href="https://hexo.io/zh-cn/docs/index.html">官方中文文档</a></p>
+<h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><h2 id="安装运行环境"><a href="#安装运行环境" class="headerlink" title="安装运行环境"></a>安装运行环境</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pkg install git</span><br><span class="line">pkg install nodejs</span><br><span class="line">pkg imstall nodejs-cli</span><br></pre></td></tr></table></figure>
+<h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+<p>安装完成之后，使用 <code>hexo -v</code> 查看当前版本，若能查看版本号，则安装成功</p>
+<h1 id="正式建站"><a href="#正式建站" class="headerlink" title="正式建站"></a>正式建站</h1><h2 id="选择路径"><a href="#选择路径" class="headerlink" title="选择路径"></a>选择路径</h2><p>挑选一个风水宝地，作为博客搭建的文件夹</p>
+<blockquote>
+<p>未设置，则在Termux的加目录下创建文件(/date/date/com.termux/files/home)</p>
+</blockquote>
+<p>推荐使用内置存储目录</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> /storage/emulated/0</span><br></pre></td></tr></table></figure>
+<h2 id="创建Hexo目录"><a href="#创建Hexo目录" class="headerlink" title="创建Hexo目录"></a>创建Hexo目录</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init blog  <span class="comment">#(blog可替换成自己喜欢的名字)</span></span><br></pre></td></tr></table></figure>
+<h2 id="升级-补全环境"><a href="#升级-补全环境" class="headerlink" title="升级/补全环境"></a>升级/补全环境</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure>
+<h2 id="生成-渲染-静态页面"><a href="#生成-渲染-静态页面" class="headerlink" title="生成(渲染)静态页面"></a>生成(渲染)静态页面</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo g</span><br></pre></td></tr></table></figure>
+<h2 id="部署到本地4000端口"><a href="#部署到本地4000端口" class="headerlink" title="部署到本地4000端口"></a>部署到本地4000端口</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+<h1 id="本地浏览"><a href="#本地浏览" class="headerlink" title="本地浏览"></a>本地浏览</h1><p>本地浏览是Hexo的一个重要功能。可以通过本地浏览，来预览页面，并及时修改错误。</p>
+<h2 id="链接-http-localhost-4000"><a href="#链接-http-localhost-4000" class="headerlink" title="链接: http://localhost:4000"></a>链接: <a href="http://localhost:4000/">http://localhost:4000</a></h2>]]></content>
+      <categories>
+        <category>玩转终端模拟器</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>移动端</tag>
+        <tag>termux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电脑搭建博客</title>
+    <url>/2021/09/06/%E7%94%B5%E8%84%91%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<img src="https://i.loli.net/2021/09/05/9FeWY8hDVNozqm1.jpg" alt="ims_kt=url&at=ori&key=aHR0cDovL3d3dy53dXh1YmouY24vaW1hZ2VzLzIwMTYwOC8wMDEuanBn&sign=yx:iXH81C-D4rY5FrJP8kDUwp4TU_I=&tv=0_0.jpg">
+这里将会详细介绍怎么在电脑上建立一个属于自己的本地博客
+
+<span id="more"></span>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>如果你和我一样是小白，那么恭喜你！看完这篇文章，你也可以拥有一个<a href="https://llovely45.github.io/">这样的博客</a>啦！</p>
+<h1 id="Hexo博客搭建"><a href="#Hexo博客搭建" class="headerlink" title="Hexo博客搭建"></a>Hexo博客搭建</h1><h2 id="准备环境"><a href="#准备环境" class="headerlink" title="准备环境"></a>准备环境</h2><p><a href="http://nodejs.cn/download/">Node.js</a> 下载并安装。</p>
+<p><a href="https://git-scm.com/downloads">Git</a> 下载并安装。</p>
+<h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>打开一个文件夹，右键单击，选择<code>Git Bash</code>,在命令行（即Git Bash）运行以下命令：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+<p>初始化Hexo，在命令行（即Git Bash）依次运行以下命令即可：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo init &lt;folder&gt;</span><br><span class="line">$ <span class="built_in">cd</span> &lt;folder&gt;</span><br><span class="line">$ npm install</span><br></pre></td></tr></table></figure>
+<p><code>&lt;folder&gt;</code>即存放Hexo初始化文件的路径， 即站点目录,可自行更改名字，一般使用<code>blog</code>。<br>新建完成后，在路径下，会产生这些文件和文件夹：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── _config.yml</span><br><span class="line">├── package.json</span><br><span class="line">├── scaffolds</span><br><span class="line">├── <span class="built_in">source</span></span><br><span class="line">|   ├── _drafts</span><br><span class="line">|   └── _posts</span><br><span class="line">└── themes</span><br></pre></td></tr></table></figure>
+<h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1><ol>
+<li><p>hexo相关命令均在站点目录下，用Git Bash运行。</p>
+</li>
+<li><p>站点配置文件：即站点目录下的_config.yml。路径为<folder>_config.yml</p>
+</li>
+<li><p>主题配置文件：站点目录下的themes文件夹下的，主题文件夹下的_config.yml。<br>路径为<folder>\themes&lt;主题文件夹&gt;_config.yml</p>
+</li>
+</ol>
+<h1 id="启动服务"><a href="#启动服务" class="headerlink" title="启动服务"></a>启动服务</h1><p>在站点目录下，命令行（即Git Bash）输入以下命令，运行即可：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server  <span class="comment">#或者hexo s</span></span><br></pre></td></tr></table></figure>
+<p>浏览器访问网址： <a href="http://localhost:4000/">http://localhost:4000/</a></p>
+]]></content>
+      <categories>
+        <category>玩转终端模拟器</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>PC端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>部署Hexo到远程仓库</title>
+    <url>/2021/09/06/%E9%83%A8%E7%BD%B2Hexo%E5%88%B0%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</url>
+    <content><![CDATA[<img src="https://i.loli.net/2021/09/05/9FeWY8hDVNozqm1.jpg" alt="ims_kt=url&at=ori&key=aHR0cDovL3d3dy53dXh1YmouY24vaW1hZ2VzLzIwMTYwOC8wMDEuanBn&sign=yx:iXH81C-D4rY5FrJP8kDUwp4TU_I=&tv=0_0.jpg">
+本文将介绍怎么将本地端的博客部署到线上
+<span id="more"></span>
+
+<h1 id="GitHub创建个人仓库"><a href="#GitHub创建个人仓库" class="headerlink" title="GitHub创建个人仓库"></a>GitHub创建个人仓库</h1><blockquote>
+<p>实在看不懂英文，请打开浏览器自带的翻译选项</p>
+</blockquote>
+<ol>
+<li><p>首先，你先要有一个GitHub账户，去注册一个吧。</p>
+</li>
+<li><p>注册完登录后，在GitHub.com中看到一个New repository，新建仓库</p>
+</li>
+<li><p>创建一个和你用户名相同的仓库，后面加.github.io，(格式:username.github.io)</p>
+</li>
+<li><p>点击create repository，完成仓库的建立</p>
+</li>
+</ol>
+<h1 id="生成SSH"><a href="#生成SSH" class="headerlink" title="生成SSH"></a>生成SSH</h1><p>回到你的站点目录中</p>
+<blockquote>
+<p>手机直接termux打开你的博客目录，电脑则在博客目录打开Git Bash</p>
+</blockquote>
+<p>输入以下命令（注意: yourname和youremail替换成你注册GitHub时的用户名和邮箱 ）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;youremail&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>接着可以用以下两条，检查一下你有没有输对</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure>
+<p>然后创建SSH</p>
+<blockquote>
+<p>Termux先要输入<code>pkg install openssh</code>安装软件包</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;youremail&quot;</span></span><br></pre></td></tr></table></figure>
+<p>一路回车，如果提示选项，则输入yes</p>
+<p>ssh，简单来讲，就是一个秘钥，其中，id_rsa是你这台电脑的私人秘钥，不能给别人看的，id_rsa.pub是公共秘钥，可以随便给别人看。把这个公钥放在GitHub上，这样当你链接GitHub自己的账户时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过git上传你的文件到GitHub上。</p>
+<h1 id="添加SSH到GitHub"><a href="#添加SSH到GitHub" class="headerlink" title="添加SSH到GitHub"></a>添加SSH到GitHub</h1><ol>
+<li><p>输入<code>cat ~/.ssh/id_rsa.pub</code>，然后复制全文 </p>
+</li>
+<li><p>而后在GitHub的setting中，找到SSH keys的设置选项，点击New SSH key<br>把你的id_rsa.pub里面的信息复制进去。</p>
+</li>
+<li><p>在命令行中，查看是否成功</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+<p>老样子，一路回车，有yes输yes</p>
+</li>
+</ol>
+<p>看到类似于下面这行话，说明成功了</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Hi yourname! You<span class="string">&#x27;ve successfully authenticated, but GitHub does not provide shell access.</span></span><br><span class="line"><span class="string"></span></span><br></pre></td></tr></table></figure>
+<h1 id="将hexo部署到GitHub"><a href="#将hexo部署到GitHub" class="headerlink" title="将hexo部署到GitHub"></a>将hexo部署到GitHub</h1><p>这个时候需要先安装deploy-git ，也就是部署的命令,这样你才能用命令部署到GitHub。</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+<p>到了这一步，我们就可以将hexo和GitHub关联起来，也就是将hexo生成的文章部署到GitHub上</p>
+<p>打开站点配置文件 _config.yml，翻到最后，修改为以下形式</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repo: git@github.com:yourname/yourname.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+<p>然后</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure>
+<p>其中 hexo clean清除了你之前的缓存，也可以不加。</p>
+<p>得到下面的命令回馈，就说明部署成功了，过一会儿就可以在<a href="https://yourname.github.io/">https://yourname.github.io</a> 这个网站看到你的博客了！！</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Deploy <span class="keyword">done</span>: git</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>玩转终端模拟器</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>移动端</tag>
+        <tag>PC端</tag>
+        <tag>Termux</tag>
+      </tags>
+  </entry>
+</search>
