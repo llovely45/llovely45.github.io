@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<script>
+    (function () {
+        if ('') {
+            if (prompt('请输入文章密码') !== '') {
+                alert('密码错误！');
+                if (history.length === 1) {
+                    location.replace("https://xxxxxxx.xxx"); // 这里替换成你的首页
+                } else {
+                    history.back();
+                }
+            }
+        }
+    })();
+</script>
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/logo32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/logo16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-center-circle.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"lyq8177.xyz","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="继续给大家展示怎么美化NexT主题">
+<meta property="og:type" content="article">
+<meta property="og:title" content="美化NexT主题2">
+<meta property="og:url" content="http://lyq8177.xyz/2021/09/08/%E7%BE%8E%E5%8C%96NexT%E4%B8%BB%E9%A2%982/index.html">
+<meta property="og:site_name" content="Lin的小站">
+<meta property="og:description" content="继续给大家展示怎么美化NexT主题">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-09-08T07:24:17.000Z">
+<meta property="article:modified_time" content="2021-09-09T04:07:39.827Z">
+<meta property="article:author" content="Lin">
+<meta property="article:tag" content="hexo">
+<meta property="article:tag" content="移动端">
+<meta property="article:tag" content="NexT">
+<meta property="article:tag" content="PC端">
+<meta property="article:tag" content="Termux">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://lyq8177.xyz/2021/09/08/%E7%BE%8E%E5%8C%96NexT%E4%B8%BB%E9%A2%982/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>美化NexT主题2 | Lin的小站</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Lin的小站</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">记录美好生活</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">8</span></a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">2</span></a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">10</span></a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://lyq8177.xyz/2021/09/08/%E7%BE%8E%E5%8C%96NexT%E4%B8%BB%E9%A2%982/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/author.png">
+      <meta itemprop="name" content="Lin">
+      <meta itemprop="description" content="归来仍是少年">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Lin的小站">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          美化NexT主题2
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2021-09-08 15:24:17" itemprop="dateCreated datePublished" datetime="2021-09-08T15:24:17+08:00">2021-09-08</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2021-09-09 12:07:39" itemprop="dateModified" datetime="2021-09-09T12:07:39+08:00">2021-09-09</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E7%8E%A9%E8%BD%AC%E7%BB%88%E7%AB%AF%E6%A8%A1%E6%8B%9F%E5%99%A8/" itemprop="url" rel="index"><span itemprop="name">玩转终端模拟器</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: ;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <div align=center>
+<img src=https://i.loli.net/2021/09/07/7flVog5ie46mRLW.jpg
+ width=80%>
+</div>
+继续给大家展示怎么美化NexT主题
+
+<span id="more"></span>
+
+<h1 id="设置博客底部布局"><a href="#设置博客底部布局" class="headerlink" title="设置博客底部布局"></a>设置博客底部布局</h1><p>这一部分对应主题配置文件中的：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">footer:</span><br><span class="line">  <span class="comment"># Specify the date when the site was setup.</span></span><br><span class="line">  <span class="comment"># If not defined, current year will be used.</span></span><br><span class="line">  since: 2019 <span class="comment">#建站时间</span></span><br><span class="line"></span><br><span class="line">  <span class="comment"># Icon between year and copyright info.</span></span><br><span class="line">  icon:</span><br><span class="line">    <span class="comment"># Icon name in fontawesome, see: https://fontawesome.com/v4.7.0/icons/</span></span><br><span class="line">    <span class="comment"># `heart` is recommended with animation in red (#ff0000).</span></span><br><span class="line">    name: heart  <span class="comment">#作者图标（默认是author人像)</span></span><br><span class="line">    <span class="comment"># If you want to animate the icon, set it to true.</span></span><br><span class="line">    animated: <span class="literal">true</span> <span class="comment">#图标是否闪动</span></span><br><span class="line">    <span class="comment"># Change the color of icon, using Hex Code.</span></span><br><span class="line">    color: <span class="string">&quot;#808080&quot;</span> <span class="comment">#图标颜色</span></span><br></pre></td></tr></table></figure>
+<h1 id="网站作者显示及备案显示"><a href="#网站作者显示及备案显示" class="headerlink" title="网站作者显示及备案显示"></a>网站作者显示及备案显示</h1><p>打开Next主题配置文件</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># If not defined, `author` from Hexo main config will be used.</span></span><br><span class="line">copyright: 黄飘 <span class="comment">#别填bool型，最后显示的东西是copyright || author，即左边没有设置的话就显示作者</span></span><br><span class="line"><span class="comment"># -------------------------------------------------------------</span></span><br><span class="line">powered:</span><br><span class="line">  <span class="comment"># Hexo link (Powered by Hexo).</span></span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">false</span> <span class="comment">#是否显示 Powered by hexo</span></span><br><span class="line">  <span class="comment"># Version info of Hexo after Hexo link (vX.X.X).</span></span><br><span class="line">  version: <span class="literal">false</span> <span class="comment">#是否显示Hexo版本</span></span><br><span class="line"></span><br><span class="line">theme:</span><br><span class="line">  <span class="comment"># Theme &amp; scheme info link (Theme - NexT.scheme).</span></span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">false</span> <span class="comment">#是否显示主题信息</span></span><br><span class="line">  <span class="comment"># Version info of NexT after scheme info (vX.X.X).</span></span><br><span class="line">  version: <span class="literal">false</span> <span class="comment">#是否显示主题版本</span></span><br><span class="line"><span class="comment"># -------------------------------------------------------------</span></span><br><span class="line"><span class="comment"># Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.</span></span><br><span class="line"><span class="comment"># http://www.miitbeian.gov.cn</span></span><br><span class="line">beian:</span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">false</span> <span class="comment">#是否显示网站备案信息</span></span><br><span class="line">  icp:</span><br><span class="line"></span><br><span class="line"><span class="comment"># -------------------------------------------------------------</span></span><br><span class="line"><span class="comment"># Any custom text can be defined here.</span></span><br><span class="line"><span class="comment">#custom_text: Hosted by &lt;a href=&quot;https://pages.coding.me&quot; class=&quot;theme-link&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Coding Pages&lt;/a&gt;</span></span><br></pre></td></tr></table></figure>
+<h1 id="添加打赏"><a href="#添加打赏" class="headerlink" title="添加打赏"></a>添加打赏</h1><p>在主题配置文件中设置如下：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">reward:</span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">true</span></span><br><span class="line">  comment: 坚持原创技术分享，您的支持将鼓励我继续创作！</span><br><span class="line">  wechatpay: /images/wechatpay.jpg</span><br><span class="line">  alipay: /images/alipay.jpg</span><br><span class="line">  <span class="comment">#bitcoin: /images/bitcoin.jpg</span></span><br></pre></td></tr></table></figure>
+<p>自己获取自己的支付收款码，放置在next/source/images中</p>
+<h1 id="添加页面宠物"><a href="#添加页面宠物" class="headerlink" title="添加页面宠物"></a>添加页面宠物</h1><p>首先在博客目录下执行：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -save hexo-helper-live2d</span><br></pre></td></tr></table></figure>
+<p>然后在站点配置文件中加入：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">live2d:</span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">true</span></span><br><span class="line">  scriptFrom: <span class="built_in">local</span></span><br><span class="line">  pluginRootPath: live2dw/</span><br><span class="line">  pluginJsPath: lib/</span><br><span class="line">  pluginModelPath: assets/</span><br><span class="line">  tagMode: <span class="literal">false</span></span><br><span class="line">  model:</span><br><span class="line">    use: live2d-widget-model-wanko  <span class="comment">#选择哪种模型</span></span><br><span class="line">  display: <span class="comment">#放置位置和大小</span></span><br><span class="line">    position: right</span><br><span class="line">    width: 150</span><br><span class="line">    height: 300</span><br><span class="line">  mobile:</span><br><span class="line">    show: <span class="literal">false</span> <span class="comment">#是否在手机端显示</span></span><br></pre></td></tr></table></figure>
+<p>上面模型的选择可在lived2d中选择，并下载相应的模型：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install live2d-widget-model-wanko</span><br></pre></td></tr></table></figure>
+<h1 id="设置代码块样式"><a href="#设置代码块样式" class="headerlink" title="设置代码块样式"></a>设置代码块样式</h1><p>对于代码块的主题我们还能设置其背景，增加复制按钮等，可修改主题配置文件如下：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Code Highlight theme</span></span><br><span class="line"><span class="comment"># Available values: normal | night | night eighties | night blue | night bright</span></span><br><span class="line"><span class="comment"># https://github.com/chriskempson/tomorrow-theme</span></span><br><span class="line">highlight_theme: night</span><br><span class="line">codeblock:</span><br><span class="line">  <span class="comment"># Manual define the border radius in codeblock</span></span><br><span class="line">  <span class="comment"># Leave it empty for the default 1</span></span><br><span class="line">  border_radius:</span><br><span class="line">  <span class="comment"># Add copy button on codeblock</span></span><br><span class="line">  copy_button:</span><br><span class="line">    <span class="built_in">enable</span>: <span class="literal">true</span></span><br><span class="line">    <span class="comment"># Show text copy result</span></span><br><span class="line">    show_result: <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+<h1 id="设置博客摘要显示"><a href="#设置博客摘要显示" class="headerlink" title="设置博客摘要显示"></a>设置博客摘要显示</h1><p>对于摘要显示，首先我们需要开启摘要功能，修改主题配置文件：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Automatically scroll page to section which is under &lt;!-- more --&gt; mark.</span></span><br><span class="line">scroll_to_more: <span class="literal">true</span> <span class="comment">#选取博客正文&lt;!--more--&gt;前的内容</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Automatically saving scroll position on each post/page in cookies.</span></span><br><span class="line">save_scroll: <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Automatically excerpt description in homepage as preamble text.</span></span><br><span class="line">excerpt_description: <span class="literal">true</span> <span class="comment">#自动截取摘要</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Automatically Excerpt. Not recommend.</span></span><br><span class="line"><span class="comment"># Use &lt;!-- more --&gt; in the post to control excerpt accurately.</span></span><br><span class="line">auto_excerpt: </span><br><span class="line">  <span class="built_in">enable</span>: <span class="literal">false</span> <span class="comment">#自动截取一定程度的摘要</span></span><br><span class="line">  length: 150</span><br><span class="line"></span><br><span class="line"><span class="comment"># Read more button</span></span><br><span class="line"><span class="comment"># If true, the read more button would be displayed in excerpt section.</span></span><br><span class="line">read_more_btn: <span class="literal">true</span> <span class="comment">#显示阅读全文按钮</span></span><br></pre></td></tr></table></figure>
+<h1 id="设置RSS订阅"><a href="#设置RSS订阅" class="headerlink" title="设置RSS订阅"></a>设置RSS订阅</h1><p>让关注你的人可以迅速接受你的更新提醒</p>
+<p>在博客主目录下执行：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-generator-feed</span><br></pre></td></tr></table></figure>
+<p>在站点配置文件中修改：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line"><span class="comment">## Plugins: http://hexo.io/plugins/</span></span><br><span class="line">plugins: hexo-generate-feed</span><br></pre></td></tr></table></figure>
+<p>然后设置主题配置文件：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Set rss to false to disable feed link.</span></span><br><span class="line"><span class="comment"># Leave rss as empty to use site&#x27;s feed link.</span></span><br><span class="line"><span class="comment"># Set rss to specific value if you have burned your feed already.</span></span><br><span class="line">rss: /atom.xml</span><br></pre></td></tr></table></figure>
+<h1 id="修改文章链接样式"><a href="#修改文章链接样式" class="headerlink" title="修改文章链接样式"></a>修改文章链接样式</h1><p>修改光标悬浮链接上变色</p>
+<p>修改文件 <code>themes\next\source\css\_common\components\post\post.styl</code>，在末尾添加如下css样式，：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">// 文章内链接文本样式</span><br><span class="line">.post-body p a&#123;</span><br><span class="line">  color: <span class="comment">#0593d3;</span></span><br><span class="line">  border-bottom: none;</span><br><span class="line">  border-bottom: 1px solid <span class="comment">#0593d3;</span></span><br><span class="line">  &amp;:hover &#123;</span><br><span class="line">    color: <span class="comment">#fc6423;</span></span><br><span class="line">    border-bottom: none;</span><br><span class="line">    border-bottom: 1px solid <span class="comment">#fc6423;</span></span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h1 id="增加阅读次数-时长和访客数"><a href="#增加阅读次数-时长和访客数" class="headerlink" title="增加阅读次数/时长和访客数"></a>增加阅读次数/时长和访客数</h1><p>Next6版本集成了多种相关功能，除了已有的busuanzi，目前又加入了symbols-count-time</p>
+<h2 id="symbols-count-time"><a href="#symbols-count-time" class="headerlink" title="symbols-count-time"></a>symbols-count-time</h2><p>修改主题配置文件</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Post wordcount display settings</span></span><br><span class="line"><span class="comment"># Dependencies: https://github.com/theme-next/hexo-symbols-count-time</span></span><br><span class="line">symbols_count_time:</span><br><span class="line">  separated_meta: <span class="literal">true</span> <span class="comment">#分隔符|</span></span><br><span class="line">  item_text_post: <span class="literal">true</span> <span class="comment">#是否统计站点总字数</span></span><br><span class="line">  item_text_total: <span class="literal">true</span> <span class="comment">#是否同级文章总字数</span></span><br><span class="line">  awl: 2 <span class="comment">#平均每个字符的长度</span></span><br><span class="line">  wpm: 300 <span class="comment">#words per minute</span></span><br></pre></td></tr></table></figure>
+<p>还需在站点配置文件中加入:</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">symbols_count_time:</span><br><span class="line">  symbols: <span class="literal">true</span> <span class="comment">#是否统计字数</span></span><br><span class="line">  time: <span class="literal">false</span> <span class="comment">#是否统计阅读时长</span></span><br><span class="line">  total_symbols: <span class="literal">true</span> <span class="comment">#是否统计总字数</span></span><br><span class="line">  total_time: <span class="literal">false</span> <span class="comment">#是否统计总阅读时长</span></span><br></pre></td></tr></table></figure>
+<p>安装相关依赖:</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-symbols-count-time --save</span><br></pre></td></tr></table></figure>
+<h2 id="不算子统计"><a href="#不算子统计" class="headerlink" title="不算子统计"></a>不算子统计</h2><p>不过symbols-count-time的数字经常不显示，不知道是不是我配置的问题，不过不担心，因为busuanzi自带了这些功能（除了阅读时长，不过这个意义不大），只需要修改next主题配置文件</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">busuanzi_count:</span><br><span class="line"><span class="built_in">enable</span>: <span class="literal">true</span>  <span class="comment">#是否开启不蒜子统计功能</span></span><br><span class="line">total_visitors: <span class="literal">true</span> <span class="comment">#是否统计总访客数</span></span><br><span class="line">total_visitors_icon: user <span class="comment">#访客数图标为人像</span></span><br><span class="line">total_views: <span class="literal">true</span> <span class="comment">#是否同级总访问数</span></span><br><span class="line">total_views_icon: eye <span class="comment">#访问数图标为眼睛</span></span><br><span class="line">post_views: <span class="literal">true</span> <span class="comment">#是否统计文章访问数</span></span><br><span class="line">post_views_icon: eye <span class="comment">#访问数图标为眼睛</span></span><br></pre></td></tr></table></figure>
+<p>/layout/_partials/footer.swig文件如下：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&lt;script async src=<span class="string">&quot;https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js&quot;</span>&gt;&lt;/script&gt;</span><br><span class="line">  &#123;% <span class="keyword">if</span> config.symbols_count_time.total_symbols %&#125;</span><br><span class="line">    &lt;span class=<span class="string">&quot;post-meta-divider&quot;</span>&gt;|&lt;/span&gt;</span><br><span class="line">    &lt;span class=<span class="string">&quot;post-meta-item-icon&quot;</span>&gt;</span><br><span class="line">      &lt;i class=<span class="string">&quot;fa fa-area-chart&quot;</span>&gt;&lt;/i&gt;</span><br><span class="line">    &lt;/span&gt;</span><br><span class="line">    &#123;% <span class="keyword">if</span> theme.symbols_count_time.item_text_total %&#125;</span><br><span class="line">      &lt;span class=<span class="string">&quot;post-meta-item-text&quot;</span>&gt;&#123;&#123; __(<span class="string">&#x27;symbols_count_time.count_total&#x27;</span>) + __(<span class="string">&#x27;symbol.colon&#x27;</span>) &#125;&#125;&lt;/span&gt;</span><br><span class="line">    &#123;% endif %&#125;</span><br><span class="line">	&lt;span title=<span class="string">&quot;&#123;&#123; __(&#x27;post.totalcount&#x27;) &#125;&#125;&quot;</span>&gt;</span><br><span class="line">     &#123;&#123; totalcount(site, <span class="string">&#x27;0,0.0a&#x27;</span>) &#125;&#125;字 &lt;/span&gt;</span><br><span class="line">    &lt;!--&lt;span title=<span class="string">&quot;&#123;&#123; __(&#x27;symbols_count_time.count_total&#x27;) &#125;&#125;&quot;</span>&gt;&#123;&#123;symbolsCountTotal(site)&#125;&#125;&lt;/span&gt;--&gt;</span><br><span class="line">  &#123;% endif %&#125;</span><br></pre></td></tr></table></figure>
+<p>以及修改next/layout/_macro/post.swig文件中的symbol部分：</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">     &#123;% <span class="keyword">if</span> config.symbols_count_time.symbols or config.symbols_count_time.time %&#125;</span><br><span class="line">       &lt;div class=<span class="string">&quot;post-symbolscount&quot;</span>&gt;</span><br><span class="line">         &#123;% <span class="keyword">if</span> not theme.symbols_count_time.separated_meta %&#125;</span><br><span class="line">           &lt;span class=<span class="string">&quot;post-meta-divider&quot;</span>&gt;|&lt;/span&gt;</span><br><span class="line">         &#123;% endif %&#125;</span><br><span class="line"></span><br><span class="line">         &#123;% <span class="keyword">if</span> config.symbols_count_time.symbols %&#125;</span><br><span class="line">           &lt;span class=<span class="string">&quot;post-meta-item-icon&quot;</span>&gt;</span><br><span class="line">             &lt;i class=<span class="string">&quot;fa fa-file-word-o&quot;</span>&gt;&lt;/i&gt;</span><br><span class="line">           &lt;/span&gt;</span><br><span class="line">           &#123;% <span class="keyword">if</span> theme.symbols_count_time.item_text_post %&#125;</span><br><span class="line">             &lt;span class=<span class="string">&quot;post-meta-item-text&quot;</span>&gt;&#123;&#123; __(<span class="string">&#x27;symbols_count_time.count&#x27;</span>) + __(<span class="string">&#x27;symbol.colon&#x27;</span>) &#125;&#125;&lt;/span&gt;</span><br><span class="line">           &#123;% endif %&#125;</span><br><span class="line">           &lt;!-- &lt;span title=<span class="string">&quot;&#123;&#123; __(&#x27;symbols_count_time.count&#x27;) &#125;&#125;&quot;</span>&gt;&#123;<span class="comment">#</span></span><br><span class="line">           <span class="comment">#&#125;&#123;&#123; symbolsCount(post.content) &#125;&#125;&#123;#</span></span><br><span class="line">         <span class="comment">#&#125;&lt;/span&gt; --&gt;</span></span><br><span class="line">&lt;span title=<span class="string">&quot;&#123;&#123; __(&#x27;symbols_count_time.count&#x27;) &#125;&#125;&quot;</span>&gt;</span><br><span class="line">             &#123;&#123; wordcount(post.content) &#125;&#125;字</span><br><span class="line">           &lt;/span&gt;</span><br><span class="line">         &#123;% endif %&#125;</span><br></pre></td></tr></table></figure>
+<h1 id="加入网易云音乐播放器"><a href="#加入网易云音乐播放器" class="headerlink" title="加入网易云音乐播放器"></a>加入网易云音乐播放器</h1><p>首先在网页搜索网易云音乐，选择音乐，并生成外链：</p>
+<p>然后得到外链html代码：</p>
+<p>将代码粘贴到一个合适的位置，建议放在侧边栏，在Blog/themes/next/layout/_macro/sidebar.swig文件下，选择位置复制进去，不同位置效果不同：</p>
+<p>我放在了<code>themes\next\layout\_partials\sidebar\site-overview.swig</code>下</p>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><p><a target="_blank" rel="noopener" href="http://shenzekun.cn/hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html">http://shenzekun.cn/hexo的next主题个性化配置教程.html</a></p>
+
+    </div>
+
+    
+    
+    
+        <div class="reward-container">
+  <div>有没有考虑请作者喝水丫</div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="/images/wechatpay.png" alt="Lin 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="/images/alipay.png" alt="Lin 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+        
+
+<div>
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者： </strong>Lin
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="http://lyq8177.xyz/2021/09/08/%E7%BE%8E%E5%8C%96NexT%E4%B8%BB%E9%A2%982/" title="美化NexT主题2">http://lyq8177.xyz/2021/09/08/美化NexT主题2/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/hexo/" rel="tag"># hexo</a>
+              <a href="/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/" rel="tag"># 移动端</a>
+              <a href="/tags/NexT/" rel="tag"># NexT</a>
+              <a href="/tags/PC%E7%AB%AF/" rel="tag"># PC端</a>
+              <a href="/tags/Termux/" rel="tag"># Termux</a>
+          </div>
+<div>
+  
+    <div>
+    
+        <div style="text-align:center;color: #ccc;font-size:14px;">-------------本文结束<i class="fa fa-paw"></i>感谢您的阅读-------------</div>
+    
+</div>
+
+  
+</div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2021/09/07/%E7%BE%8E%E5%8C%96NexT%E4%B8%BB%E9%A2%981/" rel="prev" title="美化NexT主题1">
+      <i class="fa fa-chevron-left"></i> 美化NexT主题1
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AE%BE%E7%BD%AE%E5%8D%9A%E5%AE%A2%E5%BA%95%E9%83%A8%E5%B8%83%E5%B1%80"><span class="nav-number">1.</span> <span class="nav-text">设置博客底部布局</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%BD%91%E7%AB%99%E4%BD%9C%E8%80%85%E6%98%BE%E7%A4%BA%E5%8F%8A%E5%A4%87%E6%A1%88%E6%98%BE%E7%A4%BA"><span class="nav-number">2.</span> <span class="nav-text">网站作者显示及备案显示</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B7%BB%E5%8A%A0%E6%89%93%E8%B5%8F"><span class="nav-number">3.</span> <span class="nav-text">添加打赏</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B7%BB%E5%8A%A0%E9%A1%B5%E9%9D%A2%E5%AE%A0%E7%89%A9"><span class="nav-number">4.</span> <span class="nav-text">添加页面宠物</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%A0%81%E5%9D%97%E6%A0%B7%E5%BC%8F"><span class="nav-number">5.</span> <span class="nav-text">设置代码块样式</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AE%BE%E7%BD%AE%E5%8D%9A%E5%AE%A2%E6%91%98%E8%A6%81%E6%98%BE%E7%A4%BA"><span class="nav-number">6.</span> <span class="nav-text">设置博客摘要显示</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AE%BE%E7%BD%AERSS%E8%AE%A2%E9%98%85"><span class="nav-number">7.</span> <span class="nav-text">设置RSS订阅</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9%E6%96%87%E7%AB%A0%E9%93%BE%E6%8E%A5%E6%A0%B7%E5%BC%8F"><span class="nav-number">8.</span> <span class="nav-text">修改文章链接样式</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%A2%9E%E5%8A%A0%E9%98%85%E8%AF%BB%E6%AC%A1%E6%95%B0-%E6%97%B6%E9%95%BF%E5%92%8C%E8%AE%BF%E5%AE%A2%E6%95%B0"><span class="nav-number">9.</span> <span class="nav-text">增加阅读次数&#x2F;时长和访客数</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#symbols-count-time"><span class="nav-number">9.1.</span> <span class="nav-text">symbols-count-time</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8D%E7%AE%97%E5%AD%90%E7%BB%9F%E8%AE%A1"><span class="nav-number">9.2.</span> <span class="nav-text">不算子统计</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8A%A0%E5%85%A5%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8"><span class="nav-number">10.</span> <span class="nav-text">加入网易云音乐播放器</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99"><span class="nav-number">11.</span> <span class="nav-text">参考资料</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Lin"
+      src="/images/author.png">
+  <p class="site-author-name" itemprop="name">Lin</p>
+  <div class="site-description" itemprop="description">归来仍是少年</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">10</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">8</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1833106566&auto=1&height=66"></iframe>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="mailto:1127555887@qq.com" title="E-Mail → mailto:1127555887@qq.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://t.me/ql8177" title="Telegram → https:&#x2F;&#x2F;t.me&#x2F;ql8177" rel="noopener" target="_blank"><i class="fab fa-telegram fa-fw"></i>Telegram</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="http://123.lyq8177.xyz/" title="友情链接 → http:&#x2F;&#x2F;123.lyq8177.xyz" rel="noopener" target="_blank"><i class=" fa-fw"></i>友情链接</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">By Lin</span>
+</div>
+<script async src="/lib/others/busuanzi.pure.mini.js"></script>
+  
+<div class="theme-info">
+  <div class="powered-by"></div>
+  <span class="post-count">QAQ我为这个网站打了8.7k个字</span>
+</div>
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="热度">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script size="500" alpha="0.6" zIndex="-1" src="/lib/canvas-ribbon/canvas-ribbon.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+  <script defer src="/lib/three/three.min.js"></script>
+    <script defer src="/lib/three/canvas_lines.min.js"></script>
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+   <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+   <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
+   <script type="text/javascript" src="/js/src/fireworks.js"></script>
+   
+<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
+</html>
