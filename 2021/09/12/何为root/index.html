@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<script>
+    (function () {
+        if ('') {
+            if (prompt('请输入文章密码') !== '') {
+                alert('密码错误！');
+                if (history.length === 1) {
+                    location.replace("https://xxxxxxx.xxx"); // 这里替换成你的首页
+                } else {
+                    history.back();
+                }
+            }
+        }
+    })();
+</script>
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/logo32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/logo16x16.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-center-circle.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"lyq8177.xyz","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="对于搞机党或者开发人员来说，Root 一定是一个不陌生的名词。在 当我们谈论解锁BootLoader时，我们到底在谈论什么？">
+<meta property="og:type" content="article">
+<meta property="og:title" content="何为root">
+<meta property="og:url" content="http://lyq8177.xyz/2021/09/12/%E4%BD%95%E4%B8%BAroot/index.html">
+<meta property="og:site_name" content="Lin的小站">
+<meta property="og:description" content="对于搞机党或者开发人员来说，Root 一定是一个不陌生的名词。在 当我们谈论解锁BootLoader时，我们到底在谈论什么？">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-09-12T07:01:34.000Z">
+<meta property="article:modified_time" content="2021-09-12T09:04:13.150Z">
+<meta property="article:author" content="Lin">
+<meta property="article:tag" content="搬运">
+<meta property="article:tag" content="玩机">
+<meta property="article:tag" content="移动端">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://lyq8177.xyz/2021/09/12/%E4%BD%95%E4%B8%BAroot/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>何为root | Lin的小站</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Lin的小站</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">记录美好生活</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">10</span></a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">3</span></a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">11</span></a>
+
+  </li>
+        <li class="menu-item menu-item-下载">
+
+    <a href="/tags/Download/" rel="section"><i class="fa fa-download fa-fw"></i>下载</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://lyq8177.xyz/2021/09/12/%E4%BD%95%E4%B8%BAroot/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/author.png">
+      <meta itemprop="name" content="Lin">
+      <meta itemprop="description" content="归来仍是少年">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Lin的小站">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          何为root
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2021-09-12 15:01:34 / 修改时间：17:04:13" itemprop="dateCreated datePublished" datetime="2021-09-12T15:01:34+08:00">2021-09-12</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E7%8E%A9%E6%9C%BA/" itemprop="url" rel="index"><span itemprop="name">玩机</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: ;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <div align=center>
+<img src=https://i.loli.net/2021/09/12/tbhmwrKc1XpCBYT.jpg width=80%>
+</div>
+
+<p>对于搞机党或者开发人员来说，Root 一定是一个不陌生的名词。在 当我们谈论解锁<code>BootLoader</code>时，我们到底在谈论什么？</p>
+<span id="more"></span>
+
+<p>我们了解到，解锁<code>Bootloader</code>实际上能做到的是让<font color=red>手机可以运行第三方的操作系统</font>，而通常来说，我们给手机解锁<code>Bootloader</code>就是为了获取Root权限。那么，<font color=red>何为Root</font>?，解锁<code>Bootloader</code>和Root到底有什么联系和区别？</p>
+<p>In Unix-like computer OSes (such as Linux), Root is the conventional name of the user who has all rights or permissions (to all files and programs) in all modes (single- or multi-user).</p>
+<p>维基百科说，在类 Unix 系统中，<code>Root</code> 是在<font color=red>所有模式</font>（单用户或多用户）下对<font color=red>所有文件和程序</font>拥有<font color=red>所有权利或许可</font>的用户的名称。</p>
+<p>现代操作系统（本文主要讨论 Android 系统，下同）一般都是多用户的，那个名为Root的用户所拥有的权限就是Root权限；而Root权限中有三个「所有」，可以简单这么理解：<font color=red>Root 意味着最高权限</font>；不过，这么描述不够具象，接下来就带大家了解一下Root的方方面面。</p>
+<h1 id="Root-的来源"><a href="#Root-的来源" class="headerlink" title="Root 的来源"></a>Root 的来源</h1><p>在类 Unix 系统中， 一切皆文件。而这些文件通常以一个分层的树形结构在文件系统中呈现，每一个文件都有一个父目录，而那个最顶层的父目录被称之为根目录(Root directory)；Root 用户之所以被称之为 Root，大抵是因为它是唯一能修改Root directory 的用户。</p>
+<p>因为Root用户拥有最高权限，因此它也通常被称之为超级用户(superuser)；在类 Unix 系统中，每一个用户都有一个 ID，Root 用户的 ID 是 0，从传统意义上讲，uid 为 0 就是Root用户，也就拥有最高权限。</p>
+<h1 id="最高权限具体指的哪些？"><a href="#最高权限具体指的哪些？" class="headerlink" title="最高权限具体指的哪些？"></a>最高权限具体指的哪些？</h1><p>我们一直在说，「最高权限」，那么最高权限到底是哪些呢？</p>
+<p>直白点来说，手机是由多个零部件组成的，比如说，CPU、内存、闪存、各种硬件设备（如相机，屏幕、传感器等），所谓最高权限，就是对所有这些设备的控制权。</p>
+<p>对于 CPU 来说，现在的 CPU 芯片一般都有不同的特权等级，这些不同的等级可以执行不同的指令。就拿 AArch64 构架来说，CPU 有四个特权等级，EL0 ~ EL3：</p>
+<div align=center>
+<img src=https://i.loli.net/2021/09/12/qG3HLDKlRpvC4ad.png
+ width=80%>
+</div>
+
+<p>在不考虑 Secure World 的情况下（感兴趣的可以 google TrustZone)，EL0 就是通常所谓的用户空间，应用程序一般运行在 EL0 级别，操作系统（Linux 内核及驱动）运行在 EL1，EL2 上运行的则是虚拟化相关程序，EL3 则运行管理 Secure World 和 Normal Wrold 的 Secure Monitor。</p>
+<p>从严格意义上来说，既然Root权限意味着最高权限，这应该代表着它可以在 EL0 ~ EL3 中的任意 level 上执行任意的 CPU 指令。然而，当前的各种Root实现并非如此，它们一般能在 EL0 上执行任意指令，在某些情况下可以在 EL1 上执行任意指令；更高的特权等级就不行了。因为Root用户是操作系统的概念，因此Root权限顶多是操作系统中的最高权限；在我们的类 Unix 系统中，它仅能触及 EL1 也就不算奇怪了。</p>
+<p>对于内存、闪存以及各种外设来说，它们一般由操作系统内核和驱动来管理，而内核和驱动运行的指令通常位于 EL1，因此，Root 权限意味着对所有的硬件（不包括 TEE 相关硬件）和外设拥有完全的控制权。</p>
+<p>总结一下就是，Root 权限所拥有的最高权限，是我们的用户操作系统能管理的所有权限，包括各种硬件和外设以及一部分 CPU 指令的执行权限。</p>
+<h1 id="把权力关进笼子里"><a href="#把权力关进笼子里" class="headerlink" title="把权力关进笼子里"></a>把权力关进笼子里</h1><p>在过去的很长一段时间里，Root 用户拥有的Root权限代表着最高权限，它能实施一切特权行为；然而，这种模式有着相当大的安全风险。比如说，如果一个Root用户执行了 <code>rm -rf /</code> 命令（这种情况时有发生），那么整个系统就会瘫痪。</p>
+<p>可以看出，直接把最高权限暴露给用户并不明智；本着<font color=red>把权力关进笼子里</font>的原则，Root 用户所拥有的Root权限逐渐被加上了各种限制；从此以后，Root 权限并不能为所欲为了。</p>
+<h2 id="SELinux"><a href="#SELinux" class="headerlink" title="SELinux"></a>SELinux</h2><p>SELinux 可能是最常见的一种权限控制手段。很多童鞋在刷机或者用框架的时候，会听到诸如「关闭 SELinux」，「开启宽容模式」，实际上就是对 SELinux 的控制。</p>
+<p>传统的权限控制是通过<font color=red>自主访问控制</font>实现的，所谓「自主」指的是，这个文件的所有者主动决定哪些其他的用户可以访问它所拥有的文件。一般通过<font color=red>文件权限码</font>和<font color=red>访问控制表</font>来实现。我们通常所说的，文件可读可写可执行，就是文件权限码，除了 rwx 以外，SUID/SGID 也是常见的权限码，它代表某个程序在被 execve 之后会自动切换其 EUID。而访问控制表（ACL）是一种补充手段，它可以实施更加精细的自主访问控制，感兴趣的可以参考<font color=red>Linux 中的访问控制列表<a target="_blank" rel="noopener" href="https://documentation.suse.com/zh-cn/sled/15-SP2/html/SLED-all/cha-security-acls.html">1</a></font>。</p>
+<p>由于自主访问控制是「自主的」，如果某个用户无意中实施了错误操作（如 <code>rm -rf /</code>)，那么整个系统就不受控了，因此<font color=red>强制访问控制</font>(MAC)应运而生，而 SELinux 则是 MAC 的一种具体实现。</p>
+<div align=center>
+<img src=https://i.loli.net/2021/09/12/b12Z4YAsaW6kfz8.png
+ width=80%>
+</div>
+
+
+<p>所谓<font color=red>强制访问控制</font>，就是每当主体(通常是进程）尝试访问对象（文件）时，都会由操作系统内核强制施行授权规则，由这些特殊的规则来决定是否授予权限；这些规则是独立于文件权限码之外的，因此，即使某个用户（如 Root）是某个文件的所有者，通过这些额外的规则，可以让这个用户无法对这个文件执行某些操作。</p>
+<p>通常情况下，Root 用户也有权限关闭 SELinux 的部分功能（如开启宽容模式），这种情况下 SELinux 的大部分机制会失效，使得Root用户可以避开 SELinux 的限制。而我们所使用的一些Root技术实现（如 Supersu, Magisk 等），会给 SELinux 系统添加一些特殊的规则，可以在不关闭 SELinux 的条件下，让我们的Root用户绕过 SELinux 的限制，进而拥有传统意义上的超级权限。</p>
+<p>在现代的 Android 系统中，如果Root用户不幸运行在 SELinux Enforcing 状态下，而系统又没有为其开绿灯（定义特殊规则），那么它所能做的操作相当有限，某种程度上甚至连普通用户都不如，表现起来就像是个「残废」。</p>
+<h2 id="capabilities"><a href="#capabilities" class="headerlink" title="capabilities"></a>capabilities</h2><p>除了强制访问控制以外，实际上 Linux 系统中还有一些其他的机制来限制超级权限。</p>
+<p>在传统的权限控制中，系统一刀切地把权限分为超级权限(privileged)和普通权限(unprivileged)，特权用户可以绕过所有的系统限制，而普通用户则受限于其权限位；这种方式有着明显的缺陷：如果普通用户想要执行某一个特殊操作，那它只能切换到特权用户，然而一旦切换到特权用户，它就拥有了所有的特殊权限；那么恶意用户就可以挂羊头卖狗肉，表面上说我只是想读个文件，结果切换到特权用户之后直接把你其他重要东西删了。</p>
+<p>因此，Linux 系统引入了 <code>capabilities</code> 机制，这种机制把超级权限划分为若干种权限，按照需要给普通用户分配，很好地解决了一刀切的问题。比如说 <code>CAP_NET_ADMIN</code> 定义了与各种网络操作相关的权限，<code>CAP_SETUID</code> 定义了用户是否可以任意改变自己的 uid；这些不同的 capabilities 可以组合起来形成某个权限范围，从而实现权限的细分。更多的 capabilities 可以参考 <font color=red>Linux man page</font><a target="_blank" rel="noopener" href="https://man7.org/linux/man-pages/man7/capabilities.7.html">2</a>和 <font color=red>linux-capabilities-in-a-nutshell</font><a target="_blank" rel="noopener" href="https://k3a.me/linux-capabilities-in-a-nutshell/">3</a>。</p>
+<div align=center>
+<img src=https://i.loli.net/2021/09/12/Mv8yS2ztFwgo9CH.png
+ width=80%>
+</div>
+
+
+
+<p>我们在实现某些Root机制的时候，如果没有处理好 capabilities 的问题，就会出现各种类似残废Root的情况，比如Root用户无法访问网络等。</p>
+<p>seccomp<br>严格来讲，seccomp 并不算是一种安全策略，不过这种机制也能对我们的Root用户实施某些限制；这里也简单滴介绍一下。</p>
+<p>seccomp 是 <font color=red>secure computing mode</font><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Seccomp">4</a> 的缩写，它是内核的一种安全计算机制，这种机制可以对进程能执行的系统调用（与内核打交道的机制）做出一些限制。</p>
+<div align=center>
+<img src=https://i.loli.net/2021/09/12/znKtFBRHmeEc6J1.png
+ width=80%>
+</div>
+
+
+
+<p>在传统的 seccomp 中，某个进程可以通过这种机制进入一种不可逆转的状态，在这种状态下，它只能执行 <code>exit</code>, <code>sigreturn</code>, <code>read</code>, write 这几个系统调用；后来人们发现对进程的系统调用添加限制还挺有用，于是拓展了 seccomp，让它可以通过某种自定义的策略来限制特定的系统调用（而不是写死的 exit,read 那几个），也就是 seccomp-bpf。</p>
+<p>与 capabilities 类似，如果某种Root机制没有处理好 seccomp 的问题，同样会出现「残废Root的情况。</p>
+<h2 id="内核模块加载验证"><a href="#内核模块加载验证" class="headerlink" title="内核模块加载验证"></a>内核模块加载验证</h2><p>我们前面提到，在 AArch64 中，操作系统内核运行在 CPU 的 EL1 特权模式中；然而，我们通常所使用的Root机制并不能让我们任意地在 EL1 中执行指令，也就是说，我们现在用到的Root机制，实际上是 EL0 Root。</p>
+<p>在 Linux 内核中，Root 用户可以通过一种被称之为<font color=red>可加载内核模块</font>（LMK）的机制来在内核空间（EL1 级别）执行代码。简单来说，就是写一个内核模块，然后通过 <code>insmod</code> 或者 <code>modprob</code> 将此模块动态注册到内核之中执行；这样我们的Root用户实际上就拥有了 CPU 的 EL1 执行权限。</p>
+<p>然而不幸的是，现代 Android 系统对内核模块加载通常有验证机制，它不允许任意加载模块。通常的验证方式有两种：</p>
+<ol>
+<li>vermagic 验证</li>
+<li>签名验证</li>
+</ol>
+<p>vermagic 验证是因为 Linux 不保证内核模块的跨版本兼容性，因此在某个内核版本编译出来的模块被禁止在另外一个版本上运行；它通过内核版本号和导出符号的布局来限制模块的加载，避免出现模块和内核间不同版本的兼容性问题。</p>
+<p>签名验证就是一种纯粹的安全机制，在开启这个机制之后，内核拒绝加载未经验证过的签名的模块；与解锁<code>Bootloader</code>一样，这个签名通常在设备制造商手里，第三方签名的模块无法被加载。</p>
+<p>简单来说，内核模块加载验证机制在某种程度上阻止了我们对 EL1 级别权限的获取，目前我们所使用的Root实现被限制在 EL0，无法实现更高级别的特权操作。</p>
+<h1 id="实现Root访问的方法"><a href="#实现Root访问的方法" class="headerlink" title="实现Root访问的方法"></a>实现Root访问的方法</h1><p>前面我们描述了Root权限所能执行的操作和为了限制超级权限做出的一些特殊机制，那么，在 Android 系统中，我们如何获取Root权限呢？</p>
+<p>实现Root的方式整体上可以分为两种：</p>
+<p>1.解锁 Bootloader，通过修改 Android 系统的某一部分实现 Root。<br>2.通过某些系统漏洞提取，进而获取Root权限。</p>
+<p>我们在<font color=red>前文</font><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MjM5Njg5ODU2NA==&mid=2257498934&idx=1&sn=18a65d736b6b9f5870d15de19709924e">5</a> 可以知道，解锁<code>Bootloader</code>实际上就允许我们刷入第三方或者被修改过的操作系统；如果我们可以解锁 Bootloader，那么理论上讲我们就可以任意修改其操作系统，而Root权限只不过是操作系统的某种机制，因此获取Root权限自然不在话下。而这种修改方式常见的如下：</p>
+<p>1.通过直接刷入第三方系统实现；在这个第三方系统中，系统自带Root权限。<br>2.通过修改原系统的 init 实现；因为 init 进程是 Linux 系统的第一个进程，因此它实际上就以Root身份执行的；通过修改 init 也可以实现Root访问；Magisk 就是通过代理 init 实现的Root权限。<br>3.通过自定义内核实现；因为Root权限实际上是内核操控的，因此自定义内核然后刷入自然可以获取Root权限。</p>
+<p>如果我们不能解锁 Bootloader，那么可以通过系统漏洞来提权，进而拥有Root权限。在远古时代（特别是 Android 6.0 以前），各种一键Root满天飞，比如 kingRoot，360 一键 Root，他们本质上都是通过系统漏洞来获取特殊权限；然而，随着 Android 系统的演进，这种通过漏洞提权获取Root的方式已经很难出现在普通的大众视野里面了。我曾经提到太极有一种「少阳」模式，它就是通过这种方式来提权，进而实现不解锁就能对系统进程加载模块的；然而由于这种方式实际上就是利用漏洞，从机制上讲并不长久，因此被永久雪藏。</p>
+<p>如果我们通过系统漏洞提权，那么必须妥善处理好我上面所介绍的各种限制，如绕过 SELinux，关闭 seccomp，获取所有 capabilities，否则提权之后的Root基本就是个残废；然而，绕过这所有的机制并无一个稳定可用的方法，再加上 Android 系统的碎片化，导致通过漏洞获取通杀Root权限的实现成本变得非常之高。</p>
+<h1 id="Root-的过去和现在"><a href="#Root-的过去和现在" class="headerlink" title="Root 的过去和现在"></a>Root 的过去和现在</h1><p>上面我们介绍了一些Root权限的获取方式，那么具体来说，从 Android 诞生到现在，我们实际上所使用的Root方案，具体是哪种机制呢？</p>
+<p>在 Android 系统的远古时代，Root 方案基本上是通过 SUID 实现的。在上文描述 capabilities 和自主访问控制的时候我们提到过这种机制。<font color=red>SUID</font><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Setuid">6</a> 是一个特殊的权限位，它的特殊之处在于，如果某个可执行文件设置了这个权限位，某个用户在执行这个文件的之后，启动进程的 uid 会被自动切换为文件所有者的 uid。</p>
+<p>打个比方，假设我有个文件名叫 su，它的所有者是 Root，其他进程有其可执行权限；如果没有设置 SUID，那么某个进程比如 uid 为 10000，在执行这文件之后，它启动的进程实际 uid 也是 10000，也就是一个普通进程；而如果这个文件有被设置 SUID 位，那么 uid 为 10000 的用户在执行这个文件之后，所启动的进程 uid 会被自动切换为文件所有者，也就是Root用户，这个进程就是一个特权进程。</p>
+<p>用这种方式实现Root可谓是非常简单，只需要丢一个 SUID 的文件到系统里面就结束了。然而，<font color=red>Android 4.3 系统的安全性改进</font><a target="_blank" rel="noopener" href="https://source.android.com/security/enhancements/enhancements43">7</a> 让这种机制退出了历史舞台。这种机制其实非常简单，就是通过我们上文提到的 capabilities 机制，给 zygote 的子进程限制了 CAP_SETUID；而我们的 Android App 都是 zygote 子进程，因此 App 从此与 SUIDRoot告别了。然而，我们的 shell 用户还是可以 SUID 的；某些系统中自带的 su 还是这种 SUID 的 Root，在这种系统中我们会发现，adb shell 可以获取Root权限，但是 App 进程死活无法获取 Root，这时候可以看一下 su 文件是否有 SUID 位，如果有的话就是这个原因。</p>
+<p>在没有 SUID 之后，App 进程是无法 fork 一个 uid 为 0 的子进程的；从此以后，我们常见的Root实际上是一种「远程Root进程」。</p>
+<p>因为我们的 App fork 出来的进程 uid 不能被改为 0，因此这个进程肯定无法变成Root进程，怎么办呢？我们可以启动一个远程的特权进程，这个进程的 uid 是 0（比如从 init fork 出来），一旦我们的 App 需要使用 Root，那就从 App fork 出一个子进程，让这个子进程与那个远程的特权进程关联起来，我们想要执行Root命令的时候，还是与以前一样让这个子进程去做，不同的是，这个子进程实际上并不会执行这些命令，而是把命令发给那个远程的特权进程让它去执行，特权进程执行完毕之后把结果再返回给子进程，这样也实现了我们所需要的Root访问。你可以简单地把我们 fork 出来的子进程当作那个远程特权进程的代理，所以我把这种方式称之为「远程Root进程」。现在的Supersu 和 MagiskSU 都是通过这种方式实现的，如果你在 Magisk 下执行一个Root命令，你会发现除了你自已的 su 进程之外，还会有一个 magiskd 的进程，这两个进程会通过 UDS(Unix Domain Socket) 通信，有很多 Magisk 检测手段就是通过检测 UDS 实现的。</p>
+<h1 id="Root-的未来"><a href="#Root-的未来" class="headerlink" title="Root 的未来"></a>Root 的未来</h1><p>从上文我们可以了解到，当前的各种Root实现本质上都是 EL0 Root。由于这种Root的实现机制本质上运行在用户空间，它始终有其局限性；</p>
+<center><font size=24 color=red>我们需要一个 EL1 Root！</font></center>
+
+<p>我认为，随着 GKI 的出现[8]，内核的碎片化会逐渐消失，我们完全可以通过修改内核的方式去获取 EL1 Root。</p>
+<p>无比期待这种新的Root方式的到来。</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><ol>
+<li>本文搬运于虚拟框架</li>
+<li>排版与图片，都经重新编排转码</li>
+<li>转载表明出处</li>
+<li>原文链接:<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/eF9izvazeSZ1bVxOcxamQg">https://mp.weixin.qq.com/s/eF9izvazeSZ1bVxOcxamQg</a></li>
+</ol>
+<p>References</p>
+<p>[1] Linux 中的访问控制列表: <a target="_blank" rel="noopener" href="https://documentation.suse.com/zh-cn/sled/15-SP2/html/SLED-all/cha-security-acls.html">https://documentation.suse.com/zh-cn/sled/15-SP2/html/SLED-all/cha-security-acls.html</a></p>
+<p>[2] Linux man page: <a target="_blank" rel="noopener" href="https://man7.org/linux/man-pages/man7/capabilities.7.html">https://man7.org/linux/man-pages/man7/capabilities.7.html</a></p>
+<p>[3] linux-capabilities-in-a-nutshell: <a target="_blank" rel="noopener" href="https://k3a.me/linux-capabilities-in-a-nutshell/">https://k3a.me/linux-capabilities-in-a-nutshell/</a></p>
+<p>[4] secure computing mode: <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Seccomp">https://en.wikipedia.org/wiki/Seccomp</a></p>
+<p>[5] 前文: <a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MjM5Njg5ODU2NA==&amp;mid=2257498934&amp;idx=1&amp;sn=18a65d736b6b9f5870d15de19709924e">https://mp.weixin.qq.com/s?__biz=MjM5Njg5ODU2NA==&amp;mid=2257498934&amp;idx=1&amp;sn=18a65d736b6b9f5870d15de19709924e</a></p>
+<p>[6] SUID: <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Setuid">https://en.wikipedia.org/wiki/Setuid</a></p>
+<p>[7] Android 4.3 系统的安全性改进: <a target="_blank" rel="noopener" href="https://source.android.com/security/enhancements/enhancements43">https://source.android.com/security/enhancements/enhancements43</a></p>
+<p>[8] GKI 的到来: <a target="_blank" rel="noopener" href="https://source.android.com/devices/architecture/kernel/generic-kernel-image">https://source.android.com/devices/architecture/kernel/generic-kernel-image</a></p>
+
+    </div>
+
+    
+    
+    
+        <div class="reward-container">
+  <div>有没有考虑请作者喝水丫</div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="/images/wechatpay.png" alt="Lin 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="/images/alipay.png" alt="Lin 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+        
+
+<div>
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>本文作者： </strong>Lin
+  </li>
+  <li class="post-copyright-link">
+    <strong>本文链接：</strong>
+    <a href="http://lyq8177.xyz/2021/09/12/%E4%BD%95%E4%B8%BAroot/" title="何为root">http://lyq8177.xyz/2021/09/12/何为root/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%90%AC%E8%BF%90/" rel="tag"># 搬运</a>
+              <a href="/tags/%E7%8E%A9%E6%9C%BA/" rel="tag"># 玩机</a>
+              <a href="/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/" rel="tag"># 移动端</a>
+          </div>
+<div>
+  
+    <div>
+    
+        <div style="text-align:center;color: #ccc;font-size:14px;">-------------本文结束<i class="fa fa-paw"></i>感谢您的阅读-------------</div>
+    
+</div>
+
+  
+</div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2021/09/10/vmos/" rel="prev" title="VMOS Pro 会员版">
+      <i class="fa fa-chevron-left"></i> VMOS Pro 会员版
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Root-%E7%9A%84%E6%9D%A5%E6%BA%90"><span class="nav-number">1.</span> <span class="nav-text">Root 的来源</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%9C%80%E9%AB%98%E6%9D%83%E9%99%90%E5%85%B7%E4%BD%93%E6%8C%87%E7%9A%84%E5%93%AA%E4%BA%9B%EF%BC%9F"><span class="nav-number">2.</span> <span class="nav-text">最高权限具体指的哪些？</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%8A%8A%E6%9D%83%E5%8A%9B%E5%85%B3%E8%BF%9B%E7%AC%BC%E5%AD%90%E9%87%8C"><span class="nav-number">3.</span> <span class="nav-text">把权力关进笼子里</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#SELinux"><span class="nav-number">3.1.</span> <span class="nav-text">SELinux</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#capabilities"><span class="nav-number">3.2.</span> <span class="nav-text">capabilities</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%86%85%E6%A0%B8%E6%A8%A1%E5%9D%97%E5%8A%A0%E8%BD%BD%E9%AA%8C%E8%AF%81"><span class="nav-number">3.3.</span> <span class="nav-text">内核模块加载验证</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AE%9E%E7%8E%B0Root%E8%AE%BF%E9%97%AE%E7%9A%84%E6%96%B9%E6%B3%95"><span class="nav-number">4.</span> <span class="nav-text">实现Root访问的方法</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Root-%E7%9A%84%E8%BF%87%E5%8E%BB%E5%92%8C%E7%8E%B0%E5%9C%A8"><span class="nav-number">5.</span> <span class="nav-text">Root 的过去和现在</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Root-%E7%9A%84%E6%9C%AA%E6%9D%A5"><span class="nav-number">6.</span> <span class="nav-text">Root 的未来</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%90%8E%E8%AE%B0"><span class="nav-number">7.</span> <span class="nav-text">后记</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Lin"
+      src="/images/author.png">
+  <p class="site-author-name" itemprop="name">Lin</p>
+  <div class="site-description" itemprop="description">归来仍是少年</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">11</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">10</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1833106566&auto=1&height=66"></iframe>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="mailto:1127555887@qq.com" title="E-Mail → mailto:1127555887@qq.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://t.me/ql8177" title="Telegram → https:&#x2F;&#x2F;t.me&#x2F;ql8177" rel="noopener" target="_blank"><i class="fab fa-telegram fa-fw"></i>Telegram</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="http://123.lyq8177.xyz/" title="友情链接 → http:&#x2F;&#x2F;123.lyq8177.xyz" rel="noopener" target="_blank"><i class=" fa-fw"></i>友情链接</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">By Lin</span>
+</div>
+<script async src="/lib/others/busuanzi.pure.mini.js"></script>
+  
+<div class="theme-info">
+  <div class="powered-by"></div>
+  <span class="post-count">QAQ我为这个网站打了13.6k个字</span>
+</div>
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="热度">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script size="500" alpha="0.6" zIndex="-1" src="/lib/canvas-ribbon/canvas-ribbon.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+  <script defer src="/lib/three/three.min.js"></script>
+    <script defer src="/lib/three/canvas_lines.min.js"></script>
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+   <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas>
+   <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
+   <script type="text/javascript" src="/js/src/fireworks.js"></script>
+   
+<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
+</html>
