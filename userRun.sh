@@ -3,8 +3,7 @@
 echo "add User CMD here!"
 
 echo "=====User CMD Start!====="
-# 快速添加登录github秘钥
-alias github='eval "$(/usr/bin/ssh-agent -s)";/usr/bin/ssh-add ~/.ssh/id_rsa'
+
 # 重启内部pm2 服务器
 alias repm2='pm2 restart /hexo_run.js'
 
@@ -25,14 +24,6 @@ npm config set registry https://registry.npmjs.org/
 #### history 持久化
 rm -rfv ~/.bash_history
 ln -s /app/.bash_history ~/.bash_history
-
-#### ssh 配置
-#### 避免 "Are you sure you want to continue connecting (yes/no)? yes"
-chmod 600 /app/.ssh/id_rsa 
-chmod 644 /app/.ssh/id_rsa.pub 
-chmod 700 /app/.ssh 
-rm -rfv ~/.ssh
-ln -s /app/.ssh ~/.ssh
 
 #### npm 插件安装
 # 这里用户可以修改自定义安装
