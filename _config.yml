@@ -97,6 +97,12 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
+renderer:
+  pug:
+    pretty: false
+    cache: true
+  stylus:
+    compress: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
