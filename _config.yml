@@ -109,4 +109,5 @@ renderer:
 deploy:
   type: 'git'
   repo: 'git@github.com:llovely45/llovely45.github.io.git'
-  branch: gh-pages
+  branch: master
+
