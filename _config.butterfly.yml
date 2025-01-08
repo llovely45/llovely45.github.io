@@ -602,7 +602,7 @@ facebook_comments:
   pageSize: 10
   # Choose: social / time / reverse_time
   order_by: social
-  lang: en_US
+  lang: zh-cn
 
 # Twikoo
 # https://github.com/imaegoo/twikoo
