@@ -324,7 +324,7 @@ aside:
     order: 1
     sort_order:
   card_archives:
-    enable: false
+    enable: true
     # Type: monthly / yearly
     type: monthly
     # Eg: YYYY年MM月
