@@ -6,7 +6,7 @@ date: '2025-01-19T23:05:46.635640+08:00'
 tags:
 - 英语阅读
 title: 日读一文：TikTok goes dark in US
-updated: '2025-01-19T23:05:48.184+08:00'
+updated: '2025-01-19T23:16:13.021+08:00'
 ---
 WASHINGTON - The popular video-sharing app TikTok went dark late Saturday in the United States.
 
