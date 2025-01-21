@@ -6,7 +6,7 @@ date: '2025-01-19T23:05:46.635640+08:00'
 tags:
 - 英语阅读
 title: 日读一文：TikTok goes dark in US
-updated: '2025-01-19T23:16:13.021+08:00'
+updated: '2025-01-21T16:36:54.945+08:00'
 ---
 WASHINGTON - The popular video-sharing app TikTok went dark late Saturday in the United States.
 
@@ -22,9 +22,15 @@ tiktok的用户在这个国家收到了一条消息说：“对不起，tiktok�
 
 US President-elect Donald Trump said earlier on Saturday that he will "most likely" give TikTok a 90-day extension on Inauguration Day, which is Monday.
 
+美国总统候选人唐纳德 特朗普在星期六早些时候说，他将很可能给tiktok一个90天的延续，在他周一上任的时候。
+
 In an interview with NBC News, Trump said he hadn't made a final decision on TikTok but was considering a 90-day extension of the Sunday deadline.
 
+根据nbc的采访新闻，特朗普说他没有做出一个最终的决定，但是会在周六之前考虑90天的延期。
+
 "I think that would be, certainly, an option that we look at. The 90-day extension is something that will be most likely done, because it's appropriate," Trump said in the phone interview. "We have to look at it carefully. It's a very big situation."
+
+“我认为他将会实现，当然，我们关注的这个选项。90天的延续是哦们很可能去做的，因为他是适当的”特朗普在电话采访中说。“我们必须小心的看他，这是一个非常大的情况”
 
 TikTok, headquartered in Los Angeles, warned Friday that it will be forced to shut down its services for the 170 million users in the United States on Sunday unless US President Joe Biden provides a "definitive" assurance.
 
