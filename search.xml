@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Hexo推送Cloudflare</title>
+      <link href="/posts/1811912541/"/>
+      <url>/posts/1811912541/</url>
+      
+        <content type="html"><![CDATA[<h1 id="构建静态页面"><a href="#构建静态页面" class="headerlink" title="构建静态页面"></a>构建静态页面</h1><p>构建静态页面并推送Github</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure><h1 id="Cloudflare部署"><a href="#Cloudflare部署" class="headerlink" title="Cloudflare部署"></a>Cloudflare部署</h1><p>创建一个pages项目，用选择Github项目作为源，确定即可，添加自定义域名即可使用Cloudflare作为服务端</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Cloudflare </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo主题美化-第三期</title>
       <link href="/posts/686321700/"/>
       <url>/posts/686321700/</url>
