@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Cloudflare SaaS加速Hexo</title>
+      <link href="/posts/1411444449/"/>
+      <url>/posts/1411444449/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-域名准备"><a href="#1-域名准备" class="headerlink" title="1. 域名准备"></a>1. 域名准备</h1><p>首先需要两个域名，例如本站使用<code>https://blog.lin8177.top</code>作为外部访问域名，使用<code>https://blog-origin.lin8177.top</code>作为Cloudflare回源域名。</p><p>将<code>https://blog-origin.lin8177.top</code>设置Pages的自定义源，确保<code>https://blog-origin.lin8177.top</code>能访问到我们的博客</p><h1 id="2-添加回退源"><a href="#2-添加回退源" class="headerlink" title="2. 添加回退源"></a>2. 添加回退源</h1><p><img src="https://img.lin8177.top/file/1767781871620_image.png"></p><ul><li>进入到Cloudflare域名管理界面 -&gt; SSL&#x2F;TLS -&gt; 自定义主机名 -&gt; 添加一个回退源</li><li>回退源地址即为我们刚才解析blog-origin.lin8177.top</li></ul><h1 id="3-添加自定义主机名"><a href="#3-添加自定义主机名" class="headerlink" title="3. 添加自定义主机名"></a>3. 添加自定义主机名</h1><p>添加<code>https://blog.lin8177.top</code>，并添加txt记录验证</p><h1 id="4-解析"><a href="#4-解析" class="headerlink" title="4. 解析"></a>4. 解析</h1><p>添加<code>CNAME</code>解析，设置<code>blog</code>指向一个优选域名，例如<code>csgo.com</code>（需要不同在另一个DNS服务商设置，CF现在不支持跨账号CNAME）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Cloudflare </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo推送Cloudflare</title>
       <link href="/posts/1811912541/"/>
       <url>/posts/1811912541/</url>
@@ -20,9 +45,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Cloudflare </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
