@@ -4,6 +4,83 @@
   
     
     <entry>
+      <title>谷歌反重力踩坑实录</title>
+      <link href="/posts/3858473713/"/>
+      <url>/posts/3858473713/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-卡登录页面"><a href="#1-卡登录页面" class="headerlink" title="1. 卡登录页面"></a>1. 卡登录页面</h1><p>需要将代理改成<code>Tun</code>模式或者<code>虚拟网卡</code>模式</p><h1 id="2-账号不符合要求"><a href="#2-账号不符合要求" class="headerlink" title="2. 账号不符合要求"></a>2. 账号不符合要求</h1><p>提示<code>Your current account is not eligible for Antigravity, because it is not currently available in your location.</code>，检查是否使用美国的谷歌账号登录，如果没有美国的谷歌账号，则去新注册一个。</p><h1 id="3-额度问题"><a href="#3-额度问题" class="headerlink" title="3. 额度问题"></a>3. 额度问题</h1><p>可以使用<a href="https://github.com/lbjlaq/Antigravity-Manager">Antigravity-Manager</a>切换账号，即使不是美国的账号也能使用这个进行切换。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 薅羊毛 </tag>
+            
+            <tag> Gemini </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Cloudflare Pages 本地开发环境构建</title>
+      <link href="/posts/3188902425/"/>
+      <url>/posts/3188902425/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-创建-Vite-React（JS）项目"><a href="#1-创建-Vite-React（JS）项目" class="headerlink" title="1. 创建 Vite React（JS）项目"></a>1. 创建 Vite React（JS）项目</h1><p>创建一个项目</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm create vite@latest Liberary -- --template react</span><br><span class="line"><span class="built_in">cd</span> Liberary</span><br><span class="line">npm i</span><br><span class="line">npm i -D wrangler</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>添加数据库，<code>npx wrangler d1 create liberary_db</code>（没能成功返回）（需关闭v2的tun模式，成功返回）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Cloudflare </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2026年 Gemini 学生优惠认证教程</title>
+      <link href="/posts/430679315/"/>
+      <url>/posts/430679315/</url>
+      
+        <content type="html"><![CDATA[<h1 id="验证资格条件"><a href="#验证资格条件" class="headerlink" title="验证资格条件"></a>验证资格条件</h1><p>打开  这里会显示你的 ip 情况。<strong>ip 必须是美国</strong>。确保你的谷歌账号<strong>归属地是美国</strong>。<br><img src="https://img.lin8177.top/file/1767877399093_IPPure-1767877367567.png"></p><p>依我所见，只需要你的IP不是共享的IP，仅需是IDC机房IP，短时间内没有验证过资格的，都能成功打开<a href="https://one.google.com/ai-student">资格审查页面</a>。</p><p><img src="https://img.lin8177.top/file/1767878395404_image.png"></p><p>如没验证，则图中蓝色按钮为验证资格按钮，鼠标右键按钮复制链接，打开<a href="https://batch.1key.me/">SheerID Batch Verifier</a>网站，自助验证资格。</p><p><img src="https://img.lin8177.top/file/1767878559437_image.png"></p><p>右边显示Success则验证成功，如遇失败，则返回验证资格页面，刷新网页，重新复制链接验证（本人验证了四次才成功）。成功只后返回Gemini验证页面，验证资格按钮将会变成下图<code>畅享学生优惠</code>按钮。自行购买$1虚拟卡，进行绑定扣款验证即可使用一年的Gemini Pro。</p><p><img src="https://img.lin8177.top/file/1767878456857_image.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 薅羊毛 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Cloudflare SaaS加速Hexo</title>
       <link href="/posts/1411444449/"/>
       <url>/posts/1411444449/</url>
