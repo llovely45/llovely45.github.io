@@ -33,7 +33,7 @@
       <link href="/posts/3858473713/"/>
       <url>/posts/3858473713/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-卡登录页面"><a href="#1-卡登录页面" class="headerlink" title="1. 卡登录页面"></a>1. 卡登录页面</h1><p>需要将代理改成<code>Tun</code>模式或者<code>虚拟网卡</code>模式</p><h1 id="2-账号不符合要求"><a href="#2-账号不符合要求" class="headerlink" title="2. 账号不符合要求"></a>2. 账号不符合要求</h1><p>提示<code>Your current account is not eligible for Antigravity, because it is not currently available in your location.</code>，检查是否使用美国的谷歌账号登录，如果没有美国的谷歌账号，则去新注册一个。</p><h1 id="3-额度问题"><a href="#3-额度问题" class="headerlink" title="3. 额度问题"></a>3. 额度问题</h1><p>可以使用<a href="https://github.com/lbjlaq/Antigravity-Manager">Antigravity-Manager</a>切换账号，即使不是美国的账号也能使用这个进行切换。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="卡登录页面"><a href="#卡登录页面" class="headerlink" title="卡登录页面"></a>卡登录页面</h1><p>需要将代理改成<code>Tun</code>模式或者<code>虚拟网卡</code>模式</p><h1 id="账号不符合要求"><a href="#账号不符合要求" class="headerlink" title="账号不符合要求"></a>账号不符合要求</h1><p>提示<code>Your current account is not eligible for Antigravity, because it is not currently available in your location.</code>，检查是否使用美国的谷歌账号登录，如果没有美国的谷歌账号，则去新注册一个。</p><h1 id="额度问题"><a href="#额度问题" class="headerlink" title="额度问题"></a>额度问题</h1><p>可以使用<a href="https://github.com/lbjlaq/Antigravity-Manager">Antigravity-Manager</a>切换账号，即使不是美国的账号也能使用这个进行切换。</p>]]></content>
       
       
       <categories>
