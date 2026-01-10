@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>使用优选域名加速Cloudflare Workers &amp; Pages</title>
+      <link href="/posts/4093848796/"/>
+      <url>/posts/4093848796/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Workers-项目使用优选域名"><a href="#Workers-项目使用优选域名" class="headerlink" title="Workers 项目使用优选域名"></a>Workers 项目使用优选域名</h1><h2 id="设置自定义域-CNAME-记录至优选域名"><a href="#设置自定义域-CNAME-记录至优选域名" class="headerlink" title="设置自定义域 CNAME 记录至优选域名"></a>设置自定义域 <strong>CNAME 记录</strong>至<strong>优选域名</strong></h2><p>将需要优选的域名，例如<code>blog.lin8177.top</code>，添加一个<code>CNAME</code>解析到优选域名<code>csgo.com</code></p><p><strong>提示：不能开小黄云</strong></p><h2 id="设置-Workers-路由"><a href="#设置-Workers-路由" class="headerlink" title="设置 Workers 路由"></a>设置 Workers 路由</h2><p><img src="https://img.lin8177.top/file/1768036041894_image.png"></p><p>注意自定义域末位必须加上<code>/*</code>，也就是<code>blog.lin8177.top/*</code></p><p>这样Workers就优选好了</p><h1 id="Pages-项目使用优选域名"><a href="#Pages-项目使用优选域名" class="headerlink" title="Pages 项目使用优选域名"></a>Pages 项目使用优选域名</h1><h2 id="添加自定义域"><a href="#添加自定义域" class="headerlink" title="添加自定义域"></a>添加自定义域</h2><p>在Pages项目中设置自定义域，以<code>blog.lin8177.top</code>为例，添加自定义域</p><p><img src="https://img.lin8177.top/file/1768036244755_image.png"></p><h2 id="注册华为云国际版"><a href="#注册华为云国际版" class="headerlink" title="注册华为云国际版"></a>注册华为云国际版</h2><p>注册<a href="https://console-intl.huaweicloud.com/dns/?region=af-north-1">华为云国际版</a></p><p><img src="https://img.lin8177.top/file/1768036395841_image.png"></p><p>仅需邮箱，KYC可跳过</p><h2 id="添加域名"><a href="#添加域名" class="headerlink" title="添加域名"></a>添加域名</h2><p><img src="https://img.lin8177.top/file/1768036535340_image.png"></p><p>直接填写需要优选的域名即可</p><h2 id="添加CNAME记录"><a href="#添加CNAME记录" class="headerlink" title="添加CNAME记录"></a>添加CNAME记录</h2><p>添加中国大陆的CNAME记录</p><p><img src="https://img.lin8177.top/file/1768036639107_image.png"></p><p>添加全球默认的CNAME记录，记录值为Pages项目分配的域名</p><p><img src="https://img.lin8177.top/file/1768036702162_image.png"></p><h1 id="添加NS记录"><a href="#添加NS记录" class="headerlink" title="添加NS记录"></a>添加NS记录</h1><p>记下华为云DNS中的NS记录的值<br><img src="https://img.lin8177.top/file/1768036760747_image.png"></p><p>进入Cloudflare中，添加四条NS记录</p><p><img src="https://img.lin8177.top/file/1768036844381_image.png"></p><p>至此，Pages项目就优选好了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Cloudflare </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo管理面板</title>
       <link href="/posts/3199625328/"/>
       <url>/posts/3199625328/</url>
