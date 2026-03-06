@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260306 AI 资讯快报</title>
+      <link href="/posts/4503602629/"/>
+      <url>/posts/4503602629/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260306-AI-资讯快报"><a href="#20260306-AI-资讯快报" class="headerlink" title="20260306 AI 资讯快报"></a>20260306 AI 资讯快报</h1><blockquote><p>2026-03-06 · 实时更新</p></blockquote><h2 id="OpenAI-最强模型-GPT-5-4-正式登场：原生支持计算机操控"><a href="#OpenAI-最强模型-GPT-5-4-正式登场：原生支持计算机操控" class="headerlink" title="OpenAI 最强模型 GPT-5.4 正式登场：原生支持计算机操控"></a><a href="https://mp.weixin.qq.com/s/02ld3POFBIHI5bIJompCZA">OpenAI 最强模型 GPT-5.4 正式登场：原生支持计算机操控</a></h2><p>OpenAI正式发布，首次在单一模型中融合推理、编程、计算机原生交互、深度网页搜索及百万级Token上下文五大能力。模型在GDPval知识工作测试中得分83%，在SWE-Bench Pro编程测试中达57.7%，并在OSWorld计算机操作测试中取得75%成绩，均为业界领先。</p><hr><h2 id="阿里开源HiClaw：-Team-版-OpenClaw，5分钟完成本地安装"><a href="#阿里开源HiClaw：-Team-版-OpenClaw，5分钟完成本地安装" class="headerlink" title="阿里开源HiClaw： Team 版 OpenClaw，5分钟完成本地安装"></a><a href="https://mp.weixin.qq.com/s/1zPiI3GIExxMnK4BtDzCCQ">阿里开源HiClaw： Team 版 OpenClaw，5分钟完成本地安装</a></h2><p>阿里云开源，作为OpenClaw的”Team版”升级方案，引入Manager Agent架构实现多Agent协作管理。HiClaw通过AI Gateway集中管理API凭证，解决原生OpenClaw的安全风险；Worker Agent运行在独立容器中，技能与记忆完全隔离。系统内置Matrix服务器和Element客户端，支持移动端随时指挥，无需配置飞书&#x2F;钉钉机器人。</p><hr><h2 id="VAST完成5000万美元A轮融资，加速构建世界模型与UGC互动内容平台"><a href="#VAST完成5000万美元A轮融资，加速构建世界模型与UGC互动内容平台" class="headerlink" title="VAST完成5000万美元A轮融资，加速构建世界模型与UGC互动内容平台"></a><a href="https://mp.weixin.qq.com/s/0C6j-jovp0Nsl3lKmygdKA">VAST完成5000万美元A轮融资，加速构建世界模型与UGC互动内容平台</a></h2><p>通用人工智能公司VAST宣布完成5000万美元A轮融资，由阿里、恒旭资本联合领投，元禾璞华、百度风投等跟投，老股东春华创投超额加注。VAST旗下平台已聚集超650万创作者，累计生成近1亿个3D模型。本轮资金将重点投入世界模型研发与UGC互动内容平台建设。</p><hr><h2 id="微软开源-Phi-4-Reasoning-Vision-15B-视觉推理模型"><a href="#微软开源-Phi-4-Reasoning-Vision-15B-视觉推理模型" class="headerlink" title="微软开源 Phi-4-Reasoning-Vision-15B 视觉推理模型"></a><a href="https://www.ithome.com/0/926/026.htm">微软开源 Phi-4-Reasoning-Vision-15B 视觉推理模型</a></h2><p>微软发布开源模型，采用MIT许可证，是Phi-4系列首个同时具备高分辨率视觉感知与选择性推理能力的小语言模型。模型可根据任务需求在”推理模式”与”非推理模式”间自动切换，数学推理时启用多步思考链，简单OCR任务则直接输出以降低延迟。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260305 AI 资讯快报</title>
       <link href="/posts/7885349153/"/>
       <url>/posts/7885349153/</url>
