@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260313 AI 资讯快报</title>
+      <link href="/posts/6046966630/"/>
+      <url>/posts/6046966630/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260313-AI-资讯快报"><a href="#20260313-AI-资讯快报" class="headerlink" title="20260313 AI 资讯快报"></a>20260313 AI 资讯快报</h1><blockquote><p>2026-03-13 · 实时更新</p></blockquote><h2 id="InternVL-U重磅开源，4B参数实现理解、推理、生成、编辑一体化"><a href="#InternVL-U重磅开源，4B参数实现理解、推理、生成、编辑一体化" class="headerlink" title="InternVL-U重磅开源，4B参数实现理解、推理、生成、编辑一体化"></a><a href="https://mp.weixin.qq.com/s/xN1H5s66ruXY9s8aOd4Rcg">InternVL-U重磅开源，4B参数实现理解、推理、生成、编辑一体化</a></h2><p>上海人工智能实验室联合多所高校开源多模态一体化模型，仅4B参数即实现理解、推理、生成、编辑四大能力统一。模型采用”统一语境建模+模态专用模块化+解耦视觉表征”架构，在文本渲染、科学推理等复杂场景中性能超越14B级模型，已全面开源并提供完整推理代码与评测工具。</p><hr><h2 id="大晓机器人开源实时生成世界模型-Kairos-3-0-4B"><a href="#大晓机器人开源实时生成世界模型-Kairos-3-0-4B" class="headerlink" title="大晓机器人开源实时生成世界模型 Kairos 3.0-4B"></a><a href="https://mp.weixin.qq.com/s/6zLPiiYC6KzwIvMWYH66xA">大晓机器人开源实时生成世界模型 Kairos 3.0-4B</a></h2><p>大晓机器人开源具身原生世界模型，以”多模态理解—生成—预测”一体化架构实现物理级深度理解与长时动态交互。模型仅4B参数，推理速度较Cosmos 2.5提升72倍，是行业首个在THOR端侧平台达成1:1.5实时生成的具身世界模型，可直接驱动机器人本体完成作业。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260312 AI 资讯快报</title>
       <link href="/posts/7559297622/"/>
       <url>/posts/7559297622/</url>
