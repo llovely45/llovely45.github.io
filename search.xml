@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260318 AI 资讯快报</title>
+      <link href="/posts/8713568466/"/>
+      <url>/posts/8713568466/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260318-AI-资讯快报"><a href="#20260318-AI-资讯快报" class="headerlink" title="20260318 AI 资讯快报"></a>20260318 AI 资讯快报</h1><blockquote><p>2026-03-18 · 实时更新</p></blockquote><h2 id="OpenAI推出GPT-5-4-mini和GPT-5-4-nano，实力逼近满血版"><a href="#OpenAI推出GPT-5-4-mini和GPT-5-4-nano，实力逼近满血版" class="headerlink" title="OpenAI推出GPT-5.4 mini和GPT-5.4 nano，实力逼近满血版"></a><a href="https://mp.weixin.qq.com/s/2hpcOsnLirmjeopKFFCl3w">OpenAI推出GPT-5.4 mini和GPT-5.4 nano，实力逼近满血版</a></h2><p>OpenAI最新推出与两款轻量级模型，GPT-5.4 mini在SWE-Bench Pro编码基准测试中取得54.4%成绩，比满血版GPT-5.4低3.3个百分点，运行速度较上一代提升2倍，同时支持40万token超长上下文，输入价格仅0.75美元&#x2F;百万token，输出价格为满血版的三分之一。GPT-5.4 nano定位超轻量任务，价格仅为满血版1&#x2F;12。</p><hr><h2 id="MiniMax推出MiniMax-M2-7，开启模型的自我进化"><a href="#MiniMax推出MiniMax-M2-7，开启模型的自我进化" class="headerlink" title="MiniMax推出MiniMax M2.7，开启模型的自我进化"></a><a href="https://mp.weixin.qq.com/s/Xfsq8YDP7xkOLzbh1HwdjA">MiniMax推出MiniMax M2.7，开启模型的自我进化</a></h2><p>MiniMax推出模型，首次实现模型深度参与自我迭代。模型可构建复杂Agent Harness，通过Agent Teams、复杂Skills等能力完成高度复杂的生产力任务。在软件工程领域，M2.7在SWE-Pro基准测试中得分56.22%接近Opus水平，在VIBE-Pro端到端项目交付中达55.6%。在专业办公领域，GDPval-AA的ELO得分1495为开源最高。</p><hr><h2 id="LiblibAI推出专业AI视频创作平台LibTV"><a href="#LiblibAI推出专业AI视频创作平台LibTV" class="headerlink" title="LiblibAI推出专业AI视频创作平台LibTV"></a><a href="https://mp.weixin.qq.com/s/C7xUcSWVXLYfexbFIeI8Jw">LiblibAI推出专业AI视频创作平台LibTV</a></h2><p>LiblibAI推出首个同时面向人类创作者与AI Agent的专业视频创作平台，平台提供无限画布式工作流，支持剧本解析、分镜管理、角色三视图、多机位生成等20余种专业AI能力，集成豆包、可灵、Kimi等顶级模型。Agent可通过Skill接口调用LibTV，实现一句话生成5分钟短剧、音乐转MV、视频风格复刻等自动化创作。</p><hr><h2 id="Midjourney推出Midjourney-V8模型"><a href="#Midjourney推出Midjourney-V8模型" class="headerlink" title="Midjourney推出Midjourney V8模型"></a><a href="https://ai-bot.cn/sites/56.html">Midjourney推出Midjourney V8模型</a></h2><p>Midjourney于3月17日正式推出 Alpha测试版，带来革命性升级：模型生成速度提升约5倍，提示理解能力显著增强，文本渲染质量大幅改善，图像细节与连贯性全面提升。新增原生2K高清模式和增强连贯性模式，完美兼容V7个性化配置。官方建议采用长提示配合高风格化参数以发挥最佳效果。</p><hr><h2 id="Skywork正式推出云端AI原生助理SkyClaw"><a href="#Skywork正式推出云端AI原生助理SkyClaw" class="headerlink" title="Skywork正式推出云端AI原生助理SkyClaw"></a><a href="https://mp.weixin.qq.com/s/nGWO6eXXKoX2FqIrDHznoA">Skywork正式推出云端AI原生助理SkyClaw</a></h2><p>昆仑万维旗下Skywork正式推出云端AI原生助理，发布首批六大官方Skills，涵盖Skywork PPT、Document、Excel、Design、Search及Mureka Music Maker，用户可通过GitHub或Clawhub平台调用。SkyClaw基于开源架构OpenClaw深度重构，支持24&#x2F;7云端持续运行，本地离线也能自动完成任务。</p><hr><h2 id="百度推出“龙虾”全家桶，手机、电脑、家里都能用"><a href="#百度推出“龙虾”全家桶，手机、电脑、家里都能用" class="headerlink" title="百度推出“龙虾”全家桶，手机、电脑、家里都能用"></a><a href="https://mp.weixin.qq.com/s/F76BPbjELnsqEhdYa4NHWA">百度推出“龙虾”全家桶，手机、电脑、家里都能用</a></h2><p>百度AI DAY推出”龙虾”全家桶，全面布局OpenClaw生态。核心产品包括：桌面AI智能体DuMate、手机龙虾应用、小度”家用小龙虾”、云端虾DuClaw及安全虾。百度搜索Skill在OpenClaw官方商店下载量超4.5万次，位居全球第一。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260317 AI 资讯快报</title>
       <link href="/posts/7084647597/"/>
       <url>/posts/7084647597/</url>
