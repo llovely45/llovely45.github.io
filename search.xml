@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260324 AI 资讯快报</title>
+      <link href="/posts/2944419203/"/>
+      <url>/posts/2944419203/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260324-AI-资讯快报"><a href="#20260324-AI-资讯快报" class="headerlink" title="20260324 AI 资讯快报"></a>20260324 AI 资讯快报</h1><blockquote><p>2026-03-24 · 实时更新</p></blockquote><h2 id="阿里达摩院祭出开源架构CPU王炸：玄铁C950"><a href="#阿里达摩院祭出开源架构CPU王炸：玄铁C950" class="headerlink" title="阿里达摩院祭出开源架构CPU王炸：玄铁C950"></a><a href="https://mp.weixin.qq.com/s/9BfUPT0kljNuca0LnL7yiA">阿里达摩院祭出开源架构CPU王炸：玄铁C950</a></h2><p>阿里达摩院推出新一代旗舰RISC-V CPU IP——玄铁C950，SPECint2006基准测试突破70分，成为全球最强RISC-V CPU。产品首次实现RISC-V CPU原生流畅跑通千亿参数大模型（Qwen3、DeepSeek V3），集成4K超宽Vector引擎和Matrix引擎，单核算力达8TFLOPS。</p><hr><h2 id="阿里通义推出PrismAudio：声画同频，音效随行"><a href="#阿里通义推出PrismAudio：声画同频，音效随行" class="headerlink" title="阿里通义推出PrismAudio：声画同频，音效随行"></a><a href="https://mp.weixin.qq.com/s/P-aMtldVBt0a8GwJvl2dBQ">阿里通义推出PrismAudio：声画同频，音效随行</a></h2><p>阿里通义实验室推出视频生成音频框架 ，专注环境音&#x2F;音效合成。模型首创将强化学习与思维链结合，通过”分解式思维链”让模型先分析视频内容、时序、音质、空间位置再生成音频，引入四位”老师”（语义、时序、美学、空间）分别打分优化。</p><hr><h2 id="智象未来推出首个多模态应用“龙虾”产品——HiDreamClaw"><a href="#智象未来推出首个多模态应用“龙虾”产品——HiDreamClaw" class="headerlink" title="智象未来推出首个多模态应用“龙虾”产品——HiDreamClaw"></a><a href="https://mp.weixin.qq.com/s/adSkipugQdi-gACU736mhg?scene=1">智象未来推出首个多模态应用“龙虾”产品——HiDreamClaw</a></h2><p>智象未来推出首个图片视频原生AI Agent产品，已接入旗下创意平台vivago web端面向海外用户开放。产品基于自研超百亿参数HiDream-I1多模态大模型，内置AIGC Skill，支持图片、视频、文字等多模态创作，集成Nano Banana、Veo、Sora等SOTA模型。</p><hr><h2 id="Meta收编-AI-智能体公司-Dreamer"><a href="#Meta收编-AI-智能体公司-Dreamer" class="headerlink" title="Meta收编 AI 智能体公司 Dreamer"></a><a href="https://www.ithome.com/0/931/947.htm">Meta收编 AI 智能体公司 Dreamer</a></h2><p>Meta收购AI创业公司Dreamer及团队，公司由前小米全球副总裁雨果·巴拉等人创立，能帮助用户创建AI智能体。Dreamer团队将加入Meta超级智能实验室，负责AI智能体研发。目前协议条款未披露，但投资方将获得高于投资额的回报，Dreamer保留独立法人实体地位，Meta获得非排他性技术许可。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260323 AI 资讯快报</title>
       <link href="/posts/4438879546/"/>
       <url>/posts/4438879546/</url>
