@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260325 AI 资讯快报</title>
+      <link href="/posts/5073087486/"/>
+      <url>/posts/5073087486/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260325-AI-资讯快报"><a href="#20260325-AI-资讯快报" class="headerlink" title="20260325 AI 资讯快报"></a>20260325 AI 资讯快报</h1><blockquote><p>2026-03-25 · 实时更新</p></blockquote><h2 id="OpenAI宣布关停Sora，战略转向企业级生产力工具"><a href="#OpenAI宣布关停Sora，战略转向企业级生产力工具" class="headerlink" title="OpenAI宣布关停Sora，战略转向企业级生产力工具"></a><a href="https://mp.weixin.qq.com/s/-f35MPQ4CJeO8P-nggCRaQ">OpenAI宣布关停Sora，战略转向企业级生产力工具</a></h2><p>OpenAI宣布关停视频生成平台，包括App、API及ChatGPT视频功能。关停根本原因是OpenAI为筹备IPO进行的战略收缩，将算力转向下一代模型”Spud”及企业级生产力工具。同时OpenAI刚与迪士尼达成三年IP授权协议并获10亿美元投资意向，现已终止合作。</p><hr><h2 id="阿里在海外推出”企业级龙虾”Accio-Work"><a href="#阿里在海外推出”企业级龙虾”Accio-Work" class="headerlink" title="阿里在海外推出”企业级龙虾”Accio Work"></a><a href="https://mp.weixin.qq.com/s/S3CZBNf9Rks9twQzZ6m3Ow?scene=1&click_id=90">阿里在海外推出”企业级龙虾”Accio Work</a></h2><p>阿里在海外上线企业级Agent产品 ，定位”企业版龙虾”。用户只需提出想法，内置的AI Agent团队可7×24小时自动完成选品、采购、建站、运营等全流程，30分钟生成可运营的海外网店。产品支持单个Agent对话或Agent Team群聊模式，可自定义角色与技能，关键操作需用户授权保障安全。</p><hr><h2 id="JVS-Claw全面开放，无需邀请码快乐养虾"><a href="#JVS-Claw全面开放，无需邀请码快乐养虾" class="headerlink" title="JVS Claw全面开放，无需邀请码快乐养虾"></a><a href="https://mp.weixin.qq.com/s/1UGnrKk9PSIQ0XkWKmiBPw">JVS Claw全面开放，无需邀请码快乐养虾</a></h2><p>阿里云全面开放公测，用户无需邀请码可访问使用。新版本新增语音输入、5GB专属文件空间、一键修复、Skill开关等功能，支持定时任务管理和Clawbot一键升级。新用户可享7天免费体验，付费版”匠心版”首月低至39元，用户无需购买Mac mini硬件或承担API费用可使用云端OpenClaw服务。</p><hr><h2 id="MiniMax-Office-Skills：开源一套生产级办公文档引擎"><a href="#MiniMax-Office-Skills：开源一套生产级办公文档引擎" class="headerlink" title="MiniMax Office Skills：开源一套生产级办公文档引擎"></a><a href="https://mp.weixin.qq.com/s/JKkdMqnHQUnpt0UYRsLTTA">MiniMax Office Skills：开源一套生产级办公文档引擎</a></h2><p>MiniMax宣布开源一套生产级Office文档引擎，包含Word、Excel、PDF、PPT四大组件，采用MIT协议。方案能解决AI生成文档”能用但不好用”的痛点，确保公式、格式、数据透视表等高级功能完整保留。技术选型上，Word采用.NET OpenXML SDK非python-docx，Excel直接操作XML非openpyxl，换取更高保真度。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260324 AI 资讯快报</title>
       <link href="/posts/2944419203/"/>
       <url>/posts/2944419203/</url>
