@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260401 AI 资讯快报</title>
+      <link href="/posts/2156777282/"/>
+      <url>/posts/2156777282/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260401-AI-资讯快报"><a href="#20260401-AI-资讯快报" class="headerlink" title="20260401 AI 资讯快报"></a>20260401 AI 资讯快报</h1><blockquote><p>2026-04-01 · 实时更新</p></blockquote><h2 id="OpenAI获1220亿美元史上最大单笔融资纪录"><a href="#OpenAI获1220亿美元史上最大单笔融资纪录" class="headerlink" title="OpenAI获1220亿美元史上最大单笔融资纪录"></a><a href="https://mp.weixin.qq.com/s/STX1FTMPn_p5B37-ZJ3EhA">OpenAI获1220亿美元史上最大单笔融资纪录</a></h2><p>OpenAI完成史上最大单轮融资1220亿美元，投后估值达8520亿美元，由亚马逊、英伟达、软银等领投。同时因日均成本高达100万美元且用户留存低迷，OpenAI关闭了视频生成产品Sora。标志着公司战略从惊艳Demo转向务实商业化，聚焦文本模型、代码生成和企业服务等稳定现金流业务，为IPO铺路，意图成为AI基础设施层。</p><hr><h2 id="通义实验室推出AI图像生成与编辑模型Wan2-7-Image"><a href="#通义实验室推出AI图像生成与编辑模型Wan2-7-Image" class="headerlink" title="通义实验室推出AI图像生成与编辑模型Wan2.7-Image"></a><a href="https://mp.weixin.qq.com/s/Nyow0Ht8J0yyClYTwUCU7w">通义实验室推出AI图像生成与编辑模型Wan2.7-Image</a></h2><p>通义实验室推出AI图像生成与编辑模型 ，主打”人更真、字更稳、色更准”。模型支持深度自定义虚拟形象，避免”AI标准脸”；支持4000超长字符及多语言、表格、公式稳定生成，解决乱码痛点；新增”色彩控制调色盘”，可通过Hex色值精确控制品牌色，确保设计符合VI规范。</p><hr><h2 id="美团-LongCat-团队推出语音合成模型LongCat-AudioDiT"><a href="#美团-LongCat-团队推出语音合成模型LongCat-AudioDiT" class="headerlink" title="美团 LongCat 团队推出语音合成模型LongCat-AudioDiT"></a><a href="https://mp.weixin.qq.com/s/YaU20XkTSSYXZ4YTJ22PWg">美团 LongCat 团队推出语音合成模型LongCat-AudioDiT</a></h2><p>美团LongCat团队推出语音合成模型，实现零样本音色克隆SOTA性能。模型直接在波形潜空间进行扩散生成，摒弃传统梅尔频谱中间表示，避免信息损失。LongCat-AudioDiT提出双重约束对齐(DCA)和自适应投影引导(APG)两项关键技术，修复训练-推理不匹配问题并缓解过饱和。</p><hr><h2 id="PixVerse推出三项更新：快应用、团队版与CLI工具"><a href="#PixVerse推出三项更新：快应用、团队版与CLI工具" class="headerlink" title="PixVerse推出三项更新：快应用、团队版与CLI工具"></a><a href="https://mp.weixin.qq.com/s/rCGvSj_8nuVLRpf2TQzGFw">PixVerse推出三项更新：快应用、团队版与CLI工具</a></h2><p>爱诗科技闪电发布周 Day 2  推出三项更新：快应用、团队版与CLI工具。快应用首批上线”广告大师”，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力，接入自动化工作流与AI Agent，推动AI视频创作向完整系统升级。</p><hr><h2 id="昆仑万维推出AI短剧创作平台「天工短剧工作台」"><a href="#昆仑万维推出AI短剧创作平台「天工短剧工作台」" class="headerlink" title="昆仑万维推出AI短剧创作平台「天工短剧工作台」"></a><a href="https://mp.weixin.qq.com/s/5crrr_94gmWXiPH7QodZRw">昆仑万维推出AI短剧创作平台「天工短剧工作台」</a></h2><p>昆仑万维推出 ，基于多智能体协同，融合Seedance、SkyReels、可灵、Vidu四大视频模型。平台提供传统分镜与智能分镜两种模式，支持资产提取、角色多视图推理、一键成片，实现”输入剧本→直达成片”的工业化流程，解决AI短剧创作周期长、成本高、一致性差等痛点。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260331 AI 资讯快报</title>
       <link href="/posts/3787370421/"/>
       <url>/posts/3787370421/</url>
