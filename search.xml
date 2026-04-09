@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260409 AI 资讯快报</title>
+      <link href="/posts/4658157932/"/>
+      <url>/posts/4658157932/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260409-AI-资讯快报"><a href="#20260409-AI-资讯快报" class="headerlink" title="20260409 AI 资讯快报"></a>20260409 AI 资讯快报</h1><blockquote><p>2026-04-09 · 实时更新</p></blockquote><h2 id="Meta-推出原生多模态大模型-Muse-Spark"><a href="#Meta-推出原生多模态大模型-Muse-Spark" class="headerlink" title="Meta 推出原生多模态大模型 Muse Spark"></a><a href="https://mp.weixin.qq.com/s/3e9d8ErFARmaSvW_ehE-GA">Meta 推出原生多模态大模型 Muse Spark</a></h2><p>Meta超级智能实验室（MSL）推出首个模型，在Artificial Analysis跑分从Llama 4的18分跃升至52分，仅次于GPT-5.4和Gemini 3.1 Pro，推动Meta股价暴涨近10%。模型为原生多模态推理架构，具备视觉思维链、多Agent编排及”沉思模式”，在CharXiv视觉理解和HealthBench健康问答领域表现突出。</p><hr><h2 id="萌友智能-ropet-完成轮超千万美元融资"><a href="#萌友智能-ropet-完成轮超千万美元融资" class="headerlink" title="萌友智能 ropet 完成轮超千万美元融资"></a><a href="https://mp.weixin.qq.com/s/RQrEODEwt0cj74iQZxp7yQ">萌友智能 ropet 完成轮超千万美元融资</a></h2><p>AI 陪伴机器人公司萌友智能 ropet 完成 A 轮超千万美元融资，由北京市人工智能产业投资基金、峰瑞资本等投资。ropet 桌面 AI 宠物售价约 2000 元，累计出货近 2 万台，90 天留存率达 80-90%，核心用户日均互动超 2 小时。产品主打”生物性”体验，通过性格养成、轻互动建立情感连接。</p><hr><h2 id="字节跳动推出原生全双工语音大模型-Seeduplex"><a href="#字节跳动推出原生全双工语音大模型-Seeduplex" class="headerlink" title="字节跳动推出原生全双工语音大模型 Seeduplex"></a><a href="https://mp.weixin.qq.com/s/ymyF-nBO-VT7ehnGO255qg">字节跳动推出原生全双工语音大模型 Seeduplex</a></h2><p>字节跳动Seed团队推出全双工语音大模型，已在豆包App全量上线。模型基于”边听边说”框架，实现听说同步，具备精准抗干扰和动态判停能力，误回复率和抢话比例分别降低50%和40%，判停延迟减少250ms。评测显示模型对话流畅度提升12%，用户满意度提升8.34%，标志着全双工语音技术首次实现规模化落地。</p><hr><h2 id="Claude推出企业级托管Agent服务-Claude-Managed-Agents"><a href="#Claude推出企业级托管Agent服务-Claude-Managed-Agents" class="headerlink" title="Claude推出企业级托管Agent服务 Claude Managed Agents"></a><a href="https://mp.weixin.qq.com/s/7YhCYU2aR4EisYK1UzQExw">Claude推出企业级托管Agent服务 Claude Managed Agents</a></h2><p>Claude推出企业级托管Agent服务，能帮助开发者快速构建和部署云托管Agent。产品提供生产级基础设施，包括安全沙箱、长时运行会话、多Agent协调和权限管理。Notion、Rakuten、Asana等企业已采用，实现10倍开发速度提升。产品按使用量计费，现已开放公测。</p><hr><h2 id="MiniMax-推出-MMX-CLI：为-Agent-设计的全模态命令行工具"><a href="#MiniMax-推出-MMX-CLI：为-Agent-设计的全模态命令行工具" class="headerlink" title="MiniMax 推出 MMX-CLI：为 Agent 设计的全模态命令行工具"></a><a href="https://mp.weixin.qq.com/s/d067bWUdhqYwvfehoYKtVw">MiniMax 推出 MMX-CLI：为 Agent 设计的全模态命令行工具</a></h2><p>MiniMax推出面向AI Agent的命令行工具，支持在Claude Code、OpenClaw等环境原生调用其编程、视频生成、语音合成、音乐创作等全模态模型，无需适配接口或编写MCP Server。工具针对Agent优化，提供输出隔离、语义化状态码、异步任务控制等功能，可独立跑通”资料搜集-文案生成-语音合成-视频制作”完整自动化工作流，</p><hr><h2 id="腾讯推出国内首个浏览器“龙虾”-QBotClaw"><a href="#腾讯推出国内首个浏览器“龙虾”-QBotClaw" class="headerlink" title="腾讯推出国内首个浏览器“龙虾” QBotClaw"></a><a href="https://mp.weixin.qq.com/s/i_izVwI7TUHOgBn6dfkA4g">腾讯推出国内首个浏览器“龙虾” QBotClaw</a></h2><p>腾讯上线国内首个浏览器AI Agent”龙虾”，集成于QQ浏览器，零门槛免下载即可使用。QBotClaw支持一句话指令完成搜资料、写文案、监控热点、购物比价、整理桌面等复杂任务，可通过微信Clawbot远程操控电脑。QBotClaw具备浏览器上下文”记忆”与高精度网页识别能力，首期上线Mac版，Windows版即将推出。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260408 AI 资讯快报</title>
       <link href="/posts/8477948433/"/>
       <url>/posts/8477948433/</url>
