@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260415 AI 资讯快报</title>
+      <link href="/posts/5819914129/"/>
+      <url>/posts/5819914129/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260415-AI-资讯快报"><a href="#20260415-AI-资讯快报" class="headerlink" title="20260415 AI 资讯快报"></a>20260415 AI 资讯快报</h1><blockquote><p>2026-04-15 · 实时更新</p></blockquote><h2 id="百度文心开源文生图模型-ERNIE-Image"><a href="#百度文心开源文生图模型-ERNIE-Image" class="headerlink" title="百度文心开源文生图模型 ERNIE-Image"></a><a href="https://mp.weixin.qq.com/s/EtG4iDbft495wD3fTKd1ig">百度文心开源文生图模型 ERNIE-Image</a></h2><p>百度文心正式开源文生图模型，仅8B参数达到开源SOTA水平，在文字渲染、复杂指令遵循等能力上媲美等商业闭源模型。模型24GB显存即可运行，支持中英日韩多语言精准字形生成，已上线ComfyUI并推出GGUF量化方案，相关权重与推理代码已在Hugging Face开源。</p><hr><h2 id="阿里推出AI开发工具秒悟Meoo"><a href="#阿里推出AI开发工具秒悟Meoo" class="headerlink" title="阿里推出AI开发工具秒悟Meoo"></a><a href="https://mp.weixin.qq.com/s/XsIeLXm6zT-BYTctgAgaNg">阿里推出AI开发工具秒悟Meoo</a></h2><p>阿里ATH事业群推出首款AI开发工具（秒悟）。产品集成千问、Kimi、GLM、MiniMax四大顶尖模型，内置阿里云数据库、存储等核心服务。用户无需编程基础，通过自然语言描述需求，最快1分钟可自动生成完整前后端代码，支持在阿里云一键部署上线。</p><hr><h2 id="李飞飞旗下World-Labs开源3D高斯溅射渲染引擎-Spark-2-0"><a href="#李飞飞旗下World-Labs开源3D高斯溅射渲染引擎-Spark-2-0" class="headerlink" title="李飞飞旗下World Labs开源3D高斯溅射渲染引擎 Spark 2.0"></a><a href="https://mp.weixin.qq.com/s/4m-RUPdLnzvXSx-cyBqhsQ">李飞飞旗下World Labs开源3D高斯溅射渲染引擎 Spark 2.0</a></h2><p>李飞飞旗下World Labs开源3D高斯溅射渲染引擎，支持通过WebGL2将超1亿splats的3D世界流式传输至桌面、手机及VR设备。引擎基于Three.js构建，采用连续型LoD高斯溅射树、渐进式流式加载和虚拟内存技术，实现超大规模场景在网页端的实时渲染，解决传统引擎仅支持单对象、缺乏动态动画及设备兼容性差等痛点。</p><hr><h2 id="Meta与芯片巨头博通宣布合作投入超1GW算力定制AI芯片"><a href="#Meta与芯片巨头博通宣布合作投入超1GW算力定制AI芯片" class="headerlink" title="Meta与芯片巨头博通宣布合作投入超1GW算力定制AI芯片"></a><a href="https://mp.weixin.qq.com/s/KYmKNXrtFOZwu4nSntmI1w">Meta与芯片巨头博通宣布合作投入超1GW算力定制AI芯片</a></h2><p>Meta宣布与芯片巨头博通签署五年长约（至2029年），初始投入超1GW算力用于定制AI芯片，扎克伯格宣称目标是”为数十亿人提供个人超级智能”。Meta计划两年内推出四代自研MTIA芯片（300&#x2F;400&#x2F;450&#x2F;500），成立超级智能实验室，由Scale AI创始人Alexandr Wang担任首席AI官。</p><hr><h2 id="面壁智能推出专业级文档智能体工作台-Lantay"><a href="#面壁智能推出专业级文档智能体工作台-Lantay" class="headerlink" title="面壁智能推出专业级文档智能体工作台 Lantay"></a><a href="https://mp.weixin.qq.com/s/bcsZJN3xRlTZMQmdEiazZA">面壁智能推出专业级文档智能体工作台 Lantay</a></h2><p>面壁智能推出专业级文档智能体工作台，现已进入公测阶段。产品借鉴Cursor设计理念，通过Vibedocing交互范式实现人机协同创作，采用导航区、工作区、对话区三合一布局。平台支持16种格式文件处理，单次可批量整合200个材料，单文件上限100MB。Lantay主要面向法律、金融、出版等高严谨行业的重度文档工作者。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260414 AI 资讯快报</title>
       <link href="/posts/6979960836/"/>
       <url>/posts/6979960836/</url>
