@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260423 AI 资讯快报</title>
+      <link href="/posts/9158561962/"/>
+      <url>/posts/9158561962/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260423-AI-资讯快报"><a href="#20260423-AI-资讯快报" class="headerlink" title="20260423 AI 资讯快报"></a>20260423 AI 资讯快报</h1><blockquote><p>2026-04-23 · 实时更新</p></blockquote><h2 id="OpenAI-推出团队协作智能体Workspace-Agents"><a href="#OpenAI-推出团队协作智能体Workspace-Agents" class="headerlink" title="OpenAI 推出团队协作智能体Workspace Agents"></a><a href="https://www.ithome.com/0/942/362.htm">OpenAI 推出团队协作智能体Workspace Agents</a></h2><p>OpenAI宣布在ChatGPT中推出，支持团队创建协作智能体处理复杂任务和长周期工作流 。Workspace Agents由Codex提供底层支持，具备文件处理、代码运行、工具调用和记忆存储能力，可7×24小时云端运行。系统支持Slack集成与定时调度。目前支持ChatGPT Business、Enterprise、Edu和Teachers计划。</p><hr><h2 id="阿里通义开源稠密多模态模型Qwen3-6-27B"><a href="#阿里通义开源稠密多模态模型Qwen3-6-27B" class="headerlink" title="阿里通义开源稠密多模态模型Qwen3.6-27B"></a><a href="https://mp.weixin.qq.com/s/qLG4WWORyIKUvnewmBlqzA">阿里通义开源稠密多模态模型Qwen3.6-27B</a></h2><p>阿里通义千问团队开源，拥有270亿参数的稠密多模态模型。模型支持多模态思考与非思考模式，在智能体编程能力上实现旗舰级突破，于SWE-bench、Terminal-Bench等主要编程基准全面超越前代开源旗舰Qwen3.5-397B-A17B。作为稠密架构，模型无需MoE路由可部署，更便于广泛落地。</p><hr><h2 id="字节跳动推出新一代-3D-生成大模型Seed3D-2-0"><a href="#字节跳动推出新一代-3D-生成大模型Seed3D-2-0" class="headerlink" title="字节跳动推出新一代 3D 生成大模型Seed3D 2.0"></a><a href="https://mp.weixin.qq.com/s/_9vggNLz0ehs_g0k8q709g">字节跳动推出新一代 3D 生成大模型Seed3D 2.0</a></h2><p>字节跳动推出新一代3D生成大模型，在几何与纹理两项核心指标上均达SOTA。模型引入Coarse-to-Fine两阶段DiT策略，解耦整体结构与精细细节，采用统一PBR生成架构结合MoE与VLM先验，大幅提升材质真实感。Seed3D 2.0拓展了部件级拆分、关节化建模及场景组合等下游能力，推动3D生成迈向”生产可用”。</p><hr><h2 id="OpenAI开源隐私过滤模型OpenAI-Privacy-Filter"><a href="#OpenAI开源隐私过滤模型OpenAI-Privacy-Filter" class="headerlink" title="OpenAI开源隐私过滤模型OpenAI Privacy Filter"></a><a href="https://ai-bot.cn/openai-privacy-filter/">OpenAI开源隐私过滤模型OpenAI Privacy Filter</a></h2><p>OpenAI开源模型，用于检测和编辑文本中的个人身份信息（PII）。模型总参数15亿，支持128K上下文，可在本地运行。模型基于双向token分类架构，能识别姓名、地址、邮箱、电话、账号、密码等8类隐私信息，在PII-Masking-300k基准上达96% F1分数。</p><hr><h2 id="阶跃星辰和千里科技达成全面战略合作"><a href="#阶跃星辰和千里科技达成全面战略合作" class="headerlink" title="阶跃星辰和千里科技达成全面战略合作"></a><a href="https://mp.weixin.qq.com/s/bJ6jBYFEWMop5D8ib_FPVw?scene=1">阶跃星辰和千里科技达成全面战略合作</a></h2><p>阶跃星辰与千里科技宣布达成全面战略合作，双方将共建「原生智驾基座模型」，从底层训练让AI直接理解复杂物理世界，突破物理AI能力边界。阶跃已在Agent基础大模型和全模态技术上深度布局，推出开源旗舰基座模型，在语音推理、自动驾驶评测等榜单取得领先。</p><hr><h2 id="Anthropic估值万亿美元"><a href="#Anthropic估值万亿美元" class="headerlink" title="Anthropic估值万亿美元"></a><a href="https://mp.weixin.qq.com/s/7F2IU9Ek7RyXKGn26akTRQ">Anthropic估值万亿美元</a></h2><p>据《科创板日报》，AI初创公司Anthropic在Forge Global等未上市股权交易平台的估值飙升至约1万亿美元，超越OpenAI的8800亿美元。因买家竞相抢购Anthropic日益减少的二级市场股票，推动公司估值快速攀升。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260422 AI 资讯快报</title>
       <link href="/posts/7754044549/"/>
       <url>/posts/7754044549/</url>
