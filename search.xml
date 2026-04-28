@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260428 AI 资讯快报</title>
+      <link href="/posts/4729888685/"/>
+      <url>/posts/4729888685/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260428-AI-资讯快报"><a href="#20260428-AI-资讯快报" class="headerlink" title="20260428 AI 资讯快报"></a>20260428 AI 资讯快报</h1><blockquote><p>2026-04-28 · 实时更新</p></blockquote><h2 id="微软-GitHub-Copilot-宣布转向按量计费"><a href="#微软-GitHub-Copilot-宣布转向按量计费" class="headerlink" title="微软 GitHub Copilot 宣布转向按量计费"></a><a href="https://www.ithome.com/0/944/205.htm">微软 GitHub Copilot 宣布转向按量计费</a></h2><p>宣布6月1日起转向按量计费，以AI Credits替代固定额度，按Token消耗计费。基础订阅价不变：Pro每月10美元、Pro+每月39美元，均含等值Credits，代码补全不消耗额度。企业版支持共享额度池，Business和Enterprise客户6至8月可获额外促销额度。年度用户维持原计费至期满。</p><hr><h2 id="小红书首次公布「AI治理主张」"><a href="#小红书首次公布「AI治理主张」" class="headerlink" title="小红书首次公布「AI治理主张」"></a><a href="https://mp.weixin.qq.com/s/QdywEyR2-GCupUIgXKl_8w">小红书首次公布「AI治理主张」</a></h2><p>小红书首次公布「AI治理主张」，明确三大原则：欢迎创作者使用AI作为创意放大器；鼓励对AI生成内容主动标识，未标注者平台将统一添加标识；严守真实底线，坚决反对AI造假与侵权。平台将持续建设AI内容识别治理能力，同时上线AI笔记贴条提示的申诉通道，保障创作者权益，守护社区真实、公平、温暖的底色。</p><hr><h2 id="OpenAI-和微软联合宣布云合作独家限制正式解除"><a href="#OpenAI-和微软联合宣布云合作独家限制正式解除" class="headerlink" title="OpenAI 和微软联合宣布云合作独家限制正式解除"></a><a href="https://mp.weixin.qq.com/s/EzvUOcMzolvZkrkrAwu5VQ?scene=1&click_id=8">OpenAI 和微软联合宣布云合作独家限制正式解除</a></h2><p>微软与OpenAI修订合作协议，解除云合作独家限制，OpenAI产品仍优先在Azure发布，且可通过任何云提供商向客户提供服务。知识产权授权从独家变为非独家，延至2032年。微软不再向OpenAI支付分成，OpenAI向微软的分成延续至2030年但设总额上限，与技术进展脱钩。微软同时获得独立追求AGI的权利。</p><hr><h2 id="百度文库网盘联合推出通用智能体GenFlow4-0"><a href="#百度文库网盘联合推出通用智能体GenFlow4-0" class="headerlink" title="百度文库网盘联合推出通用智能体GenFlow4.0"></a><a href="https://mp.weixin.qq.com/s/WIhhmEhPbAX6jm5_lpjWYg">百度文库网盘联合推出通用智能体GenFlow4.0</a></h2><p>百度AI DAY推出通用智能体GenFlow4.0，目前通用智能体的月活用户已经突破1亿。新版本全面升级Office Agent，一句话即可生成PPT、处理Excel数据、撰写Word长文档；记忆中心支持自主规划与个性化记忆。同时深度兼容OpenClaw，实现手机电脑无缝协作与Skills跨平台迁移。</p><hr><h2 id="阿里通义推出全新强化学习框架EAPO"><a href="#阿里通义推出全新强化学习框架EAPO" class="headerlink" title="阿里通义推出全新强化学习框架EAPO"></a><a href="https://mp.weixin.qq.com/s/FDCrB0D3B9BTDBC8TmX9CQ">阿里通义推出全新强化学习框架EAPO</a></h2><p>阿里通义实验室推出全新强化学习框架（Evidence-Augmented Policy Optimization），引入”证据奖励”机制，将监督从答案下沉到证据提取过程，解决大模型长文本推理中”搜对却答错”的幻觉问题。框架基于Qwen3-30B的模型在多个权威长文本基准测试中表现优异，反超120B参数的GPT-OSS和Claude-Sonnet-4等大模型。</p><hr><h2 id="阿里QoderWork推出专家套件功能"><a href="#阿里QoderWork推出专家套件功能" class="headerlink" title="阿里QoderWork推出专家套件功能"></a><a href="https://mp.weixin.qq.com/s/VXTVWEFyxqUNEvL588oR4A">阿里QoderWork推出专家套件功能</a></h2><p>阿里 正式上线「专家套件」功能，首批发布覆盖金融、法律、营销、财税、咨询、产品六大领域的 10 个预制套件，将专业知识、工作流程与数据连接器打包集成至 AI，用户无需编写 Skill 可一键调用、开箱即用。同时支持企业与用户自定义封装专属套件，实现业务配置与使用分离。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260427 AI 资讯快报</title>
       <link href="/posts/1084442282/"/>
       <url>/posts/1084442282/</url>
