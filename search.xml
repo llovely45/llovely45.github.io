@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260429 AI 资讯快报</title>
+      <link href="/posts/5477195298/"/>
+      <url>/posts/5477195298/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260429-AI-资讯快报"><a href="#20260429-AI-资讯快报" class="headerlink" title="20260429 AI 资讯快报"></a>20260429 AI 资讯快报</h1><blockquote><p>2026-04-29 · 实时更新</p></blockquote><h2 id="商汤开源日日新系列原生理解生成统一模型SenseNova-U1"><a href="#商汤开源日日新系列原生理解生成统一模型SenseNova-U1" class="headerlink" title="商汤开源日日新系列原生理解生成统一模型SenseNova U1"></a><a href="https://mp.weixin.qq.com/s/Xot43BpXQLL-xSOYO5f5IQ">商汤开源日日新系列原生理解生成统一模型SenseNova U1</a></h2><p>商汤正式开源日日新系列原生理解生成统一模型。模型基于自研NEO-unify架构，摒弃传统拼接式设计，在单一架构内统一多模态理解、推理与生成。本次开源轻量版SenseNova U1 Lite，包含8B稠密网络与A3B MoE网络两个规格。在图像理解、生成编辑及视觉推理等多项基准测试中，达到同量级开源模型SOTA水平。</p><hr><h2 id="阶跃星辰推出新一代图像生成编辑模型-Step-Image-Edit-2"><a href="#阶跃星辰推出新一代图像生成编辑模型-Step-Image-Edit-2" class="headerlink" title="阶跃星辰推出新一代图像生成编辑模型 Step Image Edit 2"></a><a href="https://mp.weixin.qq.com/s/iHlnN2YGafxWweVLCP2--g">阶跃星辰推出新一代图像生成编辑模型 Step Image Edit 2</a></h2><p>阶跃星辰正式推出新一代图像生成编辑模型。模型仅3.5B参数，在实际表现中超越12B-20B级开源图像编辑大模型，单次生图只需0.5-2秒，在KRIS-Bench榜单轻量级图像编辑模型综合排名第一。模型支持图像生成与编辑、中英文渲染、局部编辑、视觉推理、风格迁移等功能，覆盖IP创作、海报设计、人像美颜等场景。</p><hr><h2 id="科大讯飞推出MoE架构大语言模型星火X2-Flash"><a href="#科大讯飞推出MoE架构大语言模型星火X2-Flash" class="headerlink" title="科大讯飞推出MoE架构大语言模型星火X2-Flash"></a><a href="https://mp.weixin.qq.com/s/-bQ9BrShvRKNbHGosVtuCA">科大讯飞推出MoE架构大语言模型星火X2-Flash</a></h2><p>科大讯飞正式推出并开放API。模型采用MoE架构，总参数30B，支持256K超长上下文，基于华为昇腾910B国产算力集群训练。在智能体与代码能力上大幅提升，经实测效果接近万亿级参数模型，Token消耗成本不到主流大模型的三分之一。模型已接入AstronClaw、Loomy等平台，兼容OpenClaw等主流Agent框架。</p><hr><h2 id="蚂蚁百灵开源高效Instruct模型Ling-2-6-flash"><a href="#蚂蚁百灵开源高效Instruct模型Ling-2-6-flash" class="headerlink" title="蚂蚁百灵开源高效Instruct模型Ling-2.6-flash"></a><a href="https://mp.weixin.qq.com/s/B5nAk9Odu1biL3bIGuuRlQ">蚂蚁百灵开源高效Instruct模型Ling-2.6-flash</a></h2><p>蚂蚁集团旗下百灵大模型宣布  正式开源，同步提供 BF16、FP8、INT4 等多精度版本，模型已上线 Hugging Face 与 ModelScope。模型总参数 104B、激活参数 7.4B，两周前曾以 Elephant Alpha 匿名身份登陆 OpenRouter，迅速获得开发者社区与行业用户的广泛关注。</p><hr><h2 id="英国AI初创公司Ineffable，完成11亿美元种子轮融资"><a href="#英国AI初创公司Ineffable，完成11亿美元种子轮融资" class="headerlink" title="英国AI初创公司Ineffable，完成11亿美元种子轮融资"></a><a href="https://mp.weixin.qq.com/s/2HlpvDnb_oa6RiXXqZ-WYA">英国AI初创公司Ineffable，完成11亿美元种子轮融资</a></h2><p>前谷歌DeepMind首席科学家、AlphaGo核心研发者David Silver创立的英国AI公司Ineffable完成11亿美元种子轮融资，估值达51亿美元，本轮融资由红杉资本与光速创投领投，英伟达、谷歌等参投，创欧洲史上最大种子轮纪录。公司致力于打造无需人类数据、通过自主实践探索知识的”超级学习系统”。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260428 AI 资讯快报</title>
       <link href="/posts/4729888685/"/>
       <url>/posts/4729888685/</url>
