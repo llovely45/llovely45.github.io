@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260507 AI 资讯快报</title>
+      <link href="/posts/7207532126/"/>
+      <url>/posts/7207532126/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260507-AI-资讯快报"><a href="#20260507-AI-资讯快报" class="headerlink" title="20260507 AI 资讯快报"></a>20260507 AI 资讯快报</h1><blockquote><p>2026-05-07 · 实时更新</p></blockquote><h2 id="Anthropic与SpaceX达成合作扩容算力"><a href="#Anthropic与SpaceX达成合作扩容算力" class="headerlink" title="Anthropic与SpaceX达成合作扩容算力"></a><a href="https://mp.weixin.qq.com/s/D35gmbbzgqHWvq3pZWkAuA">Anthropic与SpaceX达成合作扩容算力</a></h2><p>Anthropic 在 Code with Claude 开发者大会连放数招： 调用限额翻倍至 10 小时并取消高峰削减，Claude Opus API 速率限制大幅放宽；托管智能体新增多智能体编排、目标结果与自主推演三大能力；Claude Code 更新远程控制、无闪烁渲染等十余项功能，同时与 SpaceX 达成算力合作。</p><hr><h2 id="月之暗面-Kimi-完成新一轮约20亿美元融资"><a href="#月之暗面-Kimi-完成新一轮约20亿美元融资" class="headerlink" title="月之暗面 Kimi 完成新一轮约20亿美元融资"></a><a href="https://mp.weixin.qq.com/s/G1vTAf9WM_caY_4nNydqsg">月之暗面 Kimi 完成新一轮约20亿美元融资</a></h2><p>月之暗面（Kimi）完成约20亿美元D轮融资，投后估值突破200亿美元，创中国大模型最大单笔融资纪录。本轮由美团龙珠领投，中国移动等参投，累计融资超44亿美元居国内大模型创业公司之首。公司4月年度经常性收入超2亿美元，并发布开源旗舰模型。</p><hr><h2 id="大基金领投DeepSeek，估值接近450亿"><a href="#大基金领投DeepSeek，估值接近450亿" class="headerlink" title="大基金领投DeepSeek，估值接近450亿"></a><a href="https://mp.weixin.qq.com/s/UggNZv8WQQwpkGMyK94Xsg">大基金领投DeepSeek，估值接近450亿</a></h2><p>据《金融时报》报道，国家集成电路产业投资基金（大基金）正洽谈领投 DeepSeek，本轮估值接近 450 亿美元（约 3067 亿元），较半月前 200 亿美元翻倍。创始人梁文锋或亲自跟投，腾讯、阿里亦在洽谈参投。大基金此前从未投资 AI 大模型公司，DeepSeek 为首家。</p><hr><h2 id="字节跳动推出统一多模态模型Mamoda2-5"><a href="#字节跳动推出统一多模态模型Mamoda2-5" class="headerlink" title="字节跳动推出统一多模态模型Mamoda2.5"></a><a href="https://ai-bot.cn/mamoda2-5/">字节跳动推出统一多模态模型Mamoda2.5</a></h2><p>字节跳动开源全球首个25B级统一多模态模型，基于Qwen3-VL-8B架构，总参数250亿每次仅激活约3亿。模型实现了文生图、文生视频、视频编辑等全任务SOTA，推理速度比阿里Wan2.2快12倍、比美团LongCat Video快18倍，视频编辑延迟仅9.2秒。模型在多项视频编辑基准测试中排名第一，性能接近闭源Sora和Kling。</p><hr><h2 id="无问芯穹再获超7亿融资"><a href="#无问芯穹再获超7亿融资" class="headerlink" title="无问芯穹再获超7亿融资"></a><a href="https://mp.weixin.qq.com/s/RnDh8kRKhFdKE59mQSavkw">无问芯穹再获超7亿融资</a></h2><p>无问芯穹宣布再获超7亿元融资，由杭州高新金投集团和惠远资本联合领投，持续稳居中国AI原生基础设施公司融资规模之首。公司首发”AI生产力公式”，定位Token经济枢纽，其Agentic MaaS平台日均Token调用量较去年底增长超20倍。</p><hr><h2 id="OpenAI开放超大规模AI训练网络协议MRC"><a href="#OpenAI开放超大规模AI训练网络协议MRC" class="headerlink" title="OpenAI开放超大规模AI训练网络协议MRC"></a><a href="https://mp.weixin.qq.com/s/QugylM-Bhdx785Gnxca84w">OpenAI开放超大规模AI训练网络协议MRC</a></h2><p>OpenAI 联合 AMD、博通、英特尔、微软、英伟达五大巨头推出多路径可靠连接（MRC）协议，通过 OCP 向全行业开源。MRC 基于 RoCE 扩展，采用多平面网络设计与自适应数据包喷淋技术，将数据包分散至数百条路径并行传输，避免网络拥塞与热点，使故障恢复从秒级缩短至微秒级。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260506 AI 资讯快报</title>
       <link href="/posts/5142568011/"/>
       <url>/posts/5142568011/</url>
