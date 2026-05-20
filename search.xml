@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260520 AI 资讯快报</title>
+      <link href="/posts/5959905593/"/>
+      <url>/posts/5959905593/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260520-AI-资讯快报"><a href="#20260520-AI-资讯快报" class="headerlink" title="20260520 AI 资讯快报"></a>20260520 AI 资讯快报</h1><blockquote><p>2026-05-20 · 实时更新</p></blockquote><h2 id="谷歌I-O开发者大会推出AI全家桶"><a href="#谷歌I-O开发者大会推出AI全家桶" class="headerlink" title="谷歌I&#x2F;O开发者大会推出AI全家桶"></a><a href="https://mp.weixin.qq.com/s/_pu5YeWZeRyEEtJ34C89VQ">谷歌I&#x2F;O开发者大会推出AI全家桶</a></h2><p>谷歌I&#x2F;O 2026大会重磅发布：全新旗舰模型速度达竞品4倍；全能模型亮相，支持自然语言对话改视频；谷歌搜索迎来25年来最大升级，AI Mode月活突破10亿；联合三星及Gentle Monster、Warby Parker推出AI眼镜； 2.0开发平台、个人智能体等同步登场，谷歌正式迈入智能体驱动的Gemini时代</p><hr><h2 id="阿里千问推出新一代旗舰模型-Qwen3-7-Max"><a href="#阿里千问推出新一代旗舰模型-Qwen3-7-Max" class="headerlink" title="阿里千问推出新一代旗舰模型 Qwen3.7-Max"></a><a href="https://mp.weixin.qq.com/s/aAWHw7itcNx9pIEinZIOPA">阿里千问推出新一代旗舰模型 Qwen3.7-Max</a></h2><p>阿里通义千问推出旗舰模型 ，定位面向智能体时代的全能基座。模型在编程、办公自动化与长周期自主执行方面表现突出，曾在 35 小时、超 1000 次工具调用的内核优化任务中实现 10 倍加速。基准测试显示，模型在 SWE-Pro、MCP-Atlas 等多项智能体评测中领先同行。</p><hr><h2 id="阿里通义推出实时同声传译模型-Qwen3-5-LiveTranslate"><a href="#阿里通义推出实时同声传译模型-Qwen3-5-LiveTranslate" class="headerlink" title="阿里通义推出实时同声传译模型 Qwen3.5-LiveTranslate"></a><a href="https://mp.weixin.qq.com/s/N6mr3RPIzbLuU5lTgy4P-w">阿里通义推出实时同声传译模型 Qwen3.5-LiveTranslate</a></h2><p>阿里通义千问推出实时同传模型 ，支持 60 种语言音频输入与文本输出、29 种语言音频输出，端到端字均延迟低至 2.8 秒。模型基于 Qwen3.5-Omni 架构，具备实时音色克隆能力，可保留说话人原声特征，内置 1000 个热词的行业术语翻译优化。</p><hr><h2 id="阿里云推出全新MaaS模型服务平台「千问云」"><a href="#阿里云推出全新MaaS模型服务平台「千问云」" class="headerlink" title="阿里云推出全新MaaS模型服务平台「千问云」"></a><a href="https://mp.weixin.qq.com/s/ERTLfMCEPQA7j00LYmMhsw">阿里云推出全新MaaS模型服务平台「千问云」</a></h2><p>阿里云在2026阿里云峰会上发布为AI Agent而生的全新产品，集成Qwen、DeepSeek、Kimi等150余款主流模型API。平台将模型服务全面Skill和CLI化，Agent一句指令可自动完成模型选型、调用与任务执行，无需人工编写集成代码。</p><hr><h2 id="智象未来推出旗舰级图像生成模型-HiDream-O1-Image-Pro"><a href="#智象未来推出旗舰级图像生成模型-HiDream-O1-Image-Pro" class="headerlink" title="智象未来推出旗舰级图像生成模型 HiDream-O1-Image-Pro"></a><a href="https://mp.weixin.qq.com/s/-WO1kQc-rdW4zu84OV77NA">智象未来推出旗舰级图像生成模型 HiDream-O1-Image-Pro</a></h2><p>智象未来开源 ，基于UiT原生全模态架构，将图像像素、文本与任务条件统一映射至共享token空间，抛弃传统VAE与分离编码器。在GenEval、DPG等基准刷新SOTA，Artificial Analysis竞技场排名第8，超越FLUX.2[Dev]等开源模型。</p><hr><h2 id="微信读书官方推出-AI-助手扩展能力「微信读书Skill」"><a href="#微信读书官方推出-AI-助手扩展能力「微信读书Skill」" class="headerlink" title="微信读书官方推出 AI 助手扩展能力「微信读书Skill」"></a><a href="https://mp.weixin.qq.com/s/oiCpeZnOIfAtev1OO0NIGA">微信读书官方推出 AI 助手扩展能力「微信读书Skill」</a></h2><p>微信读书官方推出，用户通过API Key绑定账号后，AI可调用个人阅读数据，实现查书架、搜书、统计阅读习惯、整理笔记及个性化推荐等六大功能。微信读书Skill支持部署至WorkBuddy等AI助手，安装后可用自然语言查询阅读记录，可批量导出划线笔记至Obsidian和Notion，让个人阅读数据真正被AI激活。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260519 AI 资讯快报</title>
       <link href="/posts/5825965674/"/>
       <url>/posts/5825965674/</url>
