@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260522 AI 资讯快报</title>
+      <link href="/posts/7852356945/"/>
+      <url>/posts/7852356945/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260522-AI-资讯快报"><a href="#20260522-AI-资讯快报" class="headerlink" title="20260522 AI 资讯快报"></a>20260522 AI 资讯快报</h1><blockquote><p>2026-05-22 · 实时更新</p></blockquote><h2 id="智谱推出GLM-5-1高速版API，GLM-5-1-highspeed"><a href="#智谱推出GLM-5-1高速版API，GLM-5-1-highspeed" class="headerlink" title="智谱推出GLM-5.1高速版API，GLM-5.1-highspeed"></a><a href="https://mp.weixin.qq.com/s/TAVXB_Xuys7_R-SG4oFhOA">智谱推出GLM-5.1高速版API，GLM-5.1-highspeed</a></h2><p>智谱开放平台发布GLM-5.1高速版API ，模型输出速度达400 tokens&#x2F;s，刷新全球大模型API速度上限。GLM-5.1-highspeed由智谱与TileRT团队联合推出，首次在国产大模型中实现旗舰级能力与极致低延迟兼得。适用AI编程、实时交互、实时语音等对延迟要求极高的场景，现已面向部分企业客户开放。</p><hr><h2 id="美团开源数字人视频模型-LongCat-Video-Avatar-1-5"><a href="#美团开源数字人视频模型-LongCat-Video-Avatar-1-5" class="headerlink" title="美团开源数字人视频模型 LongCat-Video-Avatar 1.5"></a><a href="https://mp.weixin.qq.com/s/NcnPZmO9I7dGXRMLy9c7Zw">美团开源数字人视频模型 LongCat-Video-Avatar 1.5</a></h2><p>美团LongCat团队正式开源数字人视频模型，从开源SOTA迈向商业级应用。模型升级Whisper-large音频编码器，构建高质量多场景数据体系，引入逐帧级GRPO偏好对齐，在唇形同步、物理合理性、长视频稳定性及多人互动上全面跃升。模型采用DMD蒸馏实现8步生成，效率提升约15倍。</p><hr><h2 id="网易有道开源多模态大模型-Confucius4"><a href="#网易有道开源多模态大模型-Confucius4" class="headerlink" title="网易有道开源多模态大模型 Confucius4"></a><a href="https://ai-bot.cn/confucius4/">网易有道开源多模态大模型 Confucius4</a></h2><p>网易有道AI团队开源多模态推理模型，基于Qwen3.5-27B架构推出，专为高级数学推理设计。模型采用迭代SFT+RL训练与精细化CoT优化，在Math-Hard-500等基准达同等规模SOTA性能，推理链长度降低43.2%。Confucius4针对中文用户定向优化，支持图文混合输入，兼容Qwen生态。</p><hr><h2 id="阿里生产级-AI-数字员工平台-QoderWake-开启全球公测"><a href="#阿里生产级-AI-数字员工平台-QoderWake-开启全球公测" class="headerlink" title="阿里生产级 AI 数字员工平台 QoderWake 开启全球公测"></a><a href="https://mp.weixin.qq.com/s/-VbGKxnASPhzm_lpTulEow">阿里生产级 AI 数字员工平台 QoderWake 开启全球公测</a></h2><p>开启全球公测，首发Mac版，5分钟可配置数字员工上岗。开放后端、前端、测试、产品等6个内置岗位，支持自定义角色。工具具备长期记忆与进化能力，可通过IM、Webhook等方式接活，自动输出交付摘要。内置四维权限中心保障安全，支持MCP接入企业系统，7×24小时自主协作。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260521 AI 资讯快报</title>
       <link href="/posts/6916974038/"/>
       <url>/posts/6916974038/</url>
