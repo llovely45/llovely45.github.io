@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260526 AI 资讯快报</title>
+      <link href="/posts/6171468608/"/>
+      <url>/posts/6171468608/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260526-AI-资讯快报"><a href="#20260526-AI-资讯快报" class="headerlink" title="20260526 AI 资讯快报"></a>20260526 AI 资讯快报</h1><blockquote><p>2026-05-26 · 实时更新</p></blockquote><h2 id="天工AI推出高性能-Agent-模型-SkyClaw-v1-0"><a href="#天工AI推出高性能-Agent-模型-SkyClaw-v1-0" class="headerlink" title="天工AI推出高性能 Agent 模型 SkyClaw-v1.0"></a><a href="https://mp.weixin.qq.com/s/DhJJMZoHaGAL80YTjH1KjQ">天工AI推出高性能 Agent 模型 SkyClaw-v1.0</a></h2><p>昆仑万维旗下天工AI正式推出高性能Agent模型及轻量化版本SkyClaw-v1.0-lite。模型支持百万token长上下文，深度适配真实智能体工作流，重点优化复杂工具调用、多轮任务执行、代码生成与交互式应用构建。在多项Agent基准测试中，SkyClaw-v1.0全面超越Minimax 2.7、DeepSeek V4 Flash等主流开源模型，性能接近更大规模的顶级模型，且定价低于竞品一半。</p><hr><h2 id="小米推出全新世界模型Xiaomi-Auto-World-Model"><a href="#小米推出全新世界模型Xiaomi-Auto-World-Model" class="headerlink" title="小米推出全新世界模型Xiaomi Auto World Model"></a><a href="https://mp.weixin.qq.com/s/qI8Bx_VeSKKiSaCH5KijkA">小米推出全新世界模型Xiaomi Auto World Model</a></h2><p>小米汽车正式发布全新框架，首次将三维重建与视频生成深度耦合为一体化架构。框架重建模块以稀疏三维锚点替代传统稠密高斯，10秒视频仅需10秒完成；生成模块通过两阶段训练与ODE蒸馏实现4步去噪、0.19秒&#x2F;帧的高效生成，支持最长1分钟视频。</p><hr><h2 id="阿里通义开源多智能体开发框架-AgentScope-2-0"><a href="#阿里通义开源多智能体开发框架-AgentScope-2-0" class="headerlink" title="阿里通义开源多智能体开发框架 AgentScope 2.0"></a><a href="https://mp.weixin.qq.com/s/AcBTESODnZqpADRELcK5MQ">阿里通义开源多智能体开发框架 AgentScope 2.0</a></h2><p>阿里通义实验室推出，聚焦真实场景下的稳定运行与生产接入进行系统性升级。新版本新增模型容错机制，支持失败自动重试与备用模型切换；重构消息模块实现执行过程实时可见；引入权限系统对高危操作自动拦截；优化上下文管理避免长链路失忆。</p><hr><h2 id="面壁智能联合清华等开源端侧文本基座大模型-MiniCPM5-1B"><a href="#面壁智能联合清华等开源端侧文本基座大模型-MiniCPM5-1B" class="headerlink" title="面壁智能联合清华等开源端侧文本基座大模型 MiniCPM5-1B"></a><a href="https://mp.weixin.qq.com/s/vLBxru7RYPp-V8cPpTMMCA?scene=1">面壁智能联合清华等开源端侧文本基座大模型 MiniCPM5-1B</a></h2><p>面壁智能联合清华大学、OpenBMB开源社区正式开源端侧文本基座大模型。模型以1B参数规模在AA-Index榜单得分17.9，超越所有2B以下模型，甚至超过参数翻倍的主流基座模型，成为全球2B参数以内最强开源基座模型。INT4量化后仅0.5GB，可在手机、浏览器等终端流畅运行。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260525 AI 资讯快报</title>
       <link href="/posts/3510097238/"/>
       <url>/posts/3510097238/</url>
