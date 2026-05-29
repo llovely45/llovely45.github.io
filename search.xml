@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260529 AI 资讯快报</title>
+      <link href="/posts/4618783476/"/>
+      <url>/posts/4618783476/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260529-AI-资讯快报"><a href="#20260529-AI-资讯快报" class="headerlink" title="20260529 AI 资讯快报"></a>20260529 AI 资讯快报</h1><blockquote><p>2026-05-29 · 实时更新</p></blockquote><h2 id="Anthropic-融资-650-亿美元，融资后估值达9650亿美元"><a href="#Anthropic-融资-650-亿美元，融资后估值达9650亿美元" class="headerlink" title="Anthropic 融资 650 亿美元，融资后估值达9650亿美元"></a><a href="https://www.ithome.com/0/956/837.htm">Anthropic 融资 650 亿美元，融资后估值达9650亿美元</a></h2><p>Anthropic完成650亿美元H轮融资，投后估值达9650亿美元（约6.56万亿元人民币），预计为IPO前最后一轮私募融资。本轮由Altimeter Capital、Sequoia Capital等机构领投，亚马逊等超大规模云提供商参与，其中亚马逊已宣布投资50亿美元。</p><hr><h2 id="Anthropic-推出旗舰级大语言模型-Claude-Opus-4-8"><a href="#Anthropic-推出旗舰级大语言模型-Claude-Opus-4-8" class="headerlink" title="Anthropic 推出旗舰级大语言模型 Claude Opus 4.8"></a><a href="https://mp.weixin.qq.com/s/uPiuVhGw5vqo0qJSwaUpnw">Anthropic 推出旗舰级大语言模型 Claude Opus 4.8</a></h2><p>Anthropic 推出 Claude 旗舰模型 。模型在终端工程、知识工作等能力大幅提升，部分指标超越未发布的 Mythos。核心改进是诚实性：代码缺陷漏报率降至前代 1&#x2F;4，过度自信行为概率降至 1&#x2F;10。Cursor 和 Devin CEO 均给予高度评价。</p><hr><h2 id="通义千问推出文生图模型评测基准-Qwen-Image-Bench"><a href="#通义千问推出文生图模型评测基准-Qwen-Image-Bench" class="headerlink" title="通义千问推出文生图模型评测基准 Qwen-Image-Bench"></a><a href="https://mp.weixin.qq.com/s/J3fHiF1w4NhvvnIgbDOJ3Q?scene=1&click_id=7">通义千问推出文生图模型评测基准 Qwen-Image-Bench</a></h2><p>通义实验室推出文生图评测基准 ，包含 56 个细粒度创作考点，配套开源自动化评估模型 Q-Judger。基准由专业艺术家团队参与开发，覆盖世界知识、创作推理、文字渲染、影像叙事、游戏设计等真实创作场景，填补基础生成与专业创作之间的评测鸿沟。</p><hr><h2 id="AstronClaw-上线-Agent-Team-模式"><a href="#AstronClaw-上线-Agent-Team-模式" class="headerlink" title="AstronClaw 上线 Agent Team 模式"></a><a href="https://mp.weixin.qq.com/s/r0xPlLmwzuX6hyOCPvFOfg">AstronClaw 上线 Agent Team 模式</a></h2><p>正式上线Agent Team模式，用户一句指令可自动组建多专业Agent团队，通过流水线、映射归约、监督者三种协作模式并行完成复杂任务的全流程拆解与高质量交付。Agent Team模式配备可视化任务看板，支持、等模型底座，可将传统需数周的产品规划、营销方案等任务压缩至半小时内完成。</p><hr><h2 id="阿里云开源-AI-Agent-命令行工具「阿里云百炼-CLI」"><a href="#阿里云开源-AI-Agent-命令行工具「阿里云百炼-CLI」" class="headerlink" title="阿里云开源 AI Agent 命令行工具「阿里云百炼 CLI」"></a><a href="https://mp.weixin.qq.com/s/3_CBCcARtfipa0PPxOU93g?scene=1&click_id=5">阿里云开源 AI Agent 命令行工具「阿里云百炼 CLI」</a></h2><p>正式开源，开发者仅需一行命令可让 AI Agent 自动接入阿里云百炼平台 150 余款模型、十多款应用，以及知识库、记忆、联网搜索等全套能力。阿里云百炼 CLI 专为 Agent 场景设计，支持文本、图像、视频、语音等多模态调用，原生兼容 、、 等主流 Agent 框架。</p><hr><h2 id="清华联合面壁智能开源-Agent-操作系统-PilotDeck"><a href="#清华联合面壁智能开源-Agent-操作系统-PilotDeck" class="headerlink" title="清华联合面壁智能开源 Agent 操作系统 PilotDeck"></a><a href="https://mp.weixin.qq.com/s/NlrEYXVbkssFu4ZaWTdJxg?scene=1&click_id=9">清华联合面壁智能开源 Agent 操作系统 PilotDeck</a></h2><p>面壁智能联合清华THUNLP、OpenBMB等开源智能体操作系统 ，用工作舱取代传统对话框，解决 Agent 记忆黑盒、成本失控、任务被动等痛点。系统支持记忆白盒化、智能路由（成本降70%+）及24小时 Always-on 主动运行，实现多项目并行与端云协同。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260528 AI 资讯快报</title>
       <link href="/posts/4741720888/"/>
       <url>/posts/4741720888/</url>
