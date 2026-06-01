@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260601 AI 资讯快报</title>
+      <link href="/posts/3621155282/"/>
+      <url>/posts/3621155282/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260601-AI-资讯快报"><a href="#20260601-AI-资讯快报" class="headerlink" title="20260601 AI 资讯快报"></a>20260601 AI 资讯快报</h1><blockquote><p>2026-06-01 · 实时更新</p></blockquote><h2 id="扣子-3-0-正式上线"><a href="#扣子-3-0-正式上线" class="headerlink" title="扣子 3.0 正式上线"></a><a href="https://mp.weixin.qq.com/s/Pn4N5KdIKUmIpXv7Dl3aSA">扣子 3.0 正式上线</a></h2><p>3.0 正式上线，实现 iOS、Android、Mac、Windows 及网页端全量更新。新版本定位新一代 AI 团队，核心升级多 Agent 协作与项目空间管理，用户可创建项目召集不同职能 Agent 与团队推进任务。同时支持接入 Claude Code、Codex CLI 等本地 Agent，提供云端 Agent 长期运行能力，平台内置投资顾问、自媒体达人等职业模板。</p><hr><h2 id="MiniMax-开源新一代-AI-模型-MiniMax-M3"><a href="#MiniMax-开源新一代-AI-模型-MiniMax-M3" class="headerlink" title="MiniMax 开源新一代 AI 模型 MiniMax M3"></a><a href="https://mp.weixin.qq.com/s/JbjyiXI0kP2Wlqbd-q0www">MiniMax 开源新一代 AI 模型 MiniMax M3</a></h2><p>MiniMax技推出，国内首个同时具备前沿编程能力、1M超长上下文和原生多模态能力的开源模型。在SWE-Bench Pro等国际权威评测中，M3多项指标超越等海外模型，接近领先水平。模型采用全新的MSA稀疏注意力架构，支持100万token上下文窗口，显著提升处理效率。</p><hr><h2 id="响指HaiSnap-APP正式上线"><a href="#响指HaiSnap-APP正式上线" class="headerlink" title="响指HaiSnap APP正式上线"></a><a href="https://mp.weixin.qq.com/s/JO0h1UB0rB_TreM-pReECA">响指HaiSnap APP正式上线</a></h2><p>正式上线，产品定位为移动端AI创作Agent平台。用户可通过语音、文本或上传文件发起任务，AI自动执行并生成网页应用、文档、PPT、图片等可发布成果。核心功能包括智能体工作区、我的成果库、任务回放及技能调用。</p><hr><h2 id="VAST-获近2亿美元-A-轮系列融资"><a href="#VAST-获近2亿美元-A-轮系列融资" class="headerlink" title="VAST 获近2亿美元 A 轮系列融资"></a><a href="https://mp.weixin.qq.com/s/DXgludVqcoDOvt0LxtCTQA">VAST 获近2亿美元 A 轮系列融资</a></h2><p>通用人工智能公司VAST完成A+及A++两轮近2亿美元融资，由渶策资本、国寿长三角科创基金领投，荣耀等产业方及多家一线财务资本联合投资。同时，VAST推出全新世界模型项目Project Eden，创新性地将底层状态推演与视觉呈现解耦，解锁环境长程持久、场景自由复用、多人并发交互等颠覆性能力。</p><hr><h2 id="小米开源可控视频音效生成模型-ControlFoley"><a href="#小米开源可控视频音效生成模型-ControlFoley" class="headerlink" title="小米开源可控视频音效生成模型 ControlFoley"></a><a href="https://mp.weixin.qq.com/s/BWud9NragguBe6UIHJvmPA">小米开源可控视频音效生成模型 ControlFoley</a></h2><p>小米大模型应用团队开源可控视频音效生成模型，统一支持文本引导视频配音、文本控制视频配音及参考音频控制视频配音三类任务。模型通过联合视觉编码、时间-音色解耦与模态鲁棒训练，解决现有方案文本控制弱、参考音频难同步等问题，在 VGGSound-Test 等多个 benchmark 上达到开源 SOTA 表现。</p><hr><h2 id="阿里通义推出通用具身智能统一动作框架-Qwen-VLA"><a href="#阿里通义推出通用具身智能统一动作框架-Qwen-VLA" class="headerlink" title="阿里通义推出通用具身智能统一动作框架 Qwen-VLA"></a><a href="https://mp.weixin.qq.com/s/5r6O_sBkcCnqaYIMiowbFw">阿里通义推出通用具身智能统一动作框架 Qwen-VLA</a></h2><p>通义实验室推出，以Qwen3.5-4B为底座搭配DiT动作解码器，通过统一动作轨迹预测框架、本体感知提示条件化及文本到动作预训练（T2A）技术，将操作、导航与轨迹预测整合为单一通用具身模型。模型在多项基准测试中超越专用模型，支持11种机器人平台跨本体控制。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260529 AI 资讯快报</title>
       <link href="/posts/4618783476/"/>
       <url>/posts/4618783476/</url>
