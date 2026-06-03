@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260603 AI 资讯快报</title>
+      <link href="/posts/4051468107/"/>
+      <url>/posts/4051468107/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260603-AI-资讯快报"><a href="#20260603-AI-资讯快报" class="headerlink" title="20260603 AI 资讯快报"></a>20260603 AI 资讯快报</h1><blockquote><p>2026-06-03 · 实时更新</p></blockquote><h2 id="OpenAI-发布-AI-编程智能体-Codex-三项更新"><a href="#OpenAI-发布-AI-编程智能体-Codex-三项更新" class="headerlink" title="OpenAI 发布 AI 编程智能体 Codex 三项更新"></a><a href="https://mp.weixin.qq.com/s/3nHDmHMYRCmuEuziq2P_oA">OpenAI 发布 AI 编程智能体 Codex 三项更新</a></h2><p>OpenAI宣布编程智能体三项更新：智能体插件预置6个岗位技能包，企业无需编程可部署AI员工；注释功能支持对生成内容指哪改哪精准修改；站点功能可将文档一键转为交互式网站。Codex周活跃用户已达500万，较年初增长8倍。同时OpenAI计划将Codex引入ChatGPT，支持AWS平台一键部署。</p><hr><h2 id="Windsurf-升级更名为-Devin-Desktop"><a href="#Windsurf-升级更名为-Devin-Desktop" class="headerlink" title="Windsurf 升级更名为 Devin Desktop"></a><a href="https://devin.ai/blog/windsurf-is-now-devin-desktop/">Windsurf 升级更名为 Devin Desktop</a></h2><p>Cognition 宣布 Windsurf 正式升级为，从 AI IDE 转型为 Agent 指挥中心。新版本引入 Kanban 统一管理本地与云端 Agent，新增 Spaces 实现跨 Agent 上下文共享，支持 ACP 开放协议接入 Codex、Claude Agent 等第三方 Agent。产品保留完整 IDE 能力，现有用户可通过 OTA 自动升级，实现零成本迁移。</p><hr><h2 id="微软推出七款全新-MAI-模型"><a href="#微软推出七款全新-MAI-模型" class="headerlink" title="微软推出七款全新 MAI 模型"></a><a href="https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/">微软推出七款全新 MAI 模型</a></h2><p>微软推出全新自研 MAI 模型，包括 推理模型、、MAI-Image-2.5-Flash高效版图像模型、语音模型、MAI-Voice-2-Flash高效版语音模型、语音转文本模型、及编码模型。所有模型均从零训练，无蒸馏，共享统一数据规范与评估框架。</p><hr><h2 id="千问App向第三方Agent、Skill全面开放"><a href="#千问App向第三方Agent、Skill全面开放" class="headerlink" title="千问App向第三方Agent、Skill全面开放"></a><a href="https://mp.weixin.qq.com/s/rUcQ-QxC3xmKfrK18fV0Yw">千问App向第三方Agent、Skill全面开放</a></h2><p>宣布向第三方Agent和Skill全面开放，所有企业均可在千问运营品牌Agent。肯德基、瑞幸、蜜雪冰城、东方航空等首批企业正在测试，将陆续上线。Agent具备记忆与主动规划能力，可主动提供行程提醒、权益到期、复购推荐等服务。</p><hr><h2 id="字节跳动开源统一视频生成与编辑框架-Bernini"><a href="#字节跳动开源统一视频生成与编辑框架-Bernini" class="headerlink" title="字节跳动开源统一视频生成与编辑框架 Bernini"></a><a href="https://mp.weixin.qq.com/s/3CYSuFeN6Tk2eHFMsgjxVg">字节跳动开源统一视频生成与编辑框架 Bernini</a></h2><p>字节跳动开源 统一视频生成与编辑框架。框架创新性地引入多模态大模型作为规划师，模型能理解用户意图与语义目标，再交由扩散模型进行高质量视觉渲染，大幅提升AI视频编辑的可控性。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260602 AI 资讯快报</title>
       <link href="/posts/3306603648/"/>
       <url>/posts/3306603648/</url>
