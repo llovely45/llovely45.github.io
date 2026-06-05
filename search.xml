@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260605 AI 资讯快报</title>
+      <link href="/posts/2137330510/"/>
+      <url>/posts/2137330510/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260605-AI-资讯快报"><a href="#20260605-AI-资讯快报" class="headerlink" title="20260605 AI 资讯快报"></a>20260605 AI 资讯快报</h1><blockquote><p>2026-06-05 · 实时更新</p></blockquote><h2 id="ChatGPT-推出全新的-Dreaming-记忆系统"><a href="#ChatGPT-推出全新的-Dreaming-记忆系统" class="headerlink" title="ChatGPT 推出全新的 Dreaming 记忆系统"></a><a href="https://mp.weixin.qq.com/s/TfQfVGg0VcA5kenObLk32g">ChatGPT 推出全新的 Dreaming 记忆系统</a></h2><p>OpenAI推出基于Dreaming技术的新版ChatGPT记忆系统。系统能自动整理长期对话中的用户偏好、计划等背景信息，判断信息是否过时，实现记忆的自动更新与修正，使回答更个性化。同时新功能新增可查看、编辑的记忆摘要。本次更新率先面向美国Plus和Pro用户开放，未来将逐步扩展至更多地区及免费用户。</p><hr><h2 id="腾讯推出企业级AI智能工作台WorkBuddy企业版"><a href="#腾讯推出企业级AI智能工作台WorkBuddy企业版" class="headerlink" title="腾讯推出企业级AI智能工作台WorkBuddy企业版"></a><a href="https://mp.weixin.qq.com/s/P5AtG2aD8HxXw2BSRnsaEQ">腾讯推出企业级AI智能工作台WorkBuddy企业版</a></h2><p>腾讯推出企业级AI智能工作台，面向AI原生组织转型提供7×24小时数字员工、人机协同项目模式及企业管理后台，原生接入腾讯文档、网盘与乐享，支持公有云、VPC专享及私有化部署。通过沉淀团队记忆与AI资产，将个人提效升级为组织提效。</p><hr><h2 id="阿里通义推出通用智能体评测基准-PawBench"><a href="#阿里通义推出通用智能体评测基准-PawBench" class="headerlink" title="阿里通义推出通用智能体评测基准 PawBench"></a><a href="https://mp.weixin.qq.com/s/Q1fa3KwT63HBOF2fmWKzlg">阿里通义推出通用智能体评测基准 PawBench</a></h2><p>通义实验室推出通用智能体评测基准 PawBench，首次将底座模型与运行框架（Harness）纳入联合评测。PawBench v1.0 包含 150 道真实任务、4050 个测试单元，覆盖 9 个模型与 3 个 Harness 的交叉矩阵。评测发现 Harness 性能差距最高达 6.4 分，同一模型换 Harness 分差可达 11.5 分。</p><hr><h2 id="谷歌推出本地实时-AI-音乐模型-Magenta-RealTime-2"><a href="#谷歌推出本地实时-AI-音乐模型-Magenta-RealTime-2" class="headerlink" title="谷歌推出本地实时 AI 音乐模型 Magenta RealTime 2"></a><a href="https://www.ithome.com/0/960/419.htm">谷歌推出本地实时 AI 音乐模型 Magenta RealTime 2</a></h2><p>谷歌Magenta团队推出（MRT2）本地实时音乐AI模型，包含2.4B高质量版与230M高速版，均针对Apple Silicon优化。模型采用逐帧生成架构，将延迟从3秒降至约200毫秒，支持文本、MIDI及音频风格控制。同步推出免费乐器应用Jam与DAW插件，可在Mac端实现低延迟即兴合奏。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260604 AI 资讯快报</title>
       <link href="/posts/8697293980/"/>
       <url>/posts/8697293980/</url>
