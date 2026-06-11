@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260611 AI 资讯快报</title>
+      <link href="/posts/2653644518/"/>
+      <url>/posts/2653644518/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260611-AI-资讯快报"><a href="#20260611-AI-资讯快报" class="headerlink" title="20260611 AI 资讯快报"></a>20260611 AI 资讯快报</h1><blockquote><p>2026-06-11 · 实时更新</p></blockquote><h2 id="小米开源终端-AI-编程助手-MiMo-Code"><a href="#小米开源终端-AI-编程助手-MiMo-Code" class="headerlink" title="小米开源终端 AI 编程助手 MiMo Code"></a><a href="https://mp.weixin.qq.com/s/WkMPz-eBK2Hz0ZTQEwtx6w">小米开源终端 AI 编程助手 MiMo Code</a></h2><p>小米大模型团队开源终端AI编程助手 ，内置限时免费的  模型，同时支持 DeepSeek、Kimi 等主流模型。核心特性包括独创持久记忆系统、Compose 模式实现全流程自动开发、&#x2F;dream 命令定期整理记忆，以及语音输入控制。在 SWE-Bench Pro 和 Terminal Bench 2 基准上，相同模型下表现优于 Claude Code。</p><hr><h2 id="智象未来推出商用图像生成模型-HiDream-O1-Image-1-5"><a href="#智象未来推出商用图像生成模型-HiDream-O1-Image-1-5" class="headerlink" title="智象未来推出商用图像生成模型 HiDream-O1-Image-1.5"></a><a href="https://mp.weixin.qq.com/s/I0prC7MjxYwcFWh3InBIEg">智象未来推出商用图像生成模型 HiDream-O1-Image-1.5</a></h2><p>智象未来推出商用图像生成模型，在 Artificial Analysis 文生图榜单上以 1265 ELO 位列全球第三、中国第一，仅次于 OpenAI 的 GPT Image 系列，超越 Google、NVIDIA 及字节跳动等主流模型。模型基于原生全模态架构 UiT，在语义遵循、文字渲染、复杂排版及多主体一致性上表现突出。</p><hr><h2 id="阿里秒悟Meoo推出开源命令行工具-Meoo-CLI"><a href="#阿里秒悟Meoo推出开源命令行工具-Meoo-CLI" class="headerlink" title="阿里秒悟Meoo推出开源命令行工具 Meoo CLI"></a><a href="https://mp.weixin.qq.com/s/lHIkas573yCCXa60Hn7WXA">阿里秒悟Meoo推出开源命令行工具 Meoo CLI</a></h2><p>阿里开源命令行工具，帮助本地AI编程项目一键部署上线。安装后，、、等本地Agent可通过自然语言调用云端能力，自动完成数据库接入、用户登录、文件存储、AI模型调用及项目发布，10分钟内将本地Demo变为可访问的线上应用。</p><hr><h2 id="科大讯飞推出智慧空间Agentic架构-SpaceMind"><a href="#科大讯飞推出智慧空间Agentic架构-SpaceMind" class="headerlink" title="科大讯飞推出智慧空间Agentic架构 SpaceMind"></a><a href="https://mp.weixin.qq.com/s/VTxedVFb7dEMG1vWBnrq7A">科大讯飞推出智慧空间Agentic架构 SpaceMind</a></h2><p>科大讯飞推出智慧空间Agentic架构，推动智能家居从被动响应进入L2.5主动智能时代。SpaceMind用毫米波雷达为核心感知源，实现5厘米级定位与呼吸级微动检测；采用双路由架构与本地语义模型+云端大模型协同，设备控制响应低至700毫秒。系统具备持久记忆、多Agent协作和主动服务能力，可基于用户习惯自动调节环境。</p><hr><h2 id="AI短剧协作平台-AniShort-完成近亿元融资"><a href="#AI短剧协作平台-AniShort-完成近亿元融资" class="headerlink" title="AI短剧协作平台 AniShort 完成近亿元融资"></a><a href="https://mp.weixin.qq.com/s/g-vYorFQhYlPHDPQViEsgw">AI短剧协作平台 AniShort 完成近亿元融资</a></h2><p>专注数字人与AIGC视频生成的八点八数字公司宣布，旗下AI短剧协作平台完成近亿元融资，由北京泰中合领投。本轮资金将重点用于技术研发与创作者生态建设。平台通过打通短剧创作全流程，解决行业制作成本高、周期长等痛点。</p><hr><h2 id="GUI-Agent平台Core-Mate获数千万元融资"><a href="#GUI-Agent平台Core-Mate获数千万元融资" class="headerlink" title="GUI Agent平台Core-Mate获数千万元融资"></a><a href="https://mp.weixin.qq.com/s/VfCODLKOQwlITN4rt09y-w">GUI Agent平台Core-Mate获数千万元融资</a></h2><p>GUI Agent 执行平台 Core-Mate 完成数千万元融资，由敦鸿资产独家投资。团队核心成员来自字节跳动，曾在抖音、豆包担任产品经理。Core-Mate 让 AI 真正接手网页和 App 中的真实操作，通过开源的 OpenGUI 框架融合视觉、控件树与页面状态实现稳定屏幕语义理解。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260610 AI 资讯快报</title>
       <link href="/posts/9318315788/"/>
       <url>/posts/9318315788/</url>
