@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260615 AI 资讯快报</title>
+      <link href="/posts/1993399632/"/>
+      <url>/posts/1993399632/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260615-AI-资讯快报"><a href="#20260615-AI-资讯快报" class="headerlink" title="20260615 AI 资讯快报"></a>20260615 AI 资讯快报</h1><blockquote><p>2026-06-15 · 实时更新</p></blockquote><h2 id="智谱AI推出最新旗舰开源模型-GLM-5-2"><a href="#智谱AI推出最新旗舰开源模型-GLM-5-2" class="headerlink" title="智谱AI推出最新旗舰开源模型 GLM-5.2"></a><a href="https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w">智谱AI推出最新旗舰开源模型 GLM-5.2</a></h2><p>智谱推出模型，支持1M上下文，模型长程任务领先，定位最强国产Coding模型。GLM-5.2 将面向 GLM Coding Plan 全量用户开放，覆盖 Lite &#x2F; Pro &#x2F; Max &#x2F; 团队版。GLM-5.2 API 本周将上线，同时模型也将开源，遵循 MIT 协议。</p><hr><h2 id="Kimi-K2-7-Code-高速版上线-Kimi-API-开放平台"><a href="#Kimi-K2-7-Code-高速版上线-Kimi-API-开放平台" class="headerlink" title="Kimi K2.7 Code 高速版上线 Kimi API 开放平台"></a><a href="https://mp.weixin.qq.com/s/1fAFX_UKQd7ItSknPArhMQ?scene=1">Kimi K2.7 Code 高速版上线 Kimi API 开放平台</a></h2><p>Kimi K2.7 Code 高速版，模型ID：kimi-k2.7-code-highspeed已上线 Kimi API 开放平台，输出速度达普通版 5-6 倍，定价为普通版 2 倍。 相比  在长上下文编程、token 效率上显著提升，平均 token 消耗减少 30%，基准测试性能提升 11%-31.5%。</p><hr><h2 id="大晓机器人完成天使-轮融资，已累计融资数亿美元"><a href="#大晓机器人完成天使-轮融资，已累计融资数亿美元" class="headerlink" title="大晓机器人完成天使+轮融资，已累计融资数亿美元"></a><a href="https://mp.weixin.qq.com/s/c5ulAHgSq4YYrhNuzJIBIQ">大晓机器人完成天使+轮融资，已累计融资数亿美元</a></h2><p>大晓机器人完成天使+轮融资，上半年累计融资数亿美元，达晨财智、深创投等参投。资金将投入世界模型及软硬一体解决方案。为全球首个开源量产世界模型，多项权威评测第一，支持7分钟长时序视频生成，已实现端侧部署。</p><hr><h2 id="OpenRouter-推出-Fusion-多模型智能融合服务"><a href="#OpenRouter-推出-Fusion-多模型智能融合服务" class="headerlink" title="OpenRouter 推出 Fusion 多模型智能融合服务"></a><a href="https://ai-bot.cn/openrouter-fusion/">OpenRouter 推出 Fusion 多模型智能融合服务</a></h2><p>上线  服务，通过多模型并行作答与裁判模型融合，实现高性价比智能输出。DRACO 基准显示，Gemini 3 Flash、Kimi K2.6 与 DeepSeek V4 Pro 的预算组合以半价取得 64.7% 得分，逼近  的 65.3%。该机制具备单模型故障自动替补的鲁棒性，支持 API 直接调用与自定义模型组合。</p><hr><h2 id="百度飞桨-PaddleOCR-开源第六代-OCR-模型-PP-OCRv6"><a href="#百度飞桨-PaddleOCR-开源第六代-OCR-模型-PP-OCRv6" class="headerlink" title="百度飞桨 PaddleOCR 开源第六代 OCR 模型 PP-OCRv6"></a><a href="https://mp.weixin.qq.com/s/9PIkvNXBYDkxabAun02zgg">百度飞桨 PaddleOCR 开源第六代 OCR 模型 PP-OCRv6</a></h2><p>百度飞桨正式推出，首次推出Tiny&#x2F;Small&#x2F;Medium三档模型。模型检测与识别精度较v5提升4.9%和5.1%，CPU推理速度最高达前代5.2倍。模型支持50种语言，新增电路板、数码管等工业场景，鲁棒性史上最高。模型现已上线官网并开源至GitHub和HuggingFace。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260612 AI 资讯快报</title>
       <link href="/posts/7165008522/"/>
       <url>/posts/7165008522/</url>
