@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260626 AI 资讯快报</title>
+      <link href="/posts/9721726769/"/>
+      <url>/posts/9721726769/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260626-AI-资讯快报"><a href="#20260626-AI-资讯快报" class="headerlink" title="20260626 AI 资讯快报"></a>20260626 AI 资讯快报</h1><blockquote><p>2026-06-26 · 实时更新</p></blockquote><h2 id="DeepReinforce-开源-Agentic-编程系列模型-Ornith-1-0"><a href="#DeepReinforce-开源-Agentic-编程系列模型-Ornith-1-0" class="headerlink" title="DeepReinforce 开源 Agentic 编程系列模型 Ornith-1.0"></a><a href="https://ai-bot.cn/ornith-1-0/">DeepReinforce 开源 Agentic 编程系列模型 Ornith-1.0</a></h2><p>DeepReinforce团队推出开源Agentic编程模型，基于与基座，采用自改进训练框架。模型涵盖9B至397B四种规格，在Terminal-Bench 2.1和SWE-Bench Verified基准上达到同级SOTA。旗舰397B版本得分77.5&#x2F;82.4超越Claude Opus 4.7；35B MoE版以64.4分超越Qwen 3.5-397B。</p><hr><h2 id="腾讯混元开源-4B-参数手机-Agent-模型-PhoneBuddy"><a href="#腾讯混元开源-4B-参数手机-Agent-模型-PhoneBuddy" class="headerlink" title="腾讯混元开源 4B 参数手机 Agent 模型 PhoneBuddy"></a><a href="https://mp.weixin.qq.com/s/ej8uAGXb9mmDirwVDSsI8g?scene=1&click_id=25">腾讯混元开源 4B 参数手机 Agent 模型 PhoneBuddy</a></h2><p>腾讯混元开源 4B手机Agent模型，同步推出PhoneWorld、PhoneHarness等5篇论文，系统覆盖环境、训练、执行、隐私与安全全链路。模型核心创新采用Real+Mock混合RL训练，将真实App与自建PhoneWorld mock环境结合，使4B模型在150项真机评测中多项指标超越GPT-5.4。</p><hr><h2 id="Mistral-AI-推出新一代文档识别模型-Mistral-OCR-4"><a href="#Mistral-AI-推出新一代文档识别模型-Mistral-OCR-4" class="headerlink" title="Mistral AI 推出新一代文档识别模型 Mistral OCR 4"></a><a href="https://www.ithome.com/0/968/835.htm">Mistral AI 推出新一代文档识别模型 Mistral OCR 4</a></h2><p>Mistral AI 推出最新文档识别模型，支持横跨10个语族的170种语言，在OmniDocBench基准上获得93.07分。相比GPT 5.5 Pro、Gemini 3.1 Pro Preview等竞品，模型输出更受人类青睐。模型在输出文本的同时可提供边框、区域分类和置信度评分，支持RAG语义分块等下游工作负载。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260625 AI 资讯快报</title>
       <link href="/posts/3527978577/"/>
       <url>/posts/3527978577/</url>
