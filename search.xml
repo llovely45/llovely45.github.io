@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260703 AI 资讯快报</title>
+      <link href="/posts/4738465702/"/>
+      <url>/posts/4738465702/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260703-AI-资讯快报"><a href="#20260703-AI-资讯快报" class="headerlink" title="20260703 AI 资讯快报"></a>20260703 AI 资讯快报</h1><blockquote><p>2026-07-03 · 实时更新</p></blockquote><h2 id="谷歌开源零样本表格基础模型-TabFM"><a href="#谷歌开源零样本表格基础模型-TabFM" class="headerlink" title="谷歌开源零样本表格基础模型 TabFM"></a><a href="https://ai-bot.cn/tabfm/">谷歌开源零样本表格基础模型 TabFM</a></h2><p>谷歌开源零样本表格基础模型，支持对混合数值与类别特征的结构化数据进行分类和回归，无需微调或超参数搜索。模型在数百亿合成表格数据上预训练，采用Transformer序列架构，在TabArena基准51个数据集上超越梯度提升树等强基线。</p><hr><h2 id="英伟达开源双塔架构扩散语言模型-Nemotron-Labs-TwoTower"><a href="#英伟达开源双塔架构扩散语言模型-Nemotron-Labs-TwoTower" class="headerlink" title="英伟达开源双塔架构扩散语言模型 Nemotron-Labs-TwoTower"></a><a href="https://www.ithome.com/0/972/162.htm">英伟达开源双塔架构扩散语言模型 Nemotron-Labs-TwoTower</a></h2><p>英伟达开源，基于预训练自回归骨干的离散扩散语言模型，能解决大模型Token生成速度瓶颈。模型总参数60B，采用双塔架构——30B自回归上下文塔与30B扩散去噪塔，各塔激活3B参数。上下文塔保持冻结维护自回归上下文，去噪塔负责噪声块去噪，两者通过逐层交叉注意力协作。</p><hr><h2 id="阿里全面禁用Claude"><a href="#阿里全面禁用Claude" class="headerlink" title="阿里全面禁用Claude"></a><a href="https://mp.weixin.qq.com/s/OPKdMtGNTx2gdZ3vA3G5Jw">阿里全面禁用Claude</a></h2><p>阿里巴巴内部宣布全面禁用Anthropic旗下Claude系列产品，包括Sonnet、Opus、Fable等多个系列模型，以及等Agent产品。导火索是Claude Code被曝存在植入后门的安全风险，其从2.1.91版本起内置隐蔽木马系统，通过检测本地时区和代理关键词标记中国用户。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260702 AI 资讯快报</title>
       <link href="/posts/8287690788/"/>
       <url>/posts/8287690788/</url>
