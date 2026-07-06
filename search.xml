@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260706 AI 资讯快报</title>
+      <link href="/posts/7535883951/"/>
+      <url>/posts/7535883951/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260706-AI-资讯快报"><a href="#20260706-AI-资讯快报" class="headerlink" title="20260706 AI 资讯快报"></a>20260706 AI 资讯快报</h1><blockquote><p>2026-07-06 · 实时更新</p></blockquote><h2 id="阿里推出Qoder企业版，支持企业知识库与Credits灵活分配"><a href="#阿里推出Qoder企业版，支持企业知识库与Credits灵活分配" class="headerlink" title="阿里推出Qoder企业版，支持企业知识库与Credits灵活分配"></a><a href="https://mp.weixin.qq.com/s/fCS0bMfHGjCQRE5egn263Q">阿里推出Qoder企业版，支持企业知识库与Credits灵活分配</a></h2><p>阿里云推出企业版，为企业提供提供个人云端知识库QMind，支持跨产品、跨设备、跨人员的知识共享，可整合RepoWiki、本地文件、URL等多源数据为可复用资产。同时上线资源池化Credits付费模式，企业管理员可按需动态分配额度等。安全方面覆盖传输加密、访问控制、AI运行时等五层防护，已通过ISO 27001认证。</p><hr><h2 id="美团-LongCat-2-0-开源，同步开放国产卡推理代码"><a href="#美团-LongCat-2-0-开源，同步开放国产卡推理代码" class="headerlink" title="美团 LongCat-2.0 开源，同步开放国产卡推理代码"></a><a href="https://mp.weixin.qq.com/s/5YW7Z-lufAvu-4aNZ1lVGw">美团 LongCat-2.0 开源，同步开放国产卡推理代码</a></h2><p>美团正式开源万亿参数大模型，总参数 1.6T、平均激活 48B，专为 Agentic Coding 任务设计。模型创新性引入 LongCat 稀疏注意力与 N-gram Embedding，提升长上下文处理与代码执行表现，率先在五万卡国产算力集群上完成推理验证。本次开源同步提供 BF16&#x2F;FP8&#x2F;INT8 多精度版本及国产芯片优化推理代码。</p><hr><h2 id="腾讯混元开源混合专家模型-Hy3"><a href="#腾讯混元开源混合专家模型-Hy3" class="headerlink" title="腾讯混元开源混合专家模型 Hy3"></a><a href="https://mp.weixin.qq.com/s/X2x1GF09bFbTzc3M1981BQ">腾讯混元开源混合专家模型 Hy3</a></h2><p>腾讯混元正式推出大模型，基于版本提升后训练数据质量与RL算力规模，在推理、智能体、长上下文等任务上显著进步，效果比肩参数规模2-5倍的旗舰模型。幻觉率从12.5%降至5.4%，常识错误率从25.4%降至12.7%，多轮问题率从17.4%降至7.9%。</p><hr><h2 id="阿里开源实时语音识别大模型-Fun-ASR-Realtime"><a href="#阿里开源实时语音识别大模型-Fun-ASR-Realtime" class="headerlink" title="阿里开源实时语音识别大模型 Fun-ASR-Realtime"></a><a href="https://mp.weixin.qq.com/s/Uq03C7koDBwmYtxoR8kSvA">阿里开源实时语音识别大模型 Fun-ASR-Realtime</a></h2><p>阿里正式推出升级后的实时语音识别大模型，首字延迟控制在百毫秒级别，识别准确率接近离线模型，支持16种方言和30种语言。模型具备上下文理解能力，可自我纠错；在16种方言识别测试中字符准确率平均88.62%，领先火山与腾讯相关产品。</p><hr><h2 id="商汤科技推出-SenseNova-U1-信息图增强版-V2"><a href="#商汤科技推出-SenseNova-U1-信息图增强版-V2" class="headerlink" title="商汤科技推出 SenseNova U1 信息图增强版 V2"></a><a href="https://mp.weixin.qq.com/s/GAizuC0ma5acCHrMStY3gg">商汤科技推出 SenseNova U1 信息图增强版 V2</a></h2><p>商汤日日新正式发布，模型基于8B-MoT架构实现更轻量开放的高信息密度图像生成能力。新版本核心升级小字清晰度、复杂排版结构与视觉质感，让AI生成信息图向专业设计师水准看齐。</p><hr><h2 id="生数科技推出实时交互模型-Vidu-S1"><a href="#生数科技推出实时交互模型-Vidu-S1" class="headerlink" title="生数科技推出实时交互模型 Vidu S1"></a><a href="https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ">生数科技推出实时交互模型 Vidu S1</a></h2><p>生数科技在2026全球数字经济大会推出实时交互模型。模型支持语音控制视频走向、无限时长连续互动，可达540P分辨率与25FPS流畅帧率。用户上传一张图片可创建真人、动漫或萌宠等个性化交互角色，无需建模训练。</p><hr><h2 id="Mistral-AI-开源形式化验证大模型-Leanstral-1-5"><a href="#Mistral-AI-开源形式化验证大模型-Leanstral-1-5" class="headerlink" title="Mistral AI 开源形式化验证大模型 Leanstral 1.5"></a><a href="https://ai-bot.cn/leanstral-1-5/">Mistral AI 开源形式化验证大模型 Leanstral 1.5</a></h2><p>Mistral AI 开源形式化验证大模型 ，专为 Lean 4 自动定理证明优化。模型采用 119B 参数 MoE 架构，每 token 仅激活 6.5B 参数，支持 256k 超长上下文与图文输入。在 miniF2F、PutnamBench 等数学证明基准上达到 SOTA 性能。模型已开源至 HuggingFace，支持本地部署与在线体验。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260703 AI 资讯快报</title>
       <link href="/posts/4738465702/"/>
       <url>/posts/4738465702/</url>
