@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260709 AI 资讯快报</title>
+      <link href="/posts/3648408562/"/>
+      <url>/posts/3648408562/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260709-AI-资讯快报"><a href="#20260709-AI-资讯快报" class="headerlink" title="20260709 AI 资讯快报"></a>20260709 AI 资讯快报</h1><blockquote><p>2026-07-09 · 实时更新</p></blockquote><h2 id="字节跳动推出多模态图像创作模型-Seedream-5-0-Pro"><a href="#字节跳动推出多模态图像创作模型-Seedream-5-0-Pro" class="headerlink" title="字节跳动推出多模态图像创作模型 Seedream 5.0 Pro"></a><a href="https://mp.weixin.qq.com/s/COjQ-auPvV9Cc3AFZZxzbg">字节跳动推出多模态图像创作模型 Seedream 5.0 Pro</a></h2><p>字节跳动Seed团队推出多模态图像创作模型，模型在图文匹配、文字渲染与画面美感等基础能力上全面提升，实现复杂信息可视化、交互式精准编辑、真实影像质感还原及原生多语种生成四大突破，可将数据与密集文字直接转化为专业排版，支持点选圈选等精细化操控，</p><hr><h2 id="OpenAI-推出的新一代语音模型-GPT-Live"><a href="#OpenAI-推出的新一代语音模型-GPT-Live" class="headerlink" title="OpenAI 推出的新一代语音模型 GPT-Live"></a><a href="https://mp.weixin.qq.com/s/UKbOCJcDJp9D3RSS9CTu9g">OpenAI 推出的新一代语音模型 GPT-Live</a></h2><p>OpenAI推出全新语音交互模型，支持实时同声传译与全双工对话，用户可随时插话打断。模型支持自定义推理强度，并引入深度任务委托机制，前台保持流畅语音交互的同时，后台可并行处理联网搜索、复杂推理等任务。在对话中可实时弹出天气、赛事等可视化卡片。</p><hr><h2 id="SpaceXAI推出新一代旗舰大语言模型-Grok-4-5"><a href="#SpaceXAI推出新一代旗舰大语言模型-Grok-4-5" class="headerlink" title="SpaceXAI推出新一代旗舰大语言模型 Grok 4.5"></a><a href="https://mp.weixin.qq.com/s/cSNPCSgkPhXjL7CG9ELYFQ">SpaceXAI推出新一代旗舰大语言模型 Grok 4.5</a></h2><p>SpaceXAI推出旗舰模型，采用1.5T参数MoE架构并与Cursor联合训练，性能对标Claude Opus。模型推理速度达80 TPS，编程能力在DeepSWE Bench上超越Opus 4.8，且Token效率提升4倍以上，支持50万上下文，下周将升级至百万，月底还将推出2T参数版本。</p><hr><h2 id="阿里元境推出一站式AI大模型聚合平台-JellyToken"><a href="#阿里元境推出一站式AI大模型聚合平台-JellyToken" class="headerlink" title="阿里元境推出一站式AI大模型聚合平台 JellyToken"></a><a href="https://ai-bot.cn/jellytoken/">阿里元境推出一站式AI大模型聚合平台 JellyToken</a></h2><p>阿里元境正式推出（智渲云）国内主流AI大模型一站式API聚合平台。用户仅需一个API Key可调用通义千问、DeepSeek、豆包、智谱、月之暗面等60余款国产模型，覆盖文本、图像、视频、音频四大场景。平台提供智能路由、负载均衡、Token级精准计费及正规发票等企业级能力，帮助开发者与企业降低多模型接入门槛与运维成本。</p><hr><h2 id="蚂蚁灵波开源面向具身智能的视频生成基础模型-LingBot-Video"><a href="#蚂蚁灵波开源面向具身智能的视频生成基础模型-LingBot-Video" class="headerlink" title="蚂蚁灵波开源面向具身智能的视频生成基础模型 LingBot-Video"></a><a href="https://mp.weixin.qq.com/s/EBc68E4SthOTUoy6J6pq5A">蚂蚁灵波开源面向具身智能的视频生成基础模型 LingBot-Video</a></h2><p>蚂蚁灵波科技开源，是全球首个基于MoE架构、面向具身智能的视频生成基础模型。模型总参数30B，推理时仅激活约3B，效率为同等Dense架构的3倍。团队构建了7万小时具身数据集，引入多维强化学习奖励系统，强化物理合理性与任务完成度。</p><hr><h2 id="Mistral-AI-推出具身智能导航模型-Robostral-Navigate"><a href="#Mistral-AI-推出具身智能导航模型-Robostral-Navigate" class="headerlink" title="Mistral AI 推出具身智能导航模型 Robostral Navigate"></a><a href="https://ai-bot.cn/robostral-navigate/">Mistral AI 推出具身智能导航模型 Robostral Navigate</a></h2><p>Mistral AI推出具身智能导航模型，单RGB摄像头可让机器人在复杂环境自主导航。模型参数8B，在R2R-CE未知环境测试中成功率达76.6%，超越多传感器方案。模型采用指向预测目标位置策略，结合前缀缓存技术将训练周期从数月缩至数天，通过在线强化学习持续自我改进。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260708 AI 资讯快报</title>
       <link href="/posts/5114846402/"/>
       <url>/posts/5114846402/</url>
