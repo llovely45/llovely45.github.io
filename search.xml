@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260729 AI 资讯快报</title>
+      <link href="/posts/2745080387/"/>
+      <url>/posts/2745080387/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260729-AI-资讯快报"><a href="#20260729-AI-资讯快报" class="headerlink" title="20260729 AI 资讯快报"></a>20260729 AI 资讯快报</h1><blockquote><p>2026-07-29 · 实时更新</p></blockquote><h2 id="Kimi-K3-开放模型权重、技术报告和关键-Infra-技术"><a href="#Kimi-K3-开放模型权重、技术报告和关键-Infra-技术" class="headerlink" title="Kimi K3 开放模型权重、技术报告和关键 Infra 技术"></a><a href="https://mp.weixin.qq.com/s/tryHe81IyM6nr0fBPDz72g">Kimi K3 开放模型权重、技术报告和关键 Infra 技术</a></h2><p>月之暗面正式推出模型权重、技术报告及三项关键Infra技术。Kimi K3为2.8万亿参数MoE模型，具备原生视觉理解与100万token长上下文能力，规模化效率较前代提升2.5倍。同步开源MoonEP高性能通信库、FlashKDA算子及AgentEnv沙箱系统，覆盖从训练通信到分布式RL环境的关键链路。</p><hr><h2 id="蚂蚁集团等开源多智能体搜索协作框架-SearchOS"><a href="#蚂蚁集团等开源多智能体搜索协作框架-SearchOS" class="headerlink" title="蚂蚁集团等开源多智能体搜索协作框架 SearchOS"></a><a href="https://mp.weixin.qq.com/s/kaXWvYBERJYi2uSwafQqlg">蚂蚁集团等开源多智能体搜索协作框架 SearchOS</a></h2><p>人大与蚂蚁联合推出开源多智能体搜索框架 ，能为长程复杂信息检索提供系统级协作基础设施。框架将搜索过程中的任务进度、证据关系与补全状态抽象为跨 Agent 共享的系统状态，使多个智能体能在统一调度下分工协作、避免重复与失忆。</p><hr><h2 id="微软推出首个网络安全-AI-模型-MAI-Cyber-1-Flash"><a href="#微软推出首个网络安全-AI-模型-MAI-Cyber-1-Flash" class="headerlink" title="微软推出首个网络安全 AI 模型 MAI-Cyber-1-Flash"></a><a href="https://www.ithome.com/0/982/312.htm">微软推出首个网络安全 AI 模型 MAI-Cyber-1-Flash</a></h2><p>微软 CEO 纳德拉官宣首个 AI 网络安全模型 ，在 CyberGym 基准测试中以 95.95% 的成功率超越Claude Mythos 5 和 等竞品。模型现已接入多智能体安全系统 MDASH，可高效处理约 90% 网络安全任务，与  组合后成本较现有配置降低近 50%。</p><hr><h2 id="Midjourney-推出最新-AI-图像生成模型-Midjourney-V8-2"><a href="#Midjourney-推出最新-AI-图像生成模型-Midjourney-V8-2" class="headerlink" title="Midjourney 推出最新 AI 图像生成模型 Midjourney V8.2"></a><a href="https://ai-bot.cn/midjourney-v8-2/">Midjourney 推出最新 AI 图像生成模型 Midjourney V8.2</a></h2><p>Midjourney推出图像生成模型，全面升级提示词理解、风格参考逻辑与出图稳定性，风格种子一致性、垫图融合自然度及复杂场景解析力显著增强，文字渲染精准度与东方古典意境表现达到新高度，一次出图成功率大幅提升。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260728 AI 资讯快报</title>
       <link href="/posts/2498808478/"/>
       <url>/posts/2498808478/</url>
