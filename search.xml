@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260805 AI 资讯快报</title>
+      <link href="/posts/9258575801/"/>
+      <url>/posts/9258575801/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260805-AI-资讯快报"><a href="#20260805-AI-资讯快报" class="headerlink" title="20260805 AI 资讯快报"></a>20260805 AI 资讯快报</h1><blockquote><p>2026-08-05 · 实时更新</p></blockquote><h2 id="腾讯混元推出智能体评测基准-E-Bench"><a href="#腾讯混元推出智能体评测基准-E-Bench" class="headerlink" title="腾讯混元推出智能体评测基准 E-Bench"></a><a href="https://mp.weixin.qq.com/s/5QIL92Vumz2E52Moo3wE9g">腾讯混元推出智能体评测基准 E-Bench</a></h2><p>腾讯混元联合清华AIR、东南大学推出  智能体评测基准，以王者荣耀、QQ音乐、腾讯会议为原型，构建含323个改状态任务、7.6万+数据行的全合成虚拟环境。通过信息鸿沟与工具鸿沟设计，防止模型凭记忆抄近道。E-Bench 评测了11个前沿模型平均成功率仅54.56%，最强模型Avg@3为73.79%，Pass³低于60%。</p><hr><h2 id="商汤科技与教育部教育技术与资源发展中心达成战略合作"><a href="#商汤科技与教育部教育技术与资源发展中心达成战略合作" class="headerlink" title="商汤科技与教育部教育技术与资源发展中心达成战略合作"></a><a href="https://mp.weixin.qq.com/s/vscSzRenvb9gUfGqmt27mg">商汤科技与教育部教育技术与资源发展中心达成战略合作</a></h2><p>商汤科技与教育部教育技术与资源发展中心（中央电化教育馆）签署战略合作框架协议，双方将推动AI技术在教育公共服务领域应用，促进教育技术与教学资源深度融合，赋能国家级教育服务平台智能化建设。商汤依托日日新SenseNova大模型体系与SenseCore算力基础设施，已为高校教学科研、K12教案生成等场景提供支撑。</p><hr><h2 id="商汤科技开源原生统一多模态模型-SenseNova-U1-5-Lite-Preview"><a href="#商汤科技开源原生统一多模态模型-SenseNova-U1-5-Lite-Preview" class="headerlink" title="商汤科技开源原生统一多模态模型 SenseNova U1.5-Lite-Preview"></a><a href="https://mp.weixin.qq.com/s/MPT58s9PGK0al9DqZcoDPw">商汤科技开源原生统一多模态模型 SenseNova U1.5-Lite-Preview</a></h2><p>商汤科技开源轻量级原生统一多模态模型，基于NEO-Unify架构，用仅8B-MoT参数贯通视觉理解、推理、生成与编辑。模型原生支持4K图像生成，在局部纹理、真实质感、中英文文字排版及复杂视觉指令遵循上显著提升，配套Prompt Enhance Skill降低长篇创作指令的编写门槛。</p><hr><h2 id="面壁智能开源-Stencil-全自动研究部署系统-ForgeStencil"><a href="#面壁智能开源-Stencil-全自动研究部署系统-ForgeStencil" class="headerlink" title="面壁智能开源 Stencil 全自动研究部署系统 ForgeStencil"></a><a href="https://mp.weixin.qq.com/s/0kSCYJNXE6s_E2QOX3DjYQ">面壁智能开源 Stencil 全自动研究部署系统 ForgeStencil</a></h2><p>面壁智能联合 OpenBMB 开源 ，全球首个 AI 驱动的 Stencil 全自动优化系统。ForgeStencil由 Kernel Agent 与 App Agent 双智能体协同，实现从算子研究到应用部署的全流程零人工介入。ForgeStencil 一周能完成 100 余个真实工业与科学软件的端到端优化，覆盖油气勘探、电磁仿真、医学影像等 8 大工业领域。</p><hr><h2 id="帕西尼再获10亿元战略轮融资"><a href="#帕西尼再获10亿元战略轮融资" class="headerlink" title="帕西尼再获10亿元战略轮融资"></a><a href="https://mp.weixin.qq.com/s/IK0Vhh_C5AkSUMWNGxRfCQ">帕西尼再获10亿元战略轮融资</a></h2><p>帕西尼再获10亿元战略轮融资，累计融资35亿元，创全球触觉感知领域最高纪录。本轮由全球消费电子与半导体万亿级巨头、中银国际投资、鲲鹏基金等联合领投，老股东持续加码。帕西尼以全栈自研具身感知技术为核心，定位Physical AI时代物理交互数据基础设施，年芯片消耗量逼近100万颗，商业化与全球化布局加速推进。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260804 AI 资讯快报</title>
       <link href="/posts/9766755389/"/>
       <url>/posts/9766755389/</url>
