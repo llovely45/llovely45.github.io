@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260811 AI 资讯快报</title>
+      <link href="/posts/3991651777/"/>
+      <url>/posts/3991651777/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260811-AI-资讯快报"><a href="#20260811-AI-资讯快报" class="headerlink" title="20260811 AI 资讯快报"></a>20260811 AI 资讯快报</h1><blockquote><p>2026-08-11 · 实时更新</p></blockquote><h2 id="阿里推出一站式-AI-语音平台-CosyVoice-Studio"><a href="#阿里推出一站式-AI-语音平台-CosyVoice-Studio" class="headerlink" title="阿里推出一站式 AI 语音平台 CosyVoice Studio"></a><a href="https://mp.weixin.qq.com/s/gPNaYOV4zvJqA5Xgs0jLGg">阿里推出一站式 AI 语音平台 CosyVoice Studio</a></h2><p>阿里巴巴推出国内首个一站式AI语音平台，基于自研 Qwen-Audio 模型，集成语音记录 CosyFlow 、语音智能体 CosyAgent 和音频创作 CosyCreative 三大模块。CosyFlow支持语音转写叠加语义理解并生成结构化文本，CosyAgent可通过自然语言快速创建实时语音交互智能体，CosyCreative支持上传文档生成播客与多角色有声书。</p><hr><h2 id="英伟达开源自动驾驶-AI-推理模型-Alpamayo-2-Super"><a href="#英伟达开源自动驾驶-AI-推理模型-Alpamayo-2-Super" class="headerlink" title="英伟达开源自动驾驶 AI 推理模型 Alpamayo 2 Super"></a><a href="https://ai-bot.cn/alpamayo-2-super/">英伟达开源自动驾驶 AI 推理模型 Alpamayo 2 Super</a></h2><p>NVIDIA推出智能汽车开放模型，基于Cosmos 3 Super Reasoner构建并采用OpenMDW 1.1商业许可，支持商用与微调。模型在LingoQA等辅助驾驶基准测试中排名第一，可输出轨迹规划、因果推理、元动作、自动标注及视觉问答五类结果，决策过程透明可验证。</p><hr><h2 id="Cloudflare-推出-AI-Agent-云端轻量浏览器-Kitesurf"><a href="#Cloudflare-推出-AI-Agent-云端轻量浏览器-Kitesurf" class="headerlink" title="Cloudflare 推出 AI Agent 云端轻量浏览器 Kitesurf"></a><a href="https://www.ithome.com/0/987/374.htm">Cloudflare 推出 AI Agent 云端轻量浏览器 Kitesurf</a></h2><p>Cloudflare 推出，专为 AI 智能体打造的云端浏览器，基于 Workers 平台运行，支持浏览网页与填写表单，较 Chromium 更省计算资源显著降低运行成本，同时针对 AI 特性优化上下文窗口与性能表现，防范提示词注入攻击，目前 Kitesurf 处于测试阶段，正式版将在未来推出。</p><hr><h2 id="腾讯混元团队推出-3D-世界生成框架-WorldClaw"><a href="#腾讯混元团队推出-3D-世界生成框架-WorldClaw" class="headerlink" title="腾讯混元团队推出 3D 世界生成框架 WorldClaw"></a><a href="https://ai-bot.cn/worldclaw/">腾讯混元团队推出 3D 世界生成框架 WorldClaw</a></h2><p>腾讯混元3D研究团队推出 ，基于 Agent 的 3D 开放世界生成框架。框架能将一句开放式文本提示转化为可探索、可编辑的完整 3D 世界，在保持全局地形连贯性的同时，按需为局部区域生成丰富细节。WorldClaw 将地形与每个对象作为独立可编辑实例输出，支持自由视角漫游、对象级编辑及游戏引擎直接接入。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260808 AI 资讯快报</title>
       <link href="/posts/7081176875/"/>
       <url>/posts/7081176875/</url>
