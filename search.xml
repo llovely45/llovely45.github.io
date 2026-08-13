@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260813 AI 资讯快报</title>
+      <link href="/posts/9566407113/"/>
+      <url>/posts/9566407113/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260813-AI-资讯快报"><a href="#20260813-AI-资讯快报" class="headerlink" title="20260813 AI 资讯快报"></a>20260813 AI 资讯快报</h1><blockquote><p>2026-08-13 · 实时更新</p></blockquote><h2 id="Manus-恢复独立公司运营"><a href="#Manus-恢复独立公司运营" class="headerlink" title="Manus 恢复独立公司运营"></a><a href="https://mp.weixin.qq.com/s/h4Kd0nlOiz1TIZwOlXc6IQ">Manus 恢复独立公司运营</a></h2><p>宣布脱离恢复独立运营。Manus去年12月被 Meta 用超20亿美元收购，因跨境监管审查，双方重新调整架构。Manus要求部分用户在8月23日前备份数据，8月25日恢复服务，受影响的用户过渡期间不被收取任何费用并提供回归奖励。</p><hr><h2 id="Bilibili-开源工业级零样本语音克隆模型-IndexTTS-2-5"><a href="#Bilibili-开源工业级零样本语音克隆模型-IndexTTS-2-5" class="headerlink" title="Bilibili 开源工业级零样本语音克隆模型 IndexTTS-2.5"></a><a href="https://ai-bot.cn/indextts-2-5/">Bilibili 开源工业级零样本语音克隆模型 IndexTTS-2.5</a></h2><p>Bilibili 开源工业级零样本语音克隆模型，参数量仅 0.8B，支持中、英、日、西、阿五种语言跨语种迁移。模型重构了推理架构，速度提升 2.28 倍，实时率低至 0.20，同时支持 0.5x 至 2.0x 无级语速调节，提供拼音、CMU 音素和日语假名三种粒度的发音干预。</p><hr><h2 id="豆包推出学生特惠活动"><a href="#豆包推出学生特惠活动" class="headerlink" title="豆包推出学生特惠活动"></a><a href="https://mp.weixin.qq.com/s/pKPnSaV-QmrMAcyi31Eq1A">豆包推出学生特惠活动</a></h2><p>推出学生特惠活动，面向在校大学生提供2.5倍免费额度及专业版特惠价，辅助科研、创作等复杂学习任务。用户可通过豆包电脑端发送”我要领取学生优惠”完成认证，或在设置界面通过抖音账号认证获取权益。</p><hr><h2 id="微软推出编程模型-MAI-Code-1-1-Flash"><a href="#微软推出编程模型-MAI-Code-1-1-Flash" class="headerlink" title="微软推出编程模型 MAI-Code-1.1-Flash"></a><a href="https://www.ithome.com/0/988/715.htm">微软推出编程模型 MAI-Code-1.1-Flash</a></h2><p>微软推出升级版编程模型 ，代码能力显著提升：模型在 Terminal-Bench 2.1 测试中的表现提升 22%，.NET 任务提升 15%，并新增原生视觉能力。新模型 Token 生成速度提升 25%、消耗减少 25%，价格降至初代四分之一。目前已陆续登陆 VS Code、 等 Copilot 平台，旧版将于 2026 年 9 月 10 日全面停用。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260812 AI 资讯快报</title>
       <link href="/posts/5382694731/"/>
       <url>/posts/5382694731/</url>
