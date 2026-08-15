@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260815 AI 资讯快报</title>
+      <link href="/posts/9382444771/"/>
+      <url>/posts/9382444771/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260815-AI-资讯快报"><a href="#20260815-AI-资讯快报" class="headerlink" title="20260815 AI 资讯快报"></a>20260815 AI 资讯快报</h1><blockquote><p>2026-08-15 · 实时更新</p></blockquote><h2 id="谷歌推出最新主力模型-Gemini-3-7-Flash"><a href="#谷歌推出最新主力模型-Gemini-3-7-Flash" class="headerlink" title="谷歌推出最新主力模型 Gemini 3.7 Flash"></a><a href="https://www.ithome.com/0/989/497.htm">谷歌推出最新主力模型 Gemini 3.7 Flash</a></h2><p>谷歌推出模型，专为编程与Agents场景设计。模型在软件工程、知识工作及网页开发等方面大幅提升。即日起至2026年底，首发优惠价仅为3.6 Flash原价的一半：输入每百万Token 0.75美元，输出3.75美元。已接入该模型，优化Workspace工具使用能力。</p><hr><h2 id="智谱推出最新-AI-大模型-GLM-5-3"><a href="#智谱推出最新-AI-大模型-GLM-5-3" class="headerlink" title="智谱推出最新 AI 大模型 GLM-5.3"></a><a href="https://mp.weixin.qq.com/s/JdBx3B12L7Mhxruf4Nfr4g">智谱推出最新 AI 大模型 GLM-5.3</a></h2><p>智谱推出，基座未变但通过后训练Scaling大幅提升智能上界，成为当前编程能力最强的开源模型，在Terminal Bench 3.0等多项基准测试中取得开源第一。模型同时涌现出强大的网络安全能力，在代码审查与漏洞发现等任务中表现突出。智谱联合多家安全团队累计发现2436个漏洞，并启动”开源的盾”计划。</p><hr><h2 id="MiniMax-开源音乐模型-MiniMax-Music3"><a href="#MiniMax-开源音乐模型-MiniMax-Music3" class="headerlink" title="MiniMax 开源音乐模型 MiniMax-Music3"></a><a href="https://www.ithome.com/0/989/722.htm">MiniMax 开源音乐模型 MiniMax-Music3</a></h2><p>MiniMax 开源音乐模型，支持歌词生成最长 5 分钟歌曲。模型采用分层架构：8B 全局模型负责长程语义与结构，0.6B 局部模型恢复细粒度声学信息。MiniMax-Music3输出 32kHz 立体声 WAV，可保持主题、节奏、歌声身份及编曲推进，覆盖前奏、主歌、副歌等结构。</p><hr><h2 id="小红书开源多模态-MoE-模型-dots3-note-preview"><a href="#小红书开源多模态-MoE-模型-dots3-note-preview" class="headerlink" title="小红书开源多模态 MoE 模型 dots3-note preview"></a><a href="https://mp.weixin.qq.com/s/C02ISl4t6rBzVOyyBKTqpw">小红书开源多模态 MoE 模型 dots3-note preview</a></h2><p>小红书 dots 模型实验室开源 ，为 dots3 系列首个开源版本。模型总参数 280B、激活参数 16B，支持 512K 超长上下文，具备文本、视觉与语音多模态理解能力，针对复杂推理、Agent 和多模态感知优化。模型在多项 benchmark 上可比肩参数数倍的大模型。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260814 AI 资讯快报</title>
       <link href="/posts/4464055635/"/>
       <url>/posts/4464055635/</url>
