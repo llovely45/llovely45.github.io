@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>20260820 AI 资讯快报</title>
+      <link href="/posts/1617421708/"/>
+      <url>/posts/1617421708/</url>
+      
+        <content type="html"><![CDATA[<h1 id="20260820-AI-资讯快报"><a href="#20260820-AI-资讯快报" class="headerlink" title="20260820 AI 资讯快报"></a>20260820 AI 资讯快报</h1><blockquote><p>2026-08-20 · 实时更新</p></blockquote><h2 id="智谱-GLM-5-3-API-即日起正式上线"><a href="#智谱-GLM-5-3-API-即日起正式上线" class="headerlink" title="智谱 GLM-5.3 API 即日起正式上线"></a><a href="https://mp.weixin.qq.com/s/G9sMhRdH7rywdSmzBHA4Cg">智谱 GLM-5.3 API 即日起正式上线</a></h2><p>智谱 API正式上线，擅长复杂编码、网络安全及长程任务。在AA综合智能指数中获60分，与、等闭源旗舰同档，与并列开源模型第一。GLM-5.3以更小的参数规模和最低的单任务成本达到前沿水平，定价与上一代持平，模型权重将于下周五开源。目前已接入等编码平台，并开放API调用。</p><hr><h2 id="微软开源-4B-参数多模态模型家族-Mage"><a href="#微软开源-4B-参数多模态模型家族-Mage" class="headerlink" title="微软开源 4B 参数多模态模型家族 Mage"></a><a href="https://ai-bot.cn/microsoft-mage/">微软开源 4B 参数多模态模型家族 Mage</a></h2><p>微软开源4B参数多模态模型家族，包含流式视频&#x2F;图像理解模型 Mage-VL 与图像生成与编辑模型 Mage-Flow。Mage-VL采用Codec-Native编码，视觉Token减少75%，视频推理提速3.5倍，支持实时流式理解。Mage-Flow支持512-2048任意原生分辨率文生图与指令编辑，Turbo版仅需4步采样，A100单卡0.6秒出图。</p><hr><h2 id="字节跳动推出扣子桌面端"><a href="#字节跳动推出扣子桌面端" class="headerlink" title="字节跳动推出扣子桌面端"></a><a href="https://mp.weixin.qq.com/s/9Kods-auxnMj__emtsZSCQ">字节跳动推出扣子桌面端</a></h2><p>正式上线，让 Agent 从网页走进本地电脑。用户授权后，Agent 可直接读写本地文件、执行命令、管理项目，自动将结果存回指定位置。同时推出扣子云盘，实现本地与云端文件随时接力，支持多 Agent 共享协作。手机 App 可远程遥控桌面端 Agent 处理电脑文件。</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资讯 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> 资讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>20260819 AI 资讯快报</title>
       <link href="/posts/8217304300/"/>
       <url>/posts/8217304300/</url>
